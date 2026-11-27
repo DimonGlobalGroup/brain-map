@@ -1,0 +1,1043 @@
+{
+ "shard": "robotics-library",
+ "slim": [
+  {
+   "n": "kornia/kornia",
+   "t": "discovered",
+   "s": 12431,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "BehaviorTree/BehaviorTree.CPP",
+   "t": "discovered",
+   "s": 4318,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "introlab/rtabmap",
+   "t": "discovered",
+   "s": 4129,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "lightly-ai/lightly",
+   "t": "discovered",
+   "s": 3835,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "borglab/gtsam",
+   "t": "discovered",
+   "s": 3808,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "pytorch/rl",
+   "t": "discovered",
+   "s": 3640,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ANYbotics/grid_map",
+   "t": "discovered",
+   "s": 3277,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "facebookresearch/habitat-lab",
+   "t": "discovered",
+   "s": 3194,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "projectchrono/chrono",
+   "t": "discovered",
+   "s": 3174,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "jslee02/awesome-robotics-libraries",
+   "t": "discovered",
+   "s": 3124,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "NxRLab/ModernRobotics",
+   "t": "discovered",
+   "s": 3087,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "simbody/simbody",
+   "t": "discovered",
+   "s": 2574,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "MIT-SPARK/TEASER-plusplus",
+   "t": "discovered",
+   "s": 2371,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "google-deepmind/mujoco_playground",
+   "t": "discovered",
+   "s": 2350,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ompl/ompl",
+   "t": "discovered",
+   "s": 2211,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "facebookresearch/theseus",
+   "t": "discovered",
+   "s": 2064,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "NVlabs/curobo",
+   "t": "discovered",
+   "s": 2049,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "fan-ziqi/robot_lab",
+   "t": "discovered",
+   "s": 1991,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "norlab-ulaval/libpointmatcher",
+   "t": "discovered",
+   "s": 1847,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "artivis/manif",
+   "t": "discovered",
+   "s": 1828,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ethz-adrl/control-toolbox",
+   "t": "discovered",
+   "s": 1728,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ethz-asl/voxblox",
+   "t": "discovered",
+   "s": 1690,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "pypose/pypose",
+   "t": "discovered",
+   "s": 1622,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "robocorp/rpaframework",
+   "t": "discovered",
+   "s": 1586,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ahundt/awesome-robotics",
+   "t": "discovered",
+   "s": 1531,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "robotframework/SeleniumLibrary",
+   "t": "discovered",
+   "s": 1479,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "gradslam/gradslam",
+   "t": "discovered",
+   "s": 1424,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "erwincoumans/tiny-differentiable-simulator",
+   "t": "discovered",
+   "s": 1384,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "nvidia-isaac/nvblox",
+   "t": "discovered",
+   "s": 1351,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "loco-3d/crocoddyl",
+   "t": "discovered",
+   "s": 1335,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "roboticslibrary/rl",
+   "t": "discovered",
+   "s": 1212,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "koalazak/dorita980",
+   "t": "discovered",
+   "s": 1211,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "Toni-SM/skrl",
+   "t": "discovered",
+   "s": 1105,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "ethz-adrl/towr",
+   "t": "discovered",
+   "s": 1089,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "rl-tools/rl-tools",
+   "t": "discovered",
+   "s": 1057,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "whoenig/libMultiRobotPlanning",
+   "t": "discovered",
+   "s": 1050,
+   "w": "answering",
+   "sh": "robotics-library"
+  },
+  {
+   "n": "Phylliade/ikpy",
+   "t": "discovered",
+   "s": 1041,
+   "w": "answering",
+   "sh": "robotics-library"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "kornia/kornia",
+   "does": "\ud83d\udc0d Geometric Computer Vision Library for Spatial AI",
+   "url": "https://github.com/kornia/kornia",
+   "stars": 12431,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "BehaviorTree/BehaviorTree.CPP",
+   "does": "Behavior Trees Library in C++. Batteries included.",
+   "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+   "stars": 4318,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "introlab/rtabmap",
+   "does": "RTAB-Map library and standalone application",
+   "url": "https://github.com/introlab/rtabmap",
+   "stars": 4129,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "lightly-ai/lightly",
+   "does": "A python library for self-supervised learning and latent world models on images.",
+   "url": "https://github.com/lightly-ai/lightly",
+   "stars": 3835,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "borglab/gtsam",
+   "does": "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying co",
+   "url": "https://github.com/borglab/gtsam",
+   "stars": 3808,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "pytorch/rl",
+   "does": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.",
+   "url": "https://github.com/pytorch/rl",
+   "stars": 3640,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ANYbotics/grid_map",
+   "does": "Universal grid map library for mobile robotic mapping",
+   "url": "https://github.com/ANYbotics/grid_map",
+   "stars": 3277,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "facebookresearch/habitat-lab",
+   "does": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+   "url": "https://github.com/facebookresearch/habitat-lab",
+   "stars": 3194,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "projectchrono/chrono",
+   "does": "High-performance C++ library for multiphysics and multibody dynamics simulations",
+   "url": "https://github.com/projectchrono/chrono",
+   "stars": 3174,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "jslee02/awesome-robotics-libraries",
+   "does": ":sunglasses: A curated list of robotics libraries and software",
+   "url": "https://github.com/jslee02/awesome-robotics-libraries",
+   "stars": 3124,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "NxRLab/ModernRobotics",
+   "does": "Modern Robotics: Mechanics, Planning, and Control Code Library --- The primary purpose of the provided software is to be easy to read and educational, reinforci",
+   "url": "https://github.com/NxRLab/ModernRobotics",
+   "stars": 3087,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "simbody/simbody",
+   "does": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human ske",
+   "url": "https://github.com/simbody/simbody",
+   "stars": 2574,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "MIT-SPARK/TEASER-plusplus",
+   "does": "A fast and robust point cloud registration library",
+   "url": "https://github.com/MIT-SPARK/TEASER-plusplus",
+   "stars": 2371,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "google-deepmind/mujoco_playground",
+   "does": "An open-source library for sim and real robot demos curated by the MuJoCo team.",
+   "url": "https://github.com/google-deepmind/mujoco_playground",
+   "stars": 2350,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ompl/ompl",
+   "does": "The Open Motion Planning Library (OMPL)",
+   "url": "https://github.com/ompl/ompl",
+   "stars": 2211,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "facebookresearch/theseus",
+   "does": "A library for differentiable nonlinear optimization",
+   "url": "https://github.com/facebookresearch/theseus",
+   "stars": 2064,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "NVlabs/curobo",
+   "does": "CUDA Accelerated Robot Library",
+   "url": "https://github.com/NVlabs/curobo",
+   "stars": 2049,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "fan-ziqi/robot_lab",
+   "does": "RL Extension Library for Robots, Based on IsaacLab.",
+   "url": "https://github.com/fan-ziqi/robot_lab",
+   "stars": 1991,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "norlab-ulaval/libpointmatcher",
+   "does": "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics",
+   "url": "https://github.com/norlab-ulaval/libpointmatcher",
+   "stars": 1847,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "artivis/manif",
+   "does": "A small C++11 header-only library for Lie theory.",
+   "url": "https://github.com/artivis/manif",
+   "stars": 1828,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ethz-adrl/control-toolbox",
+   "does": "The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control",
+   "url": "https://github.com/ethz-adrl/control-toolbox",
+   "stars": 1728,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ethz-asl/voxblox",
+   "does": "A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.",
+   "url": "https://github.com/ethz-asl/voxblox",
+   "stars": 1690,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "pypose/pypose",
+   "does": "A library for differentiable robotics on manifolds.",
+   "url": "https://github.com/pypose/pypose",
+   "stars": 1622,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "robocorp/rpaframework",
+   "does": "Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python",
+   "url": "https://github.com/robocorp/rpaframework",
+   "stars": 1586,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ahundt/awesome-robotics",
+   "does": "A curated list of awesome links and software libraries that are useful for robots.",
+   "url": "https://github.com/ahundt/awesome-robotics",
+   "stars": 1531,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "robotframework/SeleniumLibrary",
+   "does": "Web testing library for Robot Framework",
+   "url": "https://github.com/robotframework/SeleniumLibrary",
+   "stars": 1479,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "gradslam/gradslam",
+   "does": "gradslam is an open source differentiable dense SLAM library for PyTorch",
+   "url": "https://github.com/gradslam/gradslam",
+   "stars": 1424,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "erwincoumans/tiny-differentiable-simulator",
+   "does": "Tiny Differentiable Simulator is a header-only C++ and CUDA physics library for reinforcement learning and robotics with zero dependencies.",
+   "url": "https://github.com/erwincoumans/tiny-differentiable-simulator",
+   "stars": 1384,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "nvidia-isaac/nvblox",
+   "does": "A GPU-accelerated TSDF and ESDF library for robots equipped with RGB-D cameras.",
+   "url": "https://github.com/nvidia-isaac/nvblox",
+   "stars": 1351,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "loco-3d/crocoddyl",
+   "does": "Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP",
+   "url": "https://github.com/loco-3d/crocoddyl",
+   "stars": 1335,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "roboticslibrary/rl",
+   "does": "The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control.",
+   "url": "https://github.com/roboticslibrary/rl",
+   "stars": 1212,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "koalazak/dorita980",
+   "does": "Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot",
+   "url": "https://github.com/koalazak/dorita980",
+   "stars": 1211,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "Toni-SM/skrl",
+   "does": "Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground a",
+   "url": "https://github.com/Toni-SM/skrl",
+   "stars": 1105,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "ethz-adrl/towr",
+   "does": "A light-weight, Eigen-based C++ library for trajectory optimization for legged robots.",
+   "url": "https://github.com/ethz-adrl/towr",
+   "stars": 1089,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "rl-tools/rl-tools",
+   "does": "The Fastest Deep Reinforcement Learning Library",
+   "url": "https://github.com/rl-tools/rl-tools",
+   "stars": 1057,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "whoenig/libMultiRobotPlanning",
+   "does": "Library with search algorithms for task and path planning for multi robot/agent systems",
+   "url": "https://github.com/whoenig/libMultiRobotPlanning",
+   "stars": 1050,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  },
+  {
+   "node": "Phylliade/ikpy",
+   "does": "IKPy, an Universal Inverse Kinematics library",
+   "url": "https://github.com/Phylliade/ikpy",
+   "stars": 1041,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: robotics library"
+  }
+ ]
+}

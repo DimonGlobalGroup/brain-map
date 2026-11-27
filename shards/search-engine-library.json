@@ -1,5 +1,28 @@
 {
  "shard": "search-engine-library",
+ "slim": [
+  {
+   "n": "quickwit-oss/tantivy",
+   "t": "discovered",
+   "s": 16487,
+   "w": "answering",
+   "sh": "search-engine-library"
+  },
+  {
+   "n": "OpenGenus/cosmos",
+   "t": "discovered",
+   "s": 13749,
+   "w": "answering",
+   "sh": "search-engine-library"
+  },
+  {
+   "n": "spyglass-search/spyglass",
+   "t": "discovered",
+   "s": 2716,
+   "w": "answering",
+   "sh": "search-engine-library"
+  }
+ ],
  "nodes": [
   {
    "node": "quickwit-oss/tantivy",
