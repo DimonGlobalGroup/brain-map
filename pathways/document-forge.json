@@ -1,0 +1,26 @@
+{
+ "pathway": "document-forge",
+ "name": "Document Forge",
+ "purpose": "Take data in, hand back a finished PDF.",
+ "when": "Forms, reports, letters: anything that ends as a document.",
+ "steps": [
+  {
+   "node": "github:Hopding/pdf-lib",
+   "role": "assemble",
+   "in": "data",
+   "out": "pdf-draft"
+  },
+  {
+   "node": "github:pdfme/pdfme",
+   "role": "template",
+   "in": "pdf-draft",
+   "out": "pdf-draft"
+  },
+  {
+   "node": "github:QuestPDF/QuestPDF",
+   "role": "render",
+   "in": "pdf-draft",
+   "out": "pdf"
+  }
+ ]
+}

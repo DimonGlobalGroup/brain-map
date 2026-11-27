@@ -1,0 +1,26 @@
+{
+ "pathway": "voice-loop",
+ "name": "Voice Loop",
+ "purpose": "Hear speech, think, answer out loud.",
+ "when": "A voice interface needs ears, a brain, and a mouth.",
+ "steps": [
+  {
+   "node": "github:ufal/whisper_streaming",
+   "role": "ears",
+   "in": "audio",
+   "out": "text"
+  },
+  {
+   "node": "github:vllm-project/vllm",
+   "role": "brain",
+   "in": "text",
+   "out": "text"
+  },
+  {
+   "node": "github:coqui-ai/TTS",
+   "role": "mouth",
+   "in": "text",
+   "out": "audio"
+  }
+ ]
+}

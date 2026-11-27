@@ -1,0 +1,31 @@
+{
+ "pathway": "bridge-walk",
+ "name": "Bridge Walk",
+ "purpose": "Start at a web service, cross its bridge to the source repo behind it, and bring the repo into the graph.",
+ "when": "A web node names a repo the GitHub layer has not crawled yet.",
+ "walked": {
+  "date": "2026-11-26",
+  "by": "bridge crawl (crawler/bridge_crawl.py)",
+  "outcome": "285 of 286 bridges landed; the walked example below is the moved repo, resolved to APIs-guru/aws2openapi"
+ },
+ "steps": [
+  {
+   "node": "web:amazonaws.com:acm",
+   "role": "start-at-a-service",
+   "in": "need",
+   "out": "contract"
+  },
+  {
+   "node": "github:APIs-guru/aws2openapi",
+   "role": "cross-to-source",
+   "in": "contract",
+   "out": "repo"
+  },
+  {
+   "node": "github:DimonGlobalGroup/brain-map",
+   "role": "register",
+   "in": "repo",
+   "out": "graph-node"
+  }
+ ]
+}

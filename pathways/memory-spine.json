@@ -1,0 +1,26 @@
+{
+ "pathway": "memory-spine",
+ "name": "Memory Spine",
+ "purpose": "Turn text into recall: embed it, store it, fetch it back by meaning.",
+ "when": "Anything that must remember and retrieve, not just answer.",
+ "steps": [
+  {
+   "node": "github:vllm-project/vllm",
+   "role": "embed",
+   "in": "text",
+   "out": "vectors"
+  },
+  {
+   "node": "github:milvus-io/milvus",
+   "role": "store-and-recall",
+   "in": "vectors",
+   "out": "vectors"
+  },
+  {
+   "node": "github:redis/redis",
+   "role": "hot-cache",
+   "in": "vectors",
+   "out": "text"
+  }
+ ]
+}

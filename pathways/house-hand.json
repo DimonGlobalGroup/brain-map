@@ -1,0 +1,26 @@
+{
+ "pathway": "house-hand",
+ "name": "House Hand",
+ "purpose": "The house senses something, decides, and speaks or acts.",
+ "when": "Home automation with a brain in the loop instead of fixed rules.",
+ "steps": [
+  {
+   "node": "github:home-assistant/core",
+   "role": "senses-and-hands",
+   "in": "house-events",
+   "out": "text"
+  },
+  {
+   "node": "github:vllm-project/vllm",
+   "role": "decide",
+   "in": "text",
+   "out": "text"
+  },
+  {
+   "node": "github:coqui-ai/TTS",
+   "role": "voice",
+   "in": "text",
+   "out": "audio"
+  }
+ ]
+}
