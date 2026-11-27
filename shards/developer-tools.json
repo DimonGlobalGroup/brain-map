@@ -1,0 +1,2779 @@
+{
+ "shard": "developer-tools",
+ "slim": [
+  {
+   "n": "chipsalliance/verible",
+   "t": "discovered",
+   "s": 1981,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "XiaomingX/indie-hacker-tools-plus",
+   "t": "discovered",
+   "s": 1966,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "stacks-archive/sbtc-developer-release",
+   "t": "discovered",
+   "s": 1942,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "rapi-doc/RapiDoc",
+   "t": "discovered",
+   "s": 1918,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "rojo-rbx/rojo",
+   "t": "discovered",
+   "s": 1917,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "agamm/awesome-developer-first",
+   "t": "discovered",
+   "s": 1900,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "microsoft/responsible-ai-toolbox",
+   "t": "discovered",
+   "s": 1862,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "nette/tracy",
+   "t": "discovered",
+   "s": 1835,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Serverless-Devs/Serverless-Devs",
+   "t": "discovered",
+   "s": 1830,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "LeoMobileDeveloper/ios-developer-tools",
+   "t": "discovered",
+   "s": 1797,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "johnbillion/query-monitor",
+   "t": "discovered",
+   "s": 1782,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "DataTalksClub/ai-dev-tools-zoomcamp",
+   "t": "discovered",
+   "s": 1775,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "microsoft/rnx-kit",
+   "t": "discovered",
+   "s": 1740,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "flutter/devtools",
+   "t": "discovered",
+   "s": 1736,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "gdamdam/awesome-decentralized-web",
+   "t": "discovered",
+   "s": 1728,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "gabotechs/dep-tree",
+   "t": "discovered",
+   "s": 1726,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "KusionStack/karpor",
+   "t": "discovered",
+   "s": 1723,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "open-saas-directory/awesome-native-macosx-apps",
+   "t": "discovered",
+   "s": 1708,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "aws/aws-lambda-dotnet",
+   "t": "discovered",
+   "s": 1664,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "miripiruni/frontdesk",
+   "t": "discovered",
+   "s": 1619,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "cyberark/FuzzyAI",
+   "t": "discovered",
+   "s": 1616,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Moddable-OpenSource/moddable",
+   "t": "discovered",
+   "s": 1575,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "apollographql/apollo-client-devtools",
+   "t": "discovered",
+   "s": 1526,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "mirego/accent",
+   "t": "discovered",
+   "s": 1494,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "superstreamerapp/superstreamer",
+   "t": "discovered",
+   "s": 1458,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "netz98/n98-magerun",
+   "t": "discovered",
+   "s": 1425,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "0xProject/0x-monorepo",
+   "t": "discovered",
+   "s": 1406,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "open-source-labs/PreVue",
+   "t": "discovered",
+   "s": 1394,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "eko/monday",
+   "t": "discovered",
+   "s": 1374,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "marcelscruz/dev-resources",
+   "t": "discovered",
+   "s": 1373,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "nickjj/dotfriedrice",
+   "t": "discovered",
+   "s": 1362,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "igorbarinov/awesome-bitcoin",
+   "t": "discovered",
+   "s": 1357,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "phalcon/phalcon-devtools",
+   "t": "discovered",
+   "s": 1321,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "ml-tooling/best-of-python-dev",
+   "t": "discovered",
+   "s": 1321,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "dbukowski/DBDebugToolkit",
+   "t": "discovered",
+   "s": 1276,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "ubuntu/ubuntu-make",
+   "t": "discovered",
+   "s": 1239,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "bcoe/awesome-cross-platform-nodejs",
+   "t": "discovered",
+   "s": 1213,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "ksdme/ut",
+   "t": "discovered",
+   "s": 1209,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "6174/comflowy",
+   "t": "discovered",
+   "s": 1204,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "scalatest/scalatest",
+   "t": "discovered",
+   "s": 1170,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "MagicFoundation/Alcinoe",
+   "t": "discovered",
+   "s": 1135,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "felangel/mason",
+   "t": "discovered",
+   "s": 1134,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "mathiasbynens/mothereff.in",
+   "t": "discovered",
+   "s": 1118,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "krzysztofzablocki/KZFileWatchers",
+   "t": "discovered",
+   "s": 1109,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "sideeffects/GameDevelopmentToolset",
+   "t": "discovered",
+   "s": 1101,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "109021017/android-TopActivity",
+   "t": "discovered",
+   "s": 1091,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "simoninithomas/awesome-ai-tools-for-game-dev",
+   "t": "discovered",
+   "s": 1070,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "NV/chrome-devtools-autosave",
+   "t": "discovered",
+   "s": 1045,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "vision5/ngx_devel_kit",
+   "t": "discovered",
+   "s": 1028,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "CelaDaniel/free-ai-resources-x",
+   "t": "discovered",
+   "s": 1018,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "rupali-codes/LinksHub",
+   "t": "discovered",
+   "s": 1015,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Optixal/neovim-init.vim",
+   "t": "discovered",
+   "s": 1012,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "GPUOpen-Archive/CodeXL",
+   "t": "discovered",
+   "s": 1009,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "vladikoff/grunt-devtools",
+   "t": "discovered",
+   "s": 995,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Cyber-Buddy/APKHunt",
+   "t": "discovered",
+   "s": 991,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "open-source-labs/Swell",
+   "t": "discovered",
+   "s": 983,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "googledatalab/datalab",
+   "t": "discovered",
+   "s": 981,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "emberjs/ember-inspector",
+   "t": "discovered",
+   "s": 969,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "netz98/n98-magerun2",
+   "t": "discovered",
+   "s": 926,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "honghaier-game/PythonIDE-PyMe",
+   "t": "discovered",
+   "s": 924,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "guildai/guildai",
+   "t": "discovered",
+   "s": 909,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "cle-b/httpdbg",
+   "t": "discovered",
+   "s": 905,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "microsoft/VS-PPT",
+   "t": "discovered",
+   "s": 899,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "microsoft/AL",
+   "t": "discovered",
+   "s": 890,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "raphaelmansuy/code2prompt",
+   "t": "discovered",
+   "s": 887,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "open-source-labs/Docketeer",
+   "t": "discovered",
+   "s": 876,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "cocojojo5213/Dev-Janitor",
+   "t": "discovered",
+   "s": 874,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "vincentcox/StaCoAn",
+   "t": "discovered",
+   "s": 870,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "vineetchoudhary/Downloader-for-Apple-Developers",
+   "t": "discovered",
+   "s": 863,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "dart-code-checker/dart-code-metrics",
+   "t": "discovered",
+   "s": 863,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "chrispederick/web-developer",
+   "t": "discovered",
+   "s": 847,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "duraidabdul/LocalConsole",
+   "t": "discovered",
+   "s": 828,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "harshkedia177/axon",
+   "t": "discovered",
+   "s": 819,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "shanzson/Smart-Contract-Auditor-Tools-and-Techniques",
+   "t": "discovered",
+   "s": 816,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "GoogleChromeLabs/webmcp-tools",
+   "t": "discovered",
+   "s": 806,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "fastapi-mvc/fastapi-mvc",
+   "t": "discovered",
+   "s": 803,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "OfficeDev/microsoft-365-agents-toolkit",
+   "t": "discovered",
+   "s": 794,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "NetEaseGame/iOS-private-api-checker",
+   "t": "discovered",
+   "s": 793,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "ui-layouts/ui-tools",
+   "t": "discovered",
+   "s": 781,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "medyo/hackertab.dev",
+   "t": "discovered",
+   "s": 780,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "vendasta/setup-new-computer-script",
+   "t": "discovered",
+   "s": 762,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "linuxkerneltravel/lmp",
+   "t": "discovered",
+   "s": 744,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "lakernote/easy-postman",
+   "t": "discovered",
+   "s": 744,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "HDB-Li/LLDebugTool",
+   "t": "discovered",
+   "s": 739,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "WeAreAthlon/frontend-webpack-boilerplate",
+   "t": "discovered",
+   "s": 730,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "krzyzanowskim/ObjectivePGP",
+   "t": "discovered",
+   "s": 730,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Esri/geometry-api-java",
+   "t": "discovered",
+   "s": 713,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "ilya-dev/belt",
+   "t": "discovered",
+   "s": 705,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Tencent/loli_profiler",
+   "t": "discovered",
+   "s": 700,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "Maluen/Backbone-Debugger",
+   "t": "discovered",
+   "s": 698,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "1200wd/bitcoinlib",
+   "t": "discovered",
+   "s": 697,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "getappbox/AppBox-iOSAppsWirelessInstallation",
+   "t": "discovered",
+   "s": 697,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "devtoolsd/awesome-devtools",
+   "t": "discovered",
+   "s": 693,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "spring-attic/spring-roo",
+   "t": "discovered",
+   "s": 687,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "hiproxy/hiproxy",
+   "t": "discovered",
+   "s": 685,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "thetarnav/solid-devtools",
+   "t": "discovered",
+   "s": 660,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "KabaLabs/Cypress-Recorder",
+   "t": "discovered",
+   "s": 656,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "OriginProtocol/origin",
+   "t": "discovered",
+   "s": 650,
+   "w": "answering",
+   "sh": "developer-tools"
+  },
+  {
+   "n": "swyxio/devtools-angels",
+   "t": "discovered",
+   "s": 649,
+   "w": "answering",
+   "sh": "developer-tools"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "chipsalliance/verible",
+   "does": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+   "url": "https://github.com/chipsalliance/verible",
+   "stars": 1981,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "XiaomingX/indie-hacker-tools-plus",
+   "does": "\u4e3a\u72ec\u7acb\u5f00\u53d1\u8005\u51c6\u5907\u7684\u7cbe\u9009\u6280\u672f\u6808\u548c\u5de5\u5177\u4ed3\u5e93\u6765\u4e86\uff01\u8fd9\u91cc\u6709\u4f60\u6700\u9700\u8981\u7684\u5de5\u5177\uff0c\u5e2e\u4f60\u63d0\u5347\u5f00\u53d1\u6548\u7387\u3001\u8282\u7ea6\u6210\u672c\uff0c\u6700\u91cd\u8981\u7684\u662f\u2014\u2014\u8fd9\u4e9b\u5de5\u5177\u90fd\u662f\u5e02\u573a\u4e0a\u70ed\u95e8\u7684\uff0c\u7ecf\u8fc7\u9a8c\u8bc1\u7684\u3002\ud83d\ude80A curated collection of tech stacks and tools tailored for independent developers is h",
+   "url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
+   "stars": 1966,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "stacks-archive/sbtc-developer-release",
+   "does": "sBTC primitives, signer components, helper tools",
+   "url": "https://github.com/stacks-archive/sbtc-developer-release",
+   "stars": 1942,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "rapi-doc/RapiDoc",
+   "does": "RapiDoc: open-source tools for OpenAPI and Arazzo: the <rapi-doc> web component for interactive API references, a docs-as-code developer portal, a mock server, ",
+   "url": "https://github.com/rapi-doc/RapiDoc",
+   "stars": 1918,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "rojo-rbx/rojo",
+   "does": "Rojo enables Roblox developers to use professional-grade software engineering tools",
+   "url": "https://github.com/rojo-rbx/rojo",
+   "stars": 1917,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "agamm/awesome-developer-first",
+   "does": "A curated list of awesome developer-first tools products.",
+   "url": "https://github.com/agamm/awesome-developer-first",
+   "stars": 1900,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "microsoft/responsible-ai-toolbox",
+   "does": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding ",
+   "url": "https://github.com/microsoft/responsible-ai-toolbox",
+   "stars": 1862,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "nette/tracy",
+   "does": "\ud83d\ude0e Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or C",
+   "url": "https://github.com/nette/tracy",
+   "stars": 1835,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Serverless-Devs/Serverless-Devs",
+   "does": ":fire: Serverless Devs: Serverless developer tool ( Serverless Devs: Serverless \u5f00\u53d1\u8005\u5de5\u5177 )",
+   "url": "https://github.com/Serverless-Devs/Serverless-Devs",
+   "stars": 1830,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "LeoMobileDeveloper/ios-developer-tools",
+   "does": "Tools that every iOS developer should know.",
+   "url": "https://github.com/LeoMobileDeveloper/ios-developer-tools",
+   "stars": 1797,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "johnbillion/query-monitor",
+   "does": "The developer tools panel for WordPress and WooCommerce",
+   "url": "https://github.com/johnbillion/query-monitor",
+   "stars": 1782,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "DataTalksClub/ai-dev-tools-zoomcamp",
+   "does": "A free, hands-on course on using AI developer tools to build, test, deploy, extend, and audit software without losing engineering discipline. The 2026 cohort st",
+   "url": "https://github.com/DataTalksClub/ai-dev-tools-zoomcamp",
+   "stars": 1775,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "microsoft/rnx-kit",
+   "does": "Modern, scalable tools. Exceptional developer experience.",
+   "url": "https://github.com/microsoft/rnx-kit",
+   "stars": 1740,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "flutter/devtools",
+   "does": "Developer tools for Flutter & Dart",
+   "url": "https://github.com/flutter/devtools",
+   "stars": 1736,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "gdamdam/awesome-decentralized-web",
+   "does": "A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.",
+   "url": "https://github.com/gdamdam/awesome-decentralized-web",
+   "stars": 1728,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "gabotechs/dep-tree",
+   "does": "Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and",
+   "url": "https://github.com/gabotechs/dep-tree",
+   "stars": 1726,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "KusionStack/karpor",
+   "does": "Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.",
+   "url": "https://github.com/KusionStack/karpor",
+   "stars": 1723,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "open-saas-directory/awesome-native-macosx-apps",
+   "does": "Discover the best mac apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities.",
+   "url": "https://github.com/open-saas-directory/awesome-native-macosx-apps",
+   "stars": 1708,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "aws/aws-lambda-dotnet",
+   "does": "Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.",
+   "url": "https://github.com/aws/aws-lambda-dotnet",
+   "stars": 1664,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "miripiruni/frontdesk",
+   "does": "Community driven list of useful things for Front End Developers",
+   "url": "https://github.com/miripiruni/frontdesk",
+   "stars": 1619,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "cyberark/FuzzyAI",
+   "does": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM AP",
+   "url": "https://github.com/cyberark/FuzzyAI",
+   "stars": 1616,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Moddable-OpenSource/moddable",
+   "does": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+   "url": "https://github.com/Moddable-OpenSource/moddable",
+   "stars": 1575,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "apollographql/apollo-client-devtools",
+   "does": "Apollo Client browser developer tools.",
+   "url": "https://github.com/apollographql/apollo-client-devtools",
+   "stars": 1526,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "mirego/accent",
+   "does": "The first developer-oriented translation tool. True asynchronous flow between translators and your team.",
+   "url": "https://github.com/mirego/accent",
+   "stars": 1494,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "superstreamerapp/superstreamer",
+   "does": "An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.",
+   "url": "https://github.com/superstreamerapp/superstreamer",
+   "stars": 1458,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "netz98/n98-magerun",
+   "does": "The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work ti",
+   "url": "https://github.com/netz98/n98-magerun",
+   "stars": 1425,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "0xProject/0x-monorepo",
+   "does": "0x protocol monorepo - includes our smart contracts and many developer tools",
+   "url": "https://github.com/0xProject/0x-monorepo",
+   "stars": 1406,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "open-source-labs/PreVue",
+   "does": "\ud83c\udfa8 All in One Prototyping Tool For Vue Developers.",
+   "url": "https://github.com/open-source-labs/PreVue",
+   "stars": 1394,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "eko/monday",
+   "does": "\u26a1\ufe0f A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP",
+   "url": "https://github.com/eko/monday",
+   "stars": 1374,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "marcelscruz/dev-resources",
+   "does": "A collaborative list of resources for developers",
+   "url": "https://github.com/marcelscruz/dev-resources",
+   "stars": 1373,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "nickjj/dotfriedrice",
+   "does": "Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!",
+   "url": "https://github.com/nickjj/dotfriedrice",
+   "stars": 1362,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "igorbarinov/awesome-bitcoin",
+   "does": "A curated list of bitcoin services and tools for software developers",
+   "url": "https://github.com/igorbarinov/awesome-bitcoin",
+   "stars": 1357,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "phalcon/phalcon-devtools",
+   "does": "Phalcon Developer Tools",
+   "url": "https://github.com/phalcon/phalcon-devtools",
+   "stars": 1321,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "ml-tooling/best-of-python-dev",
+   "does": "\ud83c\udfc6 A ranked list of awesome python developer tools and libraries. Updated weekly.",
+   "url": "https://github.com/ml-tooling/best-of-python-dev",
+   "stars": 1321,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "dbukowski/DBDebugToolkit",
+   "does": "Set of easy to use debugging tools for iOS developers & QA engineers.",
+   "url": "https://github.com/dbukowski/DBDebugToolkit",
+   "stars": 1276,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "ubuntu/ubuntu-make",
+   "does": "Easy setup of common tools for developers on Ubuntu.",
+   "url": "https://github.com/ubuntu/ubuntu-make",
+   "stars": 1239,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "bcoe/awesome-cross-platform-nodejs",
+   "does": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
+   "url": "https://github.com/bcoe/awesome-cross-platform-nodejs",
+   "stars": 1213,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "ksdme/ut",
+   "does": "A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech",
+   "url": "https://github.com/ksdme/ut",
+   "stars": 1209,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-18",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "6174/comflowy",
+   "does": "Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both develop",
+   "url": "https://github.com/6174/comflowy",
+   "stars": 1204,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "scalatest/scalatest",
+   "does": "A testing tool for Scala and Java developers",
+   "url": "https://github.com/scalatest/scalatest",
+   "stars": 1170,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "MagicFoundation/Alcinoe",
+   "does": "Alcinoe empowers developers to build fast, modern apps without the usual complexity or performance bottlenecks. It keeps the focus on innovation\u2014not tool constr",
+   "url": "https://github.com/MagicFoundation/Alcinoe",
+   "stars": 1135,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "felangel/mason",
+   "does": "Tools which allow developers to create and consume reusable templates called bricks.",
+   "url": "https://github.com/felangel/mason",
+   "stars": 1134,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "mathiasbynens/mothereff.in",
+   "does": "Web developer tools",
+   "url": "https://github.com/mathiasbynens/mothereff.in",
+   "stars": 1118,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "krzysztofzablocki/KZFileWatchers",
+   "does": "A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.",
+   "url": "https://github.com/krzysztofzablocki/KZFileWatchers",
+   "stars": 1109,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "sideeffects/GameDevelopmentToolset",
+   "does": "A series of Houdini shelf tools that are geared towards game developers!",
+   "url": "https://github.com/sideeffects/GameDevelopmentToolset",
+   "stars": 1101,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "109021017/android-TopActivity",
+   "does": "A useful tool for Android Developers, which shows the package name and class name of current activity.",
+   "url": "https://github.com/109021017/android-TopActivity",
+   "stars": 1091,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "simoninithomas/awesome-ai-tools-for-game-dev",
+   "does": "A curated list of awesome AI tools for game developers",
+   "url": "https://github.com/simoninithomas/awesome-ai-tools-for-game-dev",
+   "stars": 1070,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "NV/chrome-devtools-autosave",
+   "does": "Auto-saving CSS and JavaScript changes from the Chrome Developer Tools",
+   "url": "https://github.com/NV/chrome-devtools-autosave",
+   "stars": 1045,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "vision5/ngx_devel_kit",
+   "does": "Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules",
+   "url": "https://github.com/vision5/ngx_devel_kit",
+   "stars": 1028,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "CelaDaniel/free-ai-resources-x",
+   "does": "\ud83c\udf1f A curated collection of free, high quality AI tools \ud83e\udd16, APIs \ud83d\udd17, datasets \ud83d\udcca, and learning resources \ud83d\udcda covering machine learning \ud83e\udde0, deep learning \ud83e\udde9, generative A",
+   "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+   "stars": 1018,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "rupali-codes/LinksHub",
+   "does": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to fr",
+   "url": "https://github.com/rupali-codes/LinksHub",
+   "stars": 1015,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Optixal/neovim-init.vim",
+   "does": ":izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:",
+   "url": "https://github.com/Optixal/neovim-init.vim",
+   "stars": 1012,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "GPUOpen-Archive/CodeXL",
+   "does": "CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.",
+   "url": "https://github.com/GPUOpen-Archive/CodeXL",
+   "stars": 1009,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "vladikoff/grunt-devtools",
+   "does": "\ud83d\udee0 Grunt Task Runner Extension for Chrome Developer Tools",
+   "url": "https://github.com/vladikoff/grunt-devtools",
+   "stars": 995,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Cyber-Buddy/APKHunt",
+   "does": "APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mob",
+   "url": "https://github.com/Cyber-Buddy/APKHunt",
+   "stars": 991,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "open-source-labs/Swell",
+   "does": "Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, ",
+   "url": "https://github.com/open-source-labs/Swell",
+   "stars": 983,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-10-03",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "googledatalab/datalab",
+   "does": "Interactive tools and developer experiences for Big Data on Google Cloud Platform.",
+   "url": "https://github.com/googledatalab/datalab",
+   "stars": 981,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "emberjs/ember-inspector",
+   "does": "Adds an Ember tab to the browser's Developer Tools that allows you to inspect Ember objects in your application.",
+   "url": "https://github.com/emberjs/ember-inspector",
+   "stars": 969,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "netz98/n98-magerun2",
+   "does": "The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work ti",
+   "url": "https://github.com/netz98/n98-magerun2",
+   "stars": 926,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "honghaier-game/PythonIDE-PyMe",
+   "does": "PyMe \u2013 A visual development tool for Python developers. Build software and games through an intuitive visual interface, and publish cross-platform with one clic",
+   "url": "https://github.com/honghaier-game/PythonIDE-PyMe",
+   "stars": 924,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "guildai/guildai",
+   "does": "Experiment tracking, ML developer tools",
+   "url": "https://github.com/guildai/guildai",
+   "stars": 909,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-10-06",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "cle-b/httpdbg",
+   "does": "A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.",
+   "url": "https://github.com/cle-b/httpdbg",
+   "stars": 905,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "microsoft/VS-PPT",
+   "does": "Productivity Power Tools - a set of Visual Studio extensions improving developer productivity.",
+   "url": "https://github.com/microsoft/VS-PPT",
+   "stars": 899,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "microsoft/AL",
+   "does": "Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and",
+   "url": "https://github.com/microsoft/AL",
+   "stars": 890,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "raphaelmansuy/code2prompt",
+   "does": "Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markd",
+   "url": "https://github.com/raphaelmansuy/code2prompt",
+   "stars": 887,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "open-source-labs/Docketeer",
+   "does": "A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics",
+   "url": "https://github.com/open-source-labs/Docketeer",
+   "stars": 876,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "cocojojo5213/Dev-Janitor",
+   "does": "Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.",
+   "url": "https://github.com/cocojojo5213/Dev-Janitor",
+   "stars": 874,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "vincentcox/StaCoAn",
+   "does": "StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+   "url": "https://github.com/vincentcox/StaCoAn",
+   "stars": 870,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "vineetchoudhary/Downloader-for-Apple-Developers",
+   "does": "Download Xcode, WWDC Videos, and other developer tools up to 16 times faster.",
+   "url": "https://github.com/vineetchoudhary/Downloader-for-Apple-Developers",
+   "stars": 863,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-16",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "dart-code-checker/dart-code-metrics",
+   "does": "Software analytics tool that helps developers analyse and improve software quality.",
+   "url": "https://github.com/dart-code-checker/dart-code-metrics",
+   "stars": 863,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "chrispederick/web-developer",
+   "does": "A browser extension that adds various web developer tools to a browser.",
+   "url": "https://github.com/chrispederick/web-developer",
+   "stars": 847,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "duraidabdul/LocalConsole",
+   "does": "In-app console and debug tools for iOS developers",
+   "url": "https://github.com/duraidabdul/LocalConsole",
+   "stars": 828,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-18",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "harshkedia177/axon",
+   "does": "Graph-powered code intelligence engine \u2014 indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
+   "url": "https://github.com/harshkedia177/axon",
+   "stars": 819,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "shanzson/Smart-Contract-Auditor-Tools-and-Techniques",
+   "does": "This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain devel",
+   "url": "https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques",
+   "stars": 816,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "GoogleChromeLabs/webmcp-tools",
+   "does": "This repository contains a suite of developer utilities and demos designed to support the adoption of the WebMCP API.",
+   "url": "https://github.com/GoogleChromeLabs/webmcp-tools",
+   "stars": 806,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "fastapi-mvc/fastapi-mvc",
+   "does": "Developer productivity tool for making high-quality FastAPI production-ready APIs.",
+   "url": "https://github.com/fastapi-mvc/fastapi-mvc",
+   "stars": 803,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "OfficeDev/microsoft-365-agents-toolkit",
+   "does": "Developer tools for building Teams apps",
+   "url": "https://github.com/OfficeDev/microsoft-365-agents-toolkit",
+   "stars": 794,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "NetEaseGame/iOS-private-api-checker",
+   "does": "[Deprecated] iOS-private-api-checker \u82f9\u679ciOS\u79c1\u6709API\u68c0\u67e5\u5de5\u5177 Developer tool to scan iOS apps for private API usage before submitting to Apple",
+   "url": "https://github.com/NetEaseGame/iOS-private-api-checker",
+   "stars": 793,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-09",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "ui-layouts/ui-tools",
+   "does": "Open Source UI-TOOLS for Designer/Developer.",
+   "url": "https://github.com/ui-layouts/ui-tools",
+   "stars": 781,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "medyo/hackertab.dev",
+   "does": "A Chrome \ud83c\udf10 & Firefox \ud83e\udd8a extension to discover the latest developer news and tools in one tab!",
+   "url": "https://github.com/medyo/hackertab.dev",
+   "stars": 780,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "vendasta/setup-new-computer-script",
+   "does": "This script will help with the quick setup and installation of tools and applications for new developers at Vendasta.",
+   "url": "https://github.com/vendasta/setup-new-computer-script",
+   "stars": 762,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "linuxkerneltravel/lmp",
+   "does": "LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materi",
+   "url": "https://github.com/linuxkerneltravel/lmp",
+   "stars": 744,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "lakernote/easy-postman",
+   "does": "An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features",
+   "url": "https://github.com/lakernote/easy-postman",
+   "stars": 744,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "HDB-Li/LLDebugTool",
+   "does": "LLDebugTool is a debugging tool for developers and testers that can help you analyze and manipulate data in non-xcode situations.",
+   "url": "https://github.com/HDB-Li/LLDebugTool",
+   "stars": 739,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "WeAreAthlon/frontend-webpack-boilerplate",
+   "does": "Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and dev",
+   "url": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate",
+   "stars": 730,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "krzyzanowskim/ObjectivePGP",
+   "does": "ObjectivePGP is an open-source library for iOS and macOS that provides developers with tools for implementing OpenPGP encryption and decryption, digital signing",
+   "url": "https://github.com/krzyzanowskim/ObjectivePGP",
+   "stars": 730,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Esri/geometry-api-java",
+   "does": "The Esri Geometry API for Java enables developers to write custom applications for analysis of spatial data.  This API is used in the Esri GIS Tools for Hadoop ",
+   "url": "https://github.com/Esri/geometry-api-java",
+   "stars": 713,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "ilya-dev/belt",
+   "does": "A handful of tools for PHP developers.",
+   "url": "https://github.com/ilya-dev/belt",
+   "stars": 705,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Tencent/loli_profiler",
+   "does": "Memory instrumentation tool with CI and AI support for android app&game developers.",
+   "url": "https://github.com/Tencent/loli_profiler",
+   "stars": 700,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "Maluen/Backbone-Debugger",
+   "does": "Chrome Developer Tools extension for debugging Backbone.js applications",
+   "url": "https://github.com/Maluen/Backbone-Debugger",
+   "stars": 698,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-10-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "1200wd/bitcoinlib",
+   "does": "The Python BitcoinLib provides developers with a wide range of tools to work with Bitcoin: manage wallets, private keys and addresses. Interact with the blockch",
+   "url": "https://github.com/1200wd/bitcoinlib",
+   "stars": 697,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "getappbox/AppBox-iOSAppsWirelessInstallation",
+   "does": "AppBox is a tool for iOS developers to deploy Development, Ad-Hoc, and In-house (Enterprise) applications directly to the devices from your Dropbox account. Che",
+   "url": "https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation",
+   "stars": 697,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-03",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "devtoolsd/awesome-devtools",
+   "does": "A curated list of awesome developer tools and services \u2014 from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.",
+   "url": "https://github.com/devtoolsd/awesome-devtools",
+   "stars": 693,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "spring-attic/spring-roo",
+   "does": "Spring Roo is a next-generation rapid application development tool for Java developers. It focuses on higher productivity, stock-standard Java APIs, high usabil",
+   "url": "https://github.com/spring-attic/spring-roo",
+   "stars": 687,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "hiproxy/hiproxy",
+   "does": "\ud83d\udee0 hiproxy is a lightweight proxy tool for Front-End developers based on Node.js that supports an NGINX-like configuration. \ud83d\udd25",
+   "url": "https://github.com/hiproxy/hiproxy",
+   "stars": 685,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-09-09",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "thetarnav/solid-devtools",
+   "does": "Library of developer tools, reactivity debugger & Devtools Chrome extension for visualizing SolidJS reactivity graph",
+   "url": "https://github.com/thetarnav/solid-devtools",
+   "stars": 660,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "KabaLabs/Cypress-Recorder",
+   "does": "A dev tool that records user interaction with a web application and generates cypress code to allow the developer to replicate that particular session.",
+   "url": "https://github.com/KabaLabs/Cypress-Recorder",
+   "stars": 656,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "OriginProtocol/origin",
+   "does": "Monorepo for our developer tools and decentralized marketplace application",
+   "url": "https://github.com/OriginProtocol/origin",
+   "stars": 650,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  },
+  {
+   "node": "swyxio/devtools-angels",
+   "does": "active angel investors in developer tools!",
+   "url": "https://github.com/swyxio/devtools-angels",
+   "stars": 649,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-10-03",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: developer tools"
+  }
+ ]
+}
