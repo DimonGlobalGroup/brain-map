@@ -1,5 +1,28 @@
 {
  "shard": "audio-music-generation-ai",
+ "slim": [
+  {
+   "n": "0xShug0/audio.cpp",
+   "t": "discovered",
+   "s": 4478,
+   "w": "answering",
+   "sh": "audio-music-generation-ai"
+  },
+  {
+   "n": "riffusion/riffusion-hobby",
+   "t": "discovered",
+   "s": 3908,
+   "w": "answering",
+   "sh": "audio-music-generation-ai"
+  },
+  {
+   "n": "riffusion/riffusion-app-hobby",
+   "t": "discovered",
+   "s": 2672,
+   "w": "answering",
+   "sh": "audio-music-generation-ai"
+  }
+ ],
  "nodes": [
   {
    "node": "0xShug0/audio.cpp",

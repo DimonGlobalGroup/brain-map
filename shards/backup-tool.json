@@ -1,5 +1,217 @@
 {
  "shard": "backup-tool",
+ "slim": [
+  {
+   "n": "MichaelCade/90DaysOfDevOps",
+   "t": "discovered",
+   "s": 30956,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "kopia/kopia",
+   "t": "discovered",
+   "s": 14833,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "elasticsearch-dump/elasticsearch-dump",
+   "t": "discovered",
+   "s": 7947,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "mtkennerly/ludusavi",
+   "t": "discovered",
+   "s": 6618,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "gilbertchen/duplicacy",
+   "t": "discovered",
+   "s": 5709,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "s3tools/s3cmd",
+   "t": "discovered",
+   "s": 4916,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "teejee2008/timeshift",
+   "t": "discovered",
+   "s": 4744,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "linuxmint/timeshift",
+   "t": "discovered",
+   "s": 4355,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "imapsync/imapsync",
+   "t": "discovered",
+   "s": 4215,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "rsnapshot/rsnapshot",
+   "t": "discovered",
+   "s": 3691,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "ytti/oxidized",
+   "t": "discovered",
+   "s": 3672,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "mag37/dockcheck",
+   "t": "discovered",
+   "s": 2549,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "utkuozdemir/pv-migrate",
+   "t": "discovered",
+   "s": 2443,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "digint/btrbk",
+   "t": "discovered",
+   "s": 2186,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "Midrags/SFF",
+   "t": "discovered",
+   "s": 2060,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "Portabase/portabase",
+   "t": "discovered",
+   "s": 1935,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "kimono-koans/httm",
+   "t": "discovered",
+   "s": 1671,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "Altinity/clickhouse-backup",
+   "t": "discovered",
+   "s": 1658,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "aahnik/tgcf",
+   "t": "discovered",
+   "s": 1632,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "dwijitsolutions/laraadmin",
+   "t": "discovered",
+   "s": 1583,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "percona/percona-xtrabackup",
+   "t": "discovered",
+   "s": 1564,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "bepaald/signalbackup-tools",
+   "t": "discovered",
+   "s": 1434,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "alichtman/shallow-backup",
+   "t": "discovered",
+   "s": 1339,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "unixzii/ibackupextractor",
+   "t": "discovered",
+   "s": 1331,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "KnugiHK/WhatsApp-Chat-Exporter",
+   "t": "discovered",
+   "s": 1325,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "WerWolv/EdiZon",
+   "t": "discovered",
+   "s": 1308,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "rdiff-backup/rdiff-backup",
+   "t": "discovered",
+   "s": 1271,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "MaxiHuHe04/iTunes-Backup-Explorer",
+   "t": "discovered",
+   "s": 1083,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "okhosting/awesome-storage",
+   "t": "discovered",
+   "s": 1037,
+   "w": "answering",
+   "sh": "backup-tool"
+  },
+  {
+   "n": "liweiyi88/onedump",
+   "t": "discovered",
+   "s": 1003,
+   "w": "answering",
+   "sh": "backup-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "MichaelCade/90DaysOfDevOps",
@@ -216,27 +428,6 @@
    "does": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
    "url": "https://github.com/ytti/oxidized",
    "stars": 3672,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-26",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: backup tool"
-  },
-  {
-   "node": "gobackup/gobackup",
-   "does": "\ud83d\uddc4 CLI tool for backup your databases, files to cloud storages in schedully.",
-   "url": "https://github.com/gobackup/gobackup",
-   "stars": 3096,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -501,6 +692,153 @@
     "herald": "observed",
     "state": "answering",
     "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "unixzii/ibackupextractor",
+   "does": "A simple tool for extracting files from iOS backup archive.",
+   "url": "https://github.com/unixzii/ibackupextractor",
+   "stars": 1331,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-14",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "KnugiHK/WhatsApp-Chat-Exporter",
+   "does": "A customizable, cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Supports Android .crypt12, .crypt14, .crypt15, and ",
+   "url": "https://github.com/KnugiHK/WhatsApp-Chat-Exporter",
+   "stars": 1325,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "WerWolv/EdiZon",
+   "does": "\ud83d\udca1 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)",
+   "url": "https://github.com/WerWolv/EdiZon",
+   "stars": 1308,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "rdiff-backup/rdiff-backup",
+   "does": "Reverse differential backup tool, over a network or locally.",
+   "url": "https://github.com/rdiff-backup/rdiff-backup",
+   "stars": 1271,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "MaxiHuHe04/iTunes-Backup-Explorer",
+   "does": "A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups",
+   "url": "https://github.com/MaxiHuHe04/iTunes-Backup-Explorer",
+   "stars": 1083,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "okhosting/awesome-storage",
+   "does": "A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.",
+   "url": "https://github.com/okhosting/awesome-storage",
+   "stars": 1037,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: backup tool"
+  },
+  {
+   "node": "liweiyi88/onedump",
+   "does": "Effortless database administration tool",
+   "url": "https://github.com/liweiyi88/onedump",
+   "stars": 1003,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
     "last_checked": "2026-11-26"
    },
    "found": "2026-11-26 crawler area: backup tool"
