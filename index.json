@@ -1,514 +1,1908 @@
 {
- "brainmap_index": 0,
+ "brainmap_index": 1,
  "generated": "2026-11-26",
- "note": "Seed index v0, compiled by hand from the account repo list. Crawler-compiled index replaces this in Phase 2.",
+ "note": "Compiled by the Phase 2 crawler. Watchdog labels on every node: herald resident/observed, state answering/stale/silent. Trust tiers: first-party (ours), discovered (claim only, never executed until benched).",
+ "counts": {
+  "total": 92,
+  "first_party": 40,
+  "discovered": 52,
+  "answering": 92,
+  "stale": 0,
+  "silent": 0,
+  "queries_used": 11
+ },
  "nodes": [
   {
    "node": "DimonGlobalGroup/shelflife",
    "does": "A read-only, deterministic stale-file auditor in a single Python file.",
    "url": "https://github.com/DimonGlobalGroup/shelflife",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/calferry",
    "does": "Audit a set of iCalendar (.ics) files before you import them anywhere \u2014 read-only, stdlib-only, and the report never prints an event value.",
    "url": "https://github.com/DimonGlobalGroup/calferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-13",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/neurogen",
    "does": "NEUROGEN v0.3 \u2014 a verified cognitive-reasoning engine. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/neurogen",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/zipferry",
    "does": "Audit a ZIP archive before you open it \u2014 unsafe paths, duplicates, case collisions, and expansion bombs \u2014 from metadata alone. Single-file, stdlib-only Python.",
    "url": "https://github.com/DimonGlobalGroup/zipferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-16",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/reverb-wiki",
    "does": "Reverb Wiki \u2014 a flat-file personal wiki that runs anywhere Python does. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/reverb-wiki",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/refcheck",
-   "does": "Verify every local reference in your Markdown tree, completely offline: relative links, images, reference-style links, and #anchors \u2014 with case-mismatch detection and repair suggestions.",
+   "does": "Verify every local reference in your Markdown tree, completely offline: relative links, images, reference-style links, and #anchors \u2014 with case-mismatch detecti",
    "url": "https://github.com/DimonGlobalGroup/refcheck",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/snapdrift",
    "does": "Snapshot a directory tree by content hash and report exactly what drifted: added, removed, changed, and moved files. Single-file, stdlib-only Python, offline.",
    "url": "https://github.com/DimonGlobalGroup/snapdrift",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/rowsentry",
-   "does": "Audit a CSV/TSV file against the contract the file itself implies: ragged rows, duplicate headers and keys, type drift, parse errors. Single-file, stdlib-only, read-only.",
+   "does": "Audit a CSV/TSV file against the contract the file itself implies: ragged rows, duplicate headers and keys, type drift, parse errors. Single-file, stdlib-only, ",
    "url": "https://github.com/DimonGlobalGroup/rowsentry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/leakhound",
    "does": "Find leaked secrets in a file tree without ever printing them \u2014 findings carry file, line, rule, and a SHA-256 fingerprint only. Single file, zero dependencies.",
    "url": "https://github.com/DimonGlobalGroup/leakhound",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/reverb-sitegen",
    "does": "Reverb Sitegen \u2014 a single-file static site generator. Write Markdown, get a website. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/reverb-sitegen",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/fieldmason",
-   "does": "Audit the shape of JSON and JSON Lines record collections: parse errors, duplicate keys, and per-field type and key drift across a whole tree. Read-only, single file, stdlib only.",
+   "does": "Audit the shape of JSON and JSON Lines record collections: parse errors, duplicate keys, and per-field type and key drift across a whole tree. Read-only, single",
    "url": "https://github.com/DimonGlobalGroup/fieldmason",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/dgg-flagship",
    "does": "Dimon Global Group \u2014 flagship firm site.",
    "url": "https://github.com/DimonGlobalGroup/dgg-flagship",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-10",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/linkfray",
    "does": "A read-only symlink chain auditor: dangling targets, loops, root escapes, absolute and messy targets \u2014 deterministic text or JSON, no fix mode, stdlib only.",
    "url": "https://github.com/DimonGlobalGroup/linkfray",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/smart-script-remix",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/smart-script-remix",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/nameferry",
-   "does": "Audit filenames against the platform they travel to: reserved names, illegal characters, over-long paths, case and normalization collisions. One Python file, no dependencies, read-only.",
+   "does": "Audit filenames against the platform they travel to: reserved names, illegal characters, over-long paths, case and normalization collisions. One Python file, no",
    "url": "https://github.com/DimonGlobalGroup/nameferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/brain-map",
+   "does": "The Brain Map: a public registry of tools and capabilities that any AI can read. Every node says what it does, who it knows, and how it was verified.",
+   "url": "https://github.com/DimonGlobalGroup/brain-map",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "resident",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/contextpack",
    "does": "Pack a codebase into one AI-ready file \u2014 inline secret redaction, a hard token budget, and a hash-verified manifest. Single file, zero dependencies.",
    "url": "https://github.com/DimonGlobalGroup/contextpack",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/dgg-founder",
    "does": "Dimon Global Group \u2014 founder story.",
    "url": "https://github.com/DimonGlobalGroup/dgg-founder",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-10",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/chronos-atom",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/chronos-atom",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/lan-watch",
    "does": "LAN Watch \u2014 a passive observer for your own home network: what showed up, when, and what changed. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/lan-watch",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/markferry",
    "does": "Audit a set of browser bookmark exports before you import them - read-only, offline, and the report never prints a URL or title.",
    "url": "https://github.com/DimonGlobalGroup/markferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-14",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/glyphaudit",
-   "does": "A read-only, deterministic text-file encoding and hygiene auditor in a single Python file \u2014 invalid UTF-8 with byte offsets, UTF-16 BOMs, control characters, line-ending and whitespace rules, stable JSON reports.",
+   "does": "A read-only, deterministic text-file encoding and hygiene auditor in a single Python file \u2014 invalid UTF-8 with byte offsets, UTF-16 BOMs, control characters, li",
    "url": "https://github.com/DimonGlobalGroup/glyphaudit",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/DimonGlobalGroup.github.io",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/DimonGlobalGroup.github.io",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-11",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/dgg-media",
    "does": "Dimon Global Group \u2014 media hub.",
    "url": "https://github.com/DimonGlobalGroup/dgg-media",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/DimonGlobalGroup",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/DimonGlobalGroup",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-04",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/cronstampede",
-   "does": "Audit a whole crontab file: validation, plain-English schedules, DST-correct next runs, and whole-file findings - pile-ups, impossible dates, and silent traps. Single-file stdlib Python, offline, read-only.",
+   "does": "Audit a whole crontab file: validation, plain-English schedules, DST-correct next runs, and whole-file findings - pile-ups, impossible dates, and silent traps. ",
    "url": "https://github.com/DimonGlobalGroup/cronstampede",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/cardferry",
    "does": "Read-only vCard preflight gate: audit a set of .vcf files before import, with reports that never print contact values.",
    "url": "https://github.com/DimonGlobalGroup/cardferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/slatewarden",
    "does": "Read-only auditor for trees of SQLite databases: inventory, integrity, foreign keys, freelist waste and schema findings in one deterministic report.",
    "url": "https://github.com/DimonGlobalGroup/slatewarden",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/hashferry",
    "does": "Audit a file set before it travels \u2014 duplicates and case collisions \u2014 then verify it arrived unchanged. Read-only, stdlib-only Python.",
    "url": "https://github.com/DimonGlobalGroup/hashferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-15",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/rankledger",
    "does": "RankLedger \u2014 know where you stand in search: track rankings, get alerted when bad pages climb and good pages slip. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/rankledger",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/twintally",
-   "does": "Read-only duplicate-file accounting that is honest about hardlinks: size-first, hash-second, reclaimable bytes counted by distinct inodes. Nothing is ever deleted.",
+   "does": "Read-only duplicate-file accounting that is honest about hardlinks: size-first, hash-second, reclaimable bytes counted by distinct inodes. Nothing is ever delet",
    "url": "https://github.com/DimonGlobalGroup/twintally",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-18",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/omniframe-genesis",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/omniframe-genesis",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/.github",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/.github",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-04",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/optout-ledger",
    "does": "OptOut Ledger \u2014 track data-broker opt-outs and removals until they stick. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/optout-ledger",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/reverb-files",
    "does": "Reverb Files \u2014 a fast terminal file manager in the spirit of the classics. Single file, no dependencies. By Dimon Global Group.",
    "url": "https://github.com/DimonGlobalGroup/reverb-files",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/trueguise",
    "does": "Audit a file tree for files whose bytes disagree with their names \u2014 extension mismatches and disguised executables, read-only, stdlib only.",
    "url": "https://github.com/DimonGlobalGroup/trueguise",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/keyferry",
    "does": "Config-key parity gate for dotenv-style files: missing, extra, duplicate and malformed keys \u2014 values are never printed.",
    "url": "https://github.com/DimonGlobalGroup/keyferry",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/permscope",
    "does": "A read-only, deterministic file-permission auditor in a single Python file \u2014 named rules, honest severity, no changes made.",
    "url": "https://github.com/DimonGlobalGroup/permscope",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/medialith",
    "does": "",
    "url": "https://github.com/DimonGlobalGroup/medialith",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
   },
   {
    "node": "DimonGlobalGroup/versionvigil",
    "does": "A structural gate for CHANGELOG-style files: semver order, date order, duplicates and empty sections, checked read-only with a CI exit code.",
    "url": "https://github.com/DimonGlobalGroup/versionvigil",
-   "private": false,
+   "stars": 0,
+   "license": null,
    "trust": "first-party",
    "bench": {
     "status": "queued"
    },
    "kind": "tool",
    "access": "public",
-   "keys": "none-in-repo"
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "obra/superpowers",
+   "does": "An agentic skills framework & software development methodology that works.",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 327577,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "n8n-io/n8n",
+   "does": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "url": "https://github.com/n8n-io/n8n",
+   "stars": 212338,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "langgenius/dify",
+   "does": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move ",
+   "url": "https://github.com/langgenius/dify",
+   "stars": 161967,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "langchain-ai/langchain",
+   "does": "The agent engineering platform.",
+   "url": "https://github.com/langchain-ai/langchain",
+   "stars": 150046,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "ComposioHQ/awesome-claude-skills",
+   "does": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "stars": 80399,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "FoundationAgents/MetaGPT",
+   "does": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "stars": 71494,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "microsoft/autogen",
+   "does": "A programming framework for agentic AI",
+   "url": "https://github.com/microsoft/autogen",
+   "stars": 61971,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "crewAIInc/crewAI",
+   "does": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tac",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "stars": 61311,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "vercel-labs/agent-browser",
+   "does": "Browser automation CLI for AI agents",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "stars": 54178,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "jekyll/jekyll",
+   "does": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+   "url": "https://github.com/jekyll/jekyll",
+   "stars": 51801,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "apache/airflow",
+   "does": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "url": "https://github.com/apache/airflow",
+   "stars": 47699,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "AstrBotDevs/AstrBot",
+   "does": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "stars": 47604,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "coqui-ai/TTS",
+   "does": "\ud83d\udc38\ud83d\udcac - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+   "url": "https://github.com/coqui-ai/TTS",
+   "stars": 46286,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "langchain-ai/langgraph",
+   "does": "Build resilient agents.",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "stars": 45484,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "lightpanda-io/browser",
+   "does": "Lightpanda: the headless browser designed for AI and automation",
+   "url": "https://github.com/lightpanda-io/browser",
+   "stars": 42628,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "cjpais/Handy",
+   "does": "A free, open source, and extensible speech-to-text application that works completely offline.",
+   "url": "https://github.com/cjpais/Handy",
+   "stars": 40381,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "mukul975/Anthropic-Cybersecurity-Skills",
+   "does": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud",
+   "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+   "stars": 36828,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "SeleniumHQ/selenium",
+   "does": "A browser automation framework and ecosystem.",
+   "url": "https://github.com/SeleniumHQ/selenium",
+   "stars": 34616,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "lovell/sharp",
+   "does": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+   "url": "https://github.com/lovell/sharp",
+   "stars": 32873,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "kestra-io/kestra",
+   "does": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML,",
+   "url": "https://github.com/kestra-io/kestra",
+   "stars": 30378,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "simstudioai/sim",
+   "does": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+   "url": "https://github.com/simstudioai/sim",
+   "stars": 30221,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "ariya/phantomjs",
+   "does": "Scriptable Headless Browser",
+   "url": "https://github.com/ariya/phantomjs",
+   "stars": 29408,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "mozilla/DeepSpeech",
+   "does": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high pow",
+   "url": "https://github.com/mozilla/DeepSpeech",
+   "stars": 26774,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "apify/crawlee",
+   "does": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or G",
+   "url": "https://github.com/apify/crawlee",
+   "stars": 26595,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "enescingoz/awesome-n8n-templates",
+   "does": "280+ free n8n automation templates \u2014 ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA",
+   "url": "https://github.com/enescingoz/awesome-n8n-templates",
+   "stars": 26585,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "activepieces/activepieces",
+   "does": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agent",
+   "url": "https://github.com/activepieces/activepieces",
+   "stars": 25749,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: workflow automation"
+  },
+  {
+   "node": "index-tts/index-tts",
+   "does": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+   "url": "https://github.com/index-tts/index-tts",
+   "stars": 25319,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "citrolabs/ego-lite",
+   "does": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, with",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "stars": 24695,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "Skyvern-AI/skyvern",
+   "does": "Automate browser based workflows with AI",
+   "url": "https://github.com/Skyvern-AI/skyvern",
+   "stars": 23554,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "vuejs/vuepress",
+   "does": "\ud83d\udcdd Minimalistic Vue-powered static site generator",
+   "url": "https://github.com/vuejs/vuepress",
+   "stars": 22714,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "AutomaApp/automa",
+   "does": "A browser extension for automating your browser by connecting blocks",
+   "url": "https://github.com/AutomaApp/automa",
+   "stars": 21730,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "Evil0ctal/Douyin_TikTok_Download_API",
+   "does": "\ud83d\ude80 \u81ea\u6258\u7ba1\u7684\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u6570\u636e\u91c7\u96c6\u4e0e\u65e0\u6c34\u5370\u89c6\u9891\u4e0b\u8f7d API\uff0c\u652f\u6301 AI agent \u901a\u8fc7 MCP \u8c03\u7528\u4e0e\u79bb\u7ebf\u8bed\u97f3\u8f6c\u6587\u5b57\uff0cDocker \u4e00\u952e\u90e8\u7f72\u3002| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader ",
+   "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+   "stars": 21586,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "wanshuiyin/Auto-claude-code-research-in-sleep",
+   "does": "ARIS \u2694\ufe0f (Auto-Research-In-Sleep) \u2014 Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automat",
+   "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+   "stars": 19964,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: code review automation"
+  },
+  {
+   "node": "decaporg/decap-cms",
+   "does": "A Git-based CMS for static site generators (formerly Netlify CMS)",
+   "url": "https://github.com/decaporg/decap-cms",
+   "stars": 19506,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "NVIDIA-NeMo/Speech",
+   "does": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognitio",
+   "url": "https://github.com/NVIDIA-NeMo/Speech",
+   "stars": 18795,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "vuejs/vitepress",
+   "does": "Vite & Vue powered static site generator.",
+   "url": "https://github.com/vuejs/vitepress",
+   "stars": 18530,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "getzola/zola",
+   "does": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+   "url": "https://github.com/getzola/zola",
+   "stars": 17624,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "k2-fsa/sherpa-onnx",
+   "does": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne",
+   "url": "https://github.com/k2-fsa/sherpa-onnx",
+   "stars": 16265,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "Tichau/FileConverter",
+   "does": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
+   "url": "https://github.com/Tichau/FileConverter",
+   "stars": 15802,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: file converter tool"
+  },
+  {
+   "node": "QuestPDF/QuestPDF",
+   "does": "QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a ",
+   "url": "https://github.com/QuestPDF/QuestPDF",
+   "stars": 14235,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: pdf generation library"
+  },
+  {
+   "node": "jackyzha0/quartz",
+   "does": "\ud83c\udf31 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+   "url": "https://github.com/jackyzha0/quartz",
+   "stars": 13634,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "getpelican/pelican",
+   "does": "Static site generator that supports Markdown and reST syntax. Powered by Python.",
+   "url": "https://github.com/getpelican/pelican",
+   "stars": 13382,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "PaddlePaddle/PaddleSpeech",
+   "does": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification",
+   "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+   "stars": 12713,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "libvips/libvips",
+   "does": "A fast image processing library with low memory needs.",
+   "url": "https://github.com/libvips/libvips",
+   "stars": 11841,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "foliojs/pdfkit",
+   "does": "A JavaScript PDF generation library for Node and the browser",
+   "url": "https://github.com/foliojs/pdfkit",
+   "stars": 10739,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: pdf generation library"
+  },
+  {
+   "node": "react-static/react-static",
+   "does": "\u269b\ufe0f \ud83d\ude80 A progressive static site generator for React.",
+   "url": "https://github.com/react-static/react-static",
+   "stars": 10337,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "apify/crawlee-python",
+   "does": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the b",
+   "url": "https://github.com/apify/crawlee-python",
+   "stars": 9696,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  },
+  {
+   "node": "Hopding/pdf-lib",
+   "does": "Create and modify PDF documents in any JavaScript environment",
+   "url": "https://github.com/Hopding/pdf-lib",
+   "stars": 8699,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: pdf generation library"
+  },
+  {
+   "node": "lorien/awesome-web-scraping",
+   "does": "List of libraries, tools and APIs for web scraping and data processing.",
+   "url": "https://github.com/lorien/awesome-web-scraping",
+   "stars": 8250,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  },
+  {
+   "node": "danger/danger",
+   "does": "\ud83d\udeab Stop saying \"you forgot to \u2026\" in code review (in Ruby)",
+   "url": "https://github.com/danger/danger",
+   "stars": 5695,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: code review automation"
+  },
+  {
+   "node": "pdfme/pdfme",
+   "does": "Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Crea",
+   "url": "https://github.com/pdfme/pdfme",
+   "stars": 5097,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: pdf generation library"
+  },
+  {
+   "node": "darrenhinde/OpenAgentsControl",
+   "does": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic test",
+   "url": "https://github.com/darrenhinde/OpenAgentsControl",
+   "stars": 4993,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: code review automation"
   }
  ]
 }
