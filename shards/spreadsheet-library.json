@@ -1,0 +1,278 @@
+{
+ "shard": "spreadsheet-library",
+ "nodes": [
+  {
+   "node": "qax-os/excelize",
+   "does": "Go language library for reading and writing Microsoft Excel\u2122 (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+   "url": "https://github.com/qax-os/excelize",
+   "stars": 21161,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "PHPOffice/PhpSpreadsheet",
+   "does": "A pure PHP library for reading and writing spreadsheet files",
+   "url": "https://github.com/PHPOffice/PhpSpreadsheet",
+   "stars": 14018,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "tealeg/xlsx",
+   "does": "Go library for reading and writing XLSX files.",
+   "url": "https://github.com/tealeg/xlsx",
+   "stars": 5986,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "unidoc/unioffice",
+   "does": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+   "url": "https://github.com/unidoc/unioffice",
+   "stars": 4947,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "ruilisi/fortune-sheet",
+   "does": "A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets",
+   "url": "https://github.com/ruilisi/fortune-sheet",
+   "stars": 3753,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "bradjasper/ImportJSON",
+   "does": "Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet",
+   "url": "https://github.com/bradjasper/ImportJSON",
+   "stars": 2125,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "gimite/google-drive-ruby",
+   "does": "A Ruby library to read/write files/spreadsheets in Google Drive/Docs.",
+   "url": "https://github.com/gimite/google-drive-ruby",
+   "stars": 1776,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-15",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "jmcnamara/libxlsxwriter",
+   "does": "A C library for creating Excel XLSX files.",
+   "url": "https://github.com/jmcnamara/libxlsxwriter",
+   "stars": 1767,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-08",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "antvis/S2",
+   "does": "\u26a1\ufe0f A practical visualization library for tabular analysis.",
+   "url": "https://github.com/antvis/S2",
+   "stars": 1698,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "tfussell/xlnt",
+   "does": ":bar_chart: Cross-platform user-friendly xlsx library for C++11+",
+   "url": "https://github.com/tfussell/xlnt",
+   "stars": 1650,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "FancyGrid/awesome-grid",
+   "does": "A curated list of grid(table) libraries and resources that developers may find useful.",
+   "url": "https://github.com/FancyGrid/awesome-grid",
+   "stars": 1630,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "westonganger/spreadsheet_architect",
+   "does": "Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tab",
+   "url": "https://github.com/westonganger/spreadsheet_architect",
+   "stars": 1351,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  },
+  {
+   "node": "python-excel/xlwt",
+   "does": "Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.",
+   "url": "https://github.com/python-excel/xlwt",
+   "stars": 1043,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-10-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: spreadsheet library"
+  }
+ ]
+}

@@ -1,0 +1,488 @@
+{
+ "shard": "static-site-generator",
+ "nodes": [
+  {
+   "node": "jekyll/jekyll",
+   "does": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+   "url": "https://github.com/jekyll/jekyll",
+   "stars": 51801,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "vuejs/vuepress",
+   "does": "\ud83d\udcdd Minimalistic Vue-powered static site generator",
+   "url": "https://github.com/vuejs/vuepress",
+   "stars": 22714,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "decaporg/decap-cms",
+   "does": "A Git-based CMS for static site generators (formerly Netlify CMS)",
+   "url": "https://github.com/decaporg/decap-cms",
+   "stars": 19506,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "vuejs/vitepress",
+   "does": "Vite & Vue powered static site generator.",
+   "url": "https://github.com/vuejs/vitepress",
+   "stars": 18530,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "getzola/zola",
+   "does": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+   "url": "https://github.com/getzola/zola",
+   "stars": 17624,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "jackyzha0/quartz",
+   "does": "\ud83c\udf31 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+   "url": "https://github.com/jackyzha0/quartz",
+   "stars": 13634,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "getpelican/pelican",
+   "does": "Static site generator that supports Markdown and reST syntax. Powered by Python.",
+   "url": "https://github.com/getpelican/pelican",
+   "stars": 13382,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "react-static/react-static",
+   "does": "\u269b\ufe0f \ud83d\ude80 A progressive static site generator for React.",
+   "url": "https://github.com/react-static/react-static",
+   "stars": 10337,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "metalsmith/metalsmith",
+   "does": "An extremely simple, pluggable static site generator for Node.js",
+   "url": "https://github.com/metalsmith/metalsmith",
+   "stars": 7814,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "ppoffice/hexo-theme-icarus",
+   "does": "A simple, delicate, and modern theme for the static site generator Hexo.",
+   "url": "https://github.com/ppoffice/hexo-theme-icarus",
+   "stars": 6636,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "zensical/zensical",
+   "does": "A modern static site generator by the Material for MkDocs team",
+   "url": "https://github.com/zensical/zensical",
+   "stars": 6276,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "peaceiris/actions-gh-pages",
+   "does": "GitHub Actions for GitHub Pages \ud83d\ude80 Deploy static files and publish your site easily. Static-Site-Generators-friendly.",
+   "url": "https://github.com/peaceiris/actions-gh-pages",
+   "stars": 5376,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "JohnSundell/Publish",
+   "does": "A static site generator for Swift developers",
+   "url": "https://github.com/JohnSundell/Publish",
+   "stars": 4968,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "dotnet/docfx",
+   "does": "Static site generator for .NET API documentation.",
+   "url": "https://github.com/dotnet/docfx",
+   "stars": 4452,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "Jack000/Expose",
+   "does": "A simple static site generator for photoessays",
+   "url": "https://github.com/Jack000/Expose",
+   "stars": 4425,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "assemble/assemble",
+   "does": "Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplate",
+   "url": "https://github.com/assemble/assemble",
+   "stars": 4250,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "google/eleventy-high-performance-blog",
+   "does": "A high performance blog template for the 11ty static site generator.",
+   "url": "https://github.com/google/eleventy-high-performance-blog",
+   "stars": 4028,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "umijs/dumi",
+   "does": "\ud83d\udcd6 Static Site Generator for component library development",
+   "url": "https://github.com/umijs/dumi",
+   "stars": 3797,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "myles/awesome-static-generators",
+   "does": "A curated list of static web site generators.",
+   "url": "https://github.com/myles/awesome-static-generators",
+   "stars": 3772,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "iamvishnusankar/next-sitemap",
+   "does": "Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.",
+   "url": "https://github.com/iamvishnusankar/next-sitemap",
+   "stars": 3750,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "observablehq/framework",
+   "does": "A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with an",
+   "url": "https://github.com/observablehq/framework",
+   "stars": 3691,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "jnordberg/wintersmith",
+   "does": "A flexible static site generator",
+   "url": "https://github.com/jnordberg/wintersmith",
+   "stars": 3473,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  },
+  {
+   "node": "eudicots/Cactus",
+   "does": "Static site generator for designers. Uses Python and Django templates.",
+   "url": "https://github.com/eudicots/Cactus",
+   "stars": 3462,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: static site generator"
+  }
+ ]
+}

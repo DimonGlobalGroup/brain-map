@@ -1,0 +1,68 @@
+{
+ "shard": "search-engine-library",
+ "nodes": [
+  {
+   "node": "quickwit-oss/tantivy",
+   "does": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+   "url": "https://github.com/quickwit-oss/tantivy",
+   "stars": 16487,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: search engine library"
+  },
+  {
+   "node": "OpenGenus/cosmos",
+   "does": "World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project",
+   "url": "https://github.com/OpenGenus/cosmos",
+   "stars": 13749,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: search engine library"
+  },
+  {
+   "node": "spyglass-search/spyglass",
+   "does": "A personal search engine:  Create a searchable library from your personal documents, interests, and more!",
+   "url": "https://github.com/spyglass-search/spyglass",
+   "stars": 2716,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: search engine library"
+  }
+ ]
+}

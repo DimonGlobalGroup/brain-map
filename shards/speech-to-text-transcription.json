@@ -1,0 +1,47 @@
+{
+ "shard": "speech-to-text-transcription",
+ "nodes": [
+  {
+   "node": "ufal/whisper_streaming",
+   "does": "Whisper realtime streaming for long speech-to-text transcription and translation",
+   "url": "https://github.com/ufal/whisper_streaming",
+   "stars": 3680,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: speech to text transcription"
+  },
+  {
+   "node": "matthartman/ghost-pepper",
+   "does": "100% private on-device voice models for speech-to-text and meeting transcription on macOS",
+   "url": "https://github.com/matthartman/ghost-pepper",
+   "stars": 3241,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: speech to text transcription"
+  }
+ ]
+}

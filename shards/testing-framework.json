@@ -1,0 +1,488 @@
+{
+ "shard": "testing-framework",
+ "nodes": [
+  {
+   "node": "microsoft/playwright",
+   "does": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+   "url": "https://github.com/microsoft/playwright",
+   "stars": 101152,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "google/googletest",
+   "does": "GoogleTest - Google Testing and Mocking Framework",
+   "url": "https://github.com/google/googletest",
+   "stars": 39793,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "mochajs/mocha",
+   "does": "\u2615\ufe0f Classic, reliable, trusted test framework for Node.js and the browser",
+   "url": "https://github.com/mochajs/mocha",
+   "stars": 22907,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "MobSF/Mobile-Security-Framework-MobSF",
+   "does": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment fra",
+   "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+   "stars": 22359,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "catchorg/Catch2",
+   "does": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x bran",
+   "url": "https://github.com/catchorg/Catch2",
+   "stars": 21616,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "sebastianbergmann/phpunit",
+   "does": "The PHP Unit Testing framework.",
+   "url": "https://github.com/sebastianbergmann/phpunit",
+   "stars": 20076,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "adonisjs/core",
+   "does": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official ",
+   "url": "https://github.com/adonisjs/core",
+   "stars": 19198,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "vitest-dev/vitest",
+   "does": "Next generation testing framework powered by Vite.",
+   "url": "https://github.com/vitest-dev/vitest",
+   "stars": 17478,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "GreyDGL/PentestGPT",
+   "does": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+   "url": "https://github.com/GreyDGL/PentestGPT",
+   "stars": 16642,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "jasmine/jasmine",
+   "does": "Simple JavaScript testing framework for browsers and node.js",
+   "url": "https://github.com/jasmine/jasmine",
+   "stars": 15809,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "mockito/mockito",
+   "does": "Most popular Mocking framework for unit tests written in Java",
+   "url": "https://github.com/mockito/mockito",
+   "stars": 15455,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "pytest-dev/pytest",
+   "does": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+   "url": "https://github.com/pytest-dev/pytest",
+   "stars": 14768,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "e2e-inc/e2e",
+   "does": "Next generation e2e testing framework for web and mobile apps.",
+   "url": "https://github.com/e2e-inc/e2e",
+   "stars": 14426,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "seleniumbase/SeleniumBase",
+   "does": "A modern framework for E2E testing, web scraping, and CAPTCHA-bypass.",
+   "url": "https://github.com/seleniumbase/SeleniumBase",
+   "stars": 13289,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "langgptai/LangGPT",
+   "does": "LangGPT: Empowering everyone to become a prompt expert! \ud83d\ude80  \ud83d\udccc \u7ed3\u6784\u5316\u63d0\u793a\u8bcd\uff08Structured Prompt\uff09\u63d0\u51fa\u8005 \ud83d\udccc \u5143\u63d0\u793a\u8bcd\uff08Meta-Prompt\uff09\u53d1\u8d77\u8005   \ud83d\udccc \u6700\u6d41\u884c\u7684\u63d0\u793a\u8bcd\u843d\u5730\u8303\u5f0f | Language of GPT  The pioneeri",
+   "url": "https://github.com/langgptai/LangGPT",
+   "stars": 12750,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "Manisso/fsociety",
+   "does": "fsociety Hacking Tools Pack \u2013 A Penetration Testing Framework",
+   "url": "https://github.com/Manisso/fsociety",
+   "stars": 12449,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "wix/Detox",
+   "does": "Gray box end-to-end testing and automation framework for mobile apps",
+   "url": "https://github.com/wix/Detox",
+   "stars": 12056,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "robotframework/robotframework",
+   "does": "Generic automation framework for acceptance testing and RPA",
+   "url": "https://github.com/robotframework/robotframework",
+   "stars": 12000,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "nightwatchjs/nightwatch",
+   "does": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack",
+   "url": "https://github.com/nightwatchjs/nightwatch",
+   "stars": 11951,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "foundry-rs/foundry",
+   "does": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+   "url": "https://github.com/foundry-rs/foundry",
+   "stars": 10780,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "mockery/mockery",
+   "does": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to off",
+   "url": "https://github.com/mockery/mockery",
+   "stars": 10721,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "teamcapybara/capybara",
+   "does": "Acceptance test framework for web applications",
+   "url": "https://github.com/teamcapybara/capybara",
+   "stars": 10172,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  },
+  {
+   "node": "Quick/Quick",
+   "does": "The Swift (and Objective-C) testing framework.",
+   "url": "https://github.com/Quick/Quick",
+   "stars": 9821,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: testing framework"
+  }
+ ]
+}
