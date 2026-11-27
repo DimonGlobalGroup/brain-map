@@ -44,10 +44,16 @@ let G = null, filter = "all";
 const $ = (id) => document.getElementById(id);
 function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 async function load() {
-  const [whole, slim] = await Promise.all([
-    fetch("whole-graph.json").then((r) => r.json()),
-    fetch("slim-all.json").then((r) => r.json()),
-  ]);
+  const whole = await fetch("whole-graph.json").then((r) => r.json());
+  const slim = { github: [], web: [], links: [] };
+  for (const path of whole.slim_chunks || []) {
+    const chunk = await fetch(path).then((r) => r.json());
+    for (const e of chunk.entries) slim[e.layer].push(e);
+  }
+  for (const l of whole.links || []) {
+    const shard = await fetch(l.file).then((r) => r.json());
+    slim.links.push(...shard.links);
+  }
   G = { whole, slim };
   const c = whole.counts;
   $("counts").innerHTML =
