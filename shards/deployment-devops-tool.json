@@ -1,5 +1,42 @@
 {
  "shard": "deployment-devops-tool",
+ "slim": [
+  {
+   "n": "probelabs/goreplay",
+   "t": "discovered",
+   "s": 19330,
+   "w": "answering",
+   "sh": "deployment-devops-tool"
+  },
+  {
+   "n": "certimate-go/certimate",
+   "t": "discovered",
+   "s": 9474,
+   "w": "answering",
+   "sh": "deployment-devops-tool"
+  },
+  {
+   "n": "rundeck/rundeck",
+   "t": "discovered",
+   "s": 6387,
+   "w": "answering",
+   "sh": "deployment-devops-tool"
+  },
+  {
+   "n": "psviderski/uncloud",
+   "t": "discovered",
+   "s": 5636,
+   "w": "answering",
+   "sh": "deployment-devops-tool"
+  },
+  {
+   "n": "devspace-sh/devspace",
+   "t": "discovered",
+   "s": 5252,
+   "w": "answering",
+   "sh": "deployment-devops-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "probelabs/goreplay",
@@ -26,7 +63,7 @@
    "node": "certimate-go/certimate",
    "does": "An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. \u5b8c\u5168\u5f00\u6e90\u514d\u8d39\u7684\u81ea\u6258\u7ba1 S",
    "url": "https://github.com/certimate-go/certimate",
-   "stars": 9473,
+   "stars": 9474,
    "license": null,
    "trust": "discovered",
    "bench": {

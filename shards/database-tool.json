@@ -1,11 +1,293 @@
 {
  "shard": "database-tool",
+ "slim": [
+  {
+   "n": "dbeaver/dbeaver",
+   "t": "discovered",
+   "s": 52547,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "metabase/metabase",
+   "t": "discovered",
+   "s": 50602,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "LeCoupa/awesome-cheatsheets",
+   "t": "discovered",
+   "s": 46716,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "appsmithorg/appsmith",
+   "t": "discovered",
+   "s": 41317,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "sqlmapproject/sqlmap",
+   "t": "discovered",
+   "s": 39058,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "googleapis/mcp-toolbox",
+   "t": "discovered",
+   "s": 16966,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "prisma/prisma1",
+   "t": "discovered",
+   "s": 16363,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "dhamaniasad/awesome-postgres",
+   "t": "discovered",
+   "s": 12197,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "pressly/goose",
+   "t": "discovered",
+   "s": 11776,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "l0ng-ai/openidea",
+   "t": "discovered",
+   "s": 10359,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "databasus/databasus",
+   "t": "discovered",
+   "s": 9346,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "sjzar/chatlog",
+   "t": "discovered",
+   "s": 9167,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "microsoft/azuredatastudio",
+   "t": "discovered",
+   "s": 7671,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "amacneil/dbmate",
+   "t": "discovered",
+   "s": 7572,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "labring/laf",
+   "t": "discovered",
+   "s": 7539,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "witheve/Eve",
+   "t": "discovered",
+   "s": 7228,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "k8gege/K8tools",
+   "t": "discovered",
+   "s": 6257,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "achristmascarl/rainfrog",
+   "t": "discovered",
+   "s": 5419,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "mgramin/awesome-db-tools",
+   "t": "discovered",
+   "s": 5373,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "cube2222/octosql",
+   "t": "discovered",
+   "s": 5274,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "SPLWare/esProc",
+   "t": "discovered",
+   "s": 4675,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "sqlalchemy/alembic",
+   "t": "discovered",
+   "s": 4486,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "CodeGraphContext/CodeGraphContext",
+   "t": "discovered",
+   "s": 4454,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "jorgerojas26/lazysql",
+   "t": "discovered",
+   "s": 4449,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "k1LoW/tbls",
+   "t": "discovered",
+   "s": 4408,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "strozfriedberg/Windows-Exploit-Suggester",
+   "t": "discovered",
+   "s": 4223,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "cartography-cncf/cartography",
+   "t": "discovered",
+   "s": 4207,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "bruin-data/ingestr",
+   "t": "discovered",
+   "s": 4054,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "xo/dbtpl",
+   "t": "discovered",
+   "s": 3899,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "fastmonkeys/stellar",
+   "t": "discovered",
+   "s": 3846,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "nullptrlabs/pgmodeler",
+   "t": "discovered",
+   "s": 3665,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "google-deepmind/science-skills",
+   "t": "discovered",
+   "s": 3541,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "xpf0000/FlyEnv",
+   "t": "discovered",
+   "s": 3393,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "codingo/NoSQLMap",
+   "t": "discovered",
+   "s": 3376,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "TaKO8Ki/gobang",
+   "t": "discovered",
+   "s": 3326,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "OmniDB/OmniDB",
+   "t": "discovered",
+   "s": 3277,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "Wisser/Jailer",
+   "t": "discovered",
+   "s": 3224,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "gobackup/gobackup",
+   "t": "discovered",
+   "s": 3096,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "Neo23x0/signature-base",
+   "t": "discovered",
+   "s": 3080,
+   "w": "answering",
+   "sh": "database-tool"
+  },
+  {
+   "n": "hegelai/prompttools",
+   "t": "discovered",
+   "s": 3060,
+   "w": "answering",
+   "sh": "database-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "dbeaver/dbeaver",
    "does": "Free universal database tool and SQL client",
    "url": "https://github.com/dbeaver/dbeaver",
-   "stars": 52546,
+   "stars": 52547,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -47,7 +329,7 @@
    "node": "LeCoupa/awesome-cheatsheets",
    "does": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
-   "stars": 46714,
+   "stars": 46716,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -68,7 +350,7 @@
    "node": "appsmithorg/appsmith",
    "does": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
    "url": "https://github.com/appsmithorg/appsmith",
-   "stars": 41316,
+   "stars": 41317,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -194,7 +476,7 @@
    "node": "l0ng-ai/openidea",
    "does": "The IDE you know, rebuilt in Rust. IntelliJ IDEA\u2013style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, ter",
    "url": "https://github.com/l0ng-ai/openidea",
-   "stars": 10357,
+   "stars": 10359,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -510,6 +792,321 @@
    "does": "tbls is a CI-Friendly tool to document a database, written in Go.",
    "url": "https://github.com/k1LoW/tbls",
    "stars": 4408,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "strozfriedberg/Windows-Exploit-Suggester",
+   "does": "This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notif",
+   "url": "https://github.com/strozfriedberg/Windows-Exploit-Suggester",
+   "stars": 4223,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "cartography-cncf/cartography",
+   "does": "Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.",
+   "url": "https://github.com/cartography-cncf/cartography",
+   "stars": 4207,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "bruin-data/ingestr",
+   "does": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+   "url": "https://github.com/bruin-data/ingestr",
+   "stars": 4054,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "xo/dbtpl",
+   "does": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
+   "url": "https://github.com/xo/dbtpl",
+   "stars": 3899,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "fastmonkeys/stellar",
+   "does": "Fast database snapshot and restore tool for development",
+   "url": "https://github.com/fastmonkeys/stellar",
+   "stars": 3846,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "nullptrlabs/pgmodeler",
+   "does": "Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!",
+   "url": "https://github.com/nullptrlabs/pgmodeler",
+   "stars": 3665,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "google-deepmind/science-skills",
+   "does": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniPro",
+   "url": "https://github.com/google-deepmind/science-skills",
+   "stars": 3541,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "xpf0000/FlyEnv",
+   "does": "Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web se",
+   "url": "https://github.com/xpf0000/FlyEnv",
+   "stars": 3393,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "codingo/NoSQLMap",
+   "does": "Automated NoSQL database enumeration and web application exploitation tool.",
+   "url": "https://github.com/codingo/NoSQLMap",
+   "stars": 3376,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "TaKO8Ki/gobang",
+   "does": "A cross-platform TUI database management tool written in Rust",
+   "url": "https://github.com/TaKO8Ki/gobang",
+   "stars": 3326,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "OmniDB/OmniDB",
+   "does": "Web tool for database management",
+   "url": "https://github.com/OmniDB/OmniDB",
+   "stars": 3277,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "Wisser/Jailer",
+   "does": "Database Subsetting and Relational Data Browsing Tool.",
+   "url": "https://github.com/Wisser/Jailer",
+   "stars": 3224,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "gobackup/gobackup",
+   "does": "\ud83d\uddc4 CLI tool for backup your databases, files to cloud storages in schedully.",
+   "url": "https://github.com/gobackup/gobackup",
+   "stars": 3096,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "Neo23x0/signature-base",
+   "does": "YARA signature and IOC database for my scanners and tools",
+   "url": "https://github.com/Neo23x0/signature-base",
+   "stars": 3080,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: database tool"
+  },
+  {
+   "node": "hegelai/prompttools",
+   "does": "Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).",
+   "url": "https://github.com/hegelai/prompttools",
+   "stars": 3060,
    "license": null,
    "trust": "discovered",
    "bench": {
