@@ -1,0 +1,320 @@
+{
+ "shard": "topic-open-source",
+ "nodes": [
+  {
+   "node": "public-apis/public-apis",
+   "does": "A collective list of free APIs",
+   "url": "https://github.com/public-apis/public-apis",
+   "stars": 501690,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "f/prompts.chat",
+   "does": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete pr",
+   "url": "https://github.com/f/prompts.chat",
+   "stars": 178607,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "farion1231/cc-switch",
+   "does": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+   "url": "https://github.com/farion1231/cc-switch",
+   "stars": 157475,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "x1xhlol/system-prompts-and-models-of-ai-tools",
+   "does": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qode",
+   "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+   "stars": 144893,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "career-ops-hq/career-ops",
+   "does": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover le",
+   "url": "https://github.com/career-ops-hq/career-ops",
+   "stars": 85089,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "OpenMontageInc/OpenMontage",
+   "does": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c",
+   "url": "https://github.com/OpenMontageInc/OpenMontage",
+   "stars": 83678,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "meta/docusaurus",
+   "does": "Easy to maintain open source documentation websites.",
+   "url": "https://github.com/meta/docusaurus",
+   "stars": 66813,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "twentyhq/twenty",
+   "does": "The open alternative to Salesforce, designed for AI.",
+   "url": "https://github.com/twentyhq/twenty",
+   "stars": 61523,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "firstcontributions/first-contributions",
+   "does": "\ud83d\ude80\u2728 Help beginners to contribute to open source projects",
+   "url": "https://github.com/firstcontributions/first-contributions",
+   "stars": 57005,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "serhii-londar/open-source-mac-os-apps",
+   "does": "\ud83d\ude80 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+   "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+   "stars": 51566,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "calcom/cal.diy",
+   "does": "Scheduling infrastructure for absolutely everyone.",
+   "url": "https://github.com/calcom/cal.diy",
+   "stars": 50418,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "payloadcms/payload",
+   "does": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Pa",
+   "url": "https://github.com/payloadcms/payload",
+   "stars": 46026,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "juspay/hyperswitch",
+   "does": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and toke",
+   "url": "https://github.com/juspay/hyperswitch",
+   "stars": 45925,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "HeyPuter/puter",
+   "does": "\ud83c\udf10 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+   "url": "https://github.com/HeyPuter/puter",
+   "stars": 44279,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  },
+  {
+   "node": "lyogavin/airllm",
+   "does": "AirLLM 2.8T LLM inference with single 4GB GPU",
+   "url": "https://github.com/lyogavin/airllm",
+   "stars": 43502,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:open-source"
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "shard": "text-to-speech",
+ "nodes": [
+  {
+   "node": "coqui-ai/TTS",
+   "does": "\ud83d\udc38\ud83d\udcac - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+   "url": "https://github.com/coqui-ai/TTS",
+   "stars": 46286,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "cjpais/Handy",
+   "does": "A free, open source, and extensible speech-to-text application that works completely offline.",
+   "url": "https://github.com/cjpais/Handy",
+   "stars": 40381,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "mozilla/DeepSpeech",
+   "does": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high pow",
+   "url": "https://github.com/mozilla/DeepSpeech",
+   "stars": 26774,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "index-tts/index-tts",
+   "does": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+   "url": "https://github.com/index-tts/index-tts",
+   "stars": 25319,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "Evil0ctal/Douyin_TikTok_Download_API",
+   "does": "\ud83d\ude80 \u81ea\u6258\u7ba1\u7684\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u6570\u636e\u91c7\u96c6\u4e0e\u65e0\u6c34\u5370\u89c6\u9891\u4e0b\u8f7d API\uff0c\u652f\u6301 AI agent \u901a\u8fc7 MCP \u8c03\u7528\u4e0e\u79bb\u7ebf\u8bed\u97f3\u8f6c\u6587\u5b57\uff0cDocker \u4e00\u952e\u90e8\u7f72\u3002| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader ",
+   "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+   "stars": 21586,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "NVIDIA-NeMo/Speech",
+   "does": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognitio",
+   "url": "https://github.com/NVIDIA-NeMo/Speech",
+   "stars": 18795,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "k2-fsa/sherpa-onnx",
+   "does": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne",
+   "url": "https://github.com/k2-fsa/sherpa-onnx",
+   "stars": 16266,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "PaddlePaddle/PaddleSpeech",
+   "does": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification",
+   "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+   "stars": 12713,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "rany2/edge-tts",
+   "does": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge",
+   "url": "https://github.com/rany2/edge-tts",
+   "stars": 12653,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "moonshine-ai/moonshine",
+   "does": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+   "url": "https://github.com/moonshine-ai/moonshine",
+   "stars": 11613,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "rhasspy/piper",
+   "does": "A fast, local neural text to speech system",
+   "url": "https://github.com/rhasspy/piper",
+   "stars": 11334,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "QuentinFuxa/WhisperLiveKit",
+   "does": "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.",
+   "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+   "stars": 11305,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "KoljaB/RealtimeSTT",
+   "does": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+   "url": "https://github.com/KoljaB/RealtimeSTT",
+   "stars": 10262,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "mozilla/TTS",
+   "does": ":robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)",
+   "url": "https://github.com/mozilla/TTS",
+   "stars": 10188,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "jasonppy/VoiceCraft",
+   "does": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+   "url": "https://github.com/jasonppy/VoiceCraft",
+   "stars": 8595,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "Neywa-Labs/mlx-audio",
+   "does": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Sil",
+   "url": "https://github.com/Neywa-Labs/mlx-audio",
+   "stars": 8341,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "jaywalnut310/vits",
+   "does": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+   "url": "https://github.com/jaywalnut310/vits",
+   "stars": 7906,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "myshell-ai/MeloTTS",
+   "does": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+   "url": "https://github.com/myshell-ai/MeloTTS",
+   "stars": 7730,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "jianchang512/ChatTTS-ui",
+   "does": "\u4e00\u4e2a\u7b80\u5355\u7684\u672c\u5730\u7f51\u9875\u754c\u9762\uff0c\u4f7f\u7528ChatTTS\u5c06\u6587\u5b57\u5408\u6210\u4e3a\u8bed\u97f3\uff0c\u540c\u65f6\u652f\u6301\u5bf9\u5916\u63d0\u4f9bAPI\u63a5\u53e3\u3002A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API ",
+   "url": "https://github.com/jianchang512/ChatTTS-ui",
+   "stars": 7670,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "Zyphra/Zonos",
+   "does": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on",
+   "url": "https://github.com/Zyphra/Zonos",
+   "stars": 7251,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "OHF-Voice/piper1-gpl",
+   "does": "Fast and local neural text-to-speech engine",
+   "url": "https://github.com/OHF-Voice/piper1-gpl",
+   "stars": 6413,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "yl4579/StyleTTS2",
+   "does": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models",
+   "url": "https://github.com/yl4579/StyleTTS2",
+   "stars": 6387,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "snakers4/silero-models",
+   "does": "Silero Models: pre-trained text-to-speech models made embarrassingly simple",
+   "url": "https://github.com/snakers4/silero-models",
+   "stars": 6230,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "buxuku/SmartSub",
+   "does": "\u89c6\u9891\u8f6c\u5b57\u5e55\u3001\u5b57\u5e55\u7ffb\u8bd1\u3001AI \u914d\u97f3\u4e0e\u58f0\u97f3\u514b\u9686\u3001\u5b57\u5e55\u70e7\u5f55\u2014\u2014\u514d\u8d39\u5f00\u6e90\u7684\u4e00\u7ad9\u5f0f\u684c\u9762\u5de5\u5177\u3002\u57fa\u4e8e Whisper / FunASR \u7b49\u672c\u5730\u6a21\u578b\u79bb\u7ebf\u8bed\u97f3\u8f6c\u6587\u5b57\uff0c\u6279\u91cf\u5904\u7406 + \u5168\u5e73\u53f0 GPU \u52a0\u901f\uff0c\u8de8 Windows / macOS / Linux\u3002Free, open-source desktop app to generate,",
+   "url": "https://github.com/buxuku/SmartSub",
+   "stars": 6173,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  },
+  {
+   "node": "remsky/Kokoro-FastAPI",
+   "does": "Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps",
+   "url": "https://github.com/remsky/Kokoro-FastAPI",
+   "stars": 5742,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: text to speech"
+  }
+ ]
+}

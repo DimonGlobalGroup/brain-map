@@ -1,0 +1,320 @@
+{
+ "shard": "topic-automation",
+ "nodes": [
+  {
+   "node": "Panniantong/Agent-Reach",
+   "does": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "stars": 115094,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "D4Vinci/Scrapling",
+   "does": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ a",
+   "url": "https://github.com/D4Vinci/Scrapling",
+   "stars": 106022,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "puppeteer/puppeteer",
+   "does": "JavaScript API for Chrome and Firefox",
+   "url": "https://github.com/puppeteer/puppeteer",
+   "stars": 95912,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "mvanhorn/last30days-skill",
+   "does": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "stars": 75860,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "huginn/huginn",
+   "does": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+   "url": "https://github.com/huginn/huginn",
+   "stars": 50652,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "usebruno/bruno",
+   "does": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "url": "https://github.com/usebruno/bruno",
+   "stars": 48597,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "fastlane/fastlane",
+   "does": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps",
+   "url": "https://github.com/fastlane/fastlane",
+   "stars": 42525,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "Yeachan-Heo/oh-my-claudecode",
+   "does": "Teams-first Multi-agent orchestration for Claude Code",
+   "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+   "stars": 41083,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "JCodesMore/ai-website-cloner-template",
+   "does": "Clone any website with one command using AI coding agents",
+   "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+   "stars": 39834,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "feder-cr/Jobs_Applier_AI_Agent",
+   "does": "AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.",
+   "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+   "stars": 32663,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "FujiwaraChoki/MoneyPrinterV2",
+   "does": "Automate the process of making money online.",
+   "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+   "stars": 32584,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "googleworkspace/cli",
+   "does": "Community CLI for Google Workspace APIs.",
+   "url": "https://github.com/googleworkspace/cli",
+   "stars": 32537,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "assafelovic/gpt-researcher",
+   "does": "An autonomous agent that conducts deep research on any data using any LLM providers",
+   "url": "https://github.com/assafelovic/gpt-researcher",
+   "stars": 30940,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "hashicorp/vagrant",
+   "does": "Vagrant is a tool for building and distributing development environments.",
+   "url": "https://github.com/hashicorp/vagrant",
+   "stars": 27242,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  },
+  {
+   "node": "vercel-labs/agent-desktop",
+   "does": "Computer use CLI for AI agents",
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "stars": 26935,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:automation"
+  }
+ ]
+}

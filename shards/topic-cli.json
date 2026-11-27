@@ -1,0 +1,383 @@
+{
+ "shard": "topic-cli",
+ "nodes": [
+  {
+   "node": "morluto/rea",
+   "does": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "url": "https://github.com/morluto/rea",
+   "stars": 479954,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "yt-dlp/yt-dlp",
+   "does": "A feature-rich command-line audio/video downloader",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "stars": 211000,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "sherlock-project/sherlock",
+   "does": "Hunt down social media accounts by username across social networks",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "stars": 118177,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "junegunn/fzf",
+   "does": ":cherry_blossom: A command-line fuzzy finder",
+   "url": "https://github.com/junegunn/fzf",
+   "stars": 84516,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "jesseduffield/lazygit",
+   "does": "simple terminal UI for git commands",
+   "url": "https://github.com/jesseduffield/lazygit",
+   "stars": 84118,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "BurntSushi/ripgrep",
+   "does": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+   "url": "https://github.com/BurntSushi/ripgrep",
+   "stars": 70395,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "tldr-pages/tldr",
+   "does": "Collaborative cheatsheets for console commands \ud83d\udcda.",
+   "url": "https://github.com/tldr-pages/tldr",
+   "stars": 64326,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "tw93/Pake",
+   "does": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+   "url": "https://github.com/tw93/Pake",
+   "stars": 64070,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "Raphire/Win11Debloat",
+   "does": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter a",
+   "url": "https://github.com/Raphire/Win11Debloat",
+   "stars": 63777,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "sharkdp/bat",
+   "does": "A cat(1) clone with wings.",
+   "url": "https://github.com/sharkdp/bat",
+   "stars": 61530,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "wagoodman/dive",
+   "does": "A tool for exploring each layer in a docker image",
+   "url": "https://github.com/wagoodman/dive",
+   "stars": 54771,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "obsidianmd/obsidian-skills",
+   "does": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+   "url": "https://github.com/obsidianmd/obsidian-skills",
+   "stars": 54068,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "Aider-AI/aider",
+   "does": "aider is AI pair programming in your terminal",
+   "url": "https://github.com/Aider-AI/aider",
+   "stars": 50276,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "jeecgboot/JeecgBoot",
+   "does": "\u4e00\u6b3e\u514d\u8d39\u5f00\u6e90\u7684 AI \u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u4e5f\u662f AI \u65f6\u4ee3\u6784\u5efa\u590d\u6742\u4e1a\u52a1\u7cfb\u7edf\u7684\u5f00\u6e90\u57fa\u5ea7\uff01\u6743\u9650\u3001\u591a\u79df\u6237\u3001\u5de5\u4f5c\u6d41\u3001\u62a5\u8868\u3001\u5927\u5c4f\u3001AI \u77e5\u8bc6\u5e93\u7b49\u901a\u7528\u80fd\u529b\u5f00\u7bb1\u5373\u7528\uff0cAI \u53ea\u9700\u751f\u6210\u4e1a\u52a1\u5dee\u5f02\u90e8\u5206\u3002AI Skills \u4e00\u53e5\u8bdd\u751f\u6210\u5b8c\u6574\u7cfb\u7edf\u2014\u2014\u5efa\u8868\u3001\u524d\u540e\u7aef\u4ee3\u7801\u3001\u83dc\u5355\u6743\u9650\u3001BPM \u6d41\u7a0b\u3001\u8868\u5355\u3001\u62a5\u8868\u3001\u5927\u5c4f\u5168\u81ea\u52a8\u3002\u5185\u7f6e AI \u5e94\u7528\u5e73\u53f0\uff08\u804a\u5929\u3001\u77e5\u8bc6\u5e93\u3001\u6d41\u7a0b",
+   "url": "https://github.com/jeecgboot/JeecgBoot",
+   "stars": 48640,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "ifixai-ai/iFixAi",
+   "does": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is sup",
+   "url": "https://github.com/ifixai-ai/iFixAi",
+   "stars": 47514,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "cli/cli",
+   "does": "GitHub\u2019s official command line tool",
+   "url": "https://github.com/cli/cli",
+   "stars": 47237,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "charmbracelet/bubbletea",
+   "does": "A powerful little TUI framework \ud83c\udfd7",
+   "url": "https://github.com/charmbracelet/bubbletea",
+   "stars": 45898,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  },
+  {
+   "node": "google/zx",
+   "does": "A tool for writing better scripts",
+   "url": "https://github.com/google/zx",
+   "stars": 45874,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:cli"
+  }
+ ]
+}

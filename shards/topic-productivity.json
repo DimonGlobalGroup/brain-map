@@ -1,0 +1,404 @@
+{
+ "shard": "topic-productivity",
+ "nodes": [
+  {
+   "node": "ohmyzsh/ohmyzsh",
+   "does": "\ud83d\ude43   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, h",
+   "url": "https://github.com/ohmyzsh/ohmyzsh",
+   "stars": 190922,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "excalidraw/excalidraw",
+   "does": "Virtual whiteboard for sketching hand-drawn like diagrams",
+   "url": "https://github.com/excalidraw/excalidraw",
+   "stars": 136376,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "ShareX/ShareX",
+   "does": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploadin",
+   "url": "https://github.com/ShareX/ShareX",
+   "stars": 41404,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "khoj-ai/khoj",
+   "does": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or loca",
+   "url": "https://github.com/khoj-ai/khoj",
+   "stars": 38264,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "Wox-launcher/Wox",
+   "does": "A cross-platform launcher that simply works",
+   "url": "https://github.com/Wox-launcher/Wox",
+   "stars": 27705,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "lissy93/dashy",
+   "does": "\ud83d\ude80 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+   "url": "https://github.com/lissy93/dashy",
+   "stars": 27080,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "nylas/nylas-mail",
+   "does": ":love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!",
+   "url": "https://github.com/nylas/nylas-mail",
+   "stars": 24724,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "plotly/dash",
+   "does": "Data Apps & Dashboards for Python. No JavaScript Required.",
+   "url": "https://github.com/plotly/dash",
+   "stars": 24507,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "super-productivity/super-productivity",
+   "does": "A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.",
+   "url": "https://github.com/super-productivity/super-productivity",
+   "stars": 24118,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "wavetermdev/waveterm",
+   "does": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+   "url": "https://github.com/wavetermdev/waveterm",
+   "stars": 22751,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "jarun/nnn",
+   "does": "n\u00b3 The unorthodox terminal file manager",
+   "url": "https://github.com/jarun/nnn",
+   "stars": 22148,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "danielmiessler/LifeOS",
+   "does": "\u26f0\ufe0f LifeOS \u2014 The AI-powered Life Operating System that helps you hill climb to wherever you're going.",
+   "url": "https://github.com/danielmiessler/LifeOS",
+   "stars": 20019,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "ActivityWatch/activitywatch",
+   "does": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+   "url": "https://github.com/ActivityWatch/activitywatch",
+   "stars": 19851,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "wulkano/Kap",
+   "does": "An open-source screen recorder built with web technology",
+   "url": "https://github.com/wulkano/Kap",
+   "stars": 19438,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "alyssaxuu/screenity",
+   "does": "The free and privacy-friendly screen recorder with no limits \ud83c\udfa5",
+   "url": "https://github.com/alyssaxuu/screenity",
+   "stars": 19008,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "rowboatlabs/rowboat",
+   "does": "Your agent team, in one group chat.",
+   "url": "https://github.com/rowboatlabs/rowboat",
+   "stars": 18327,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "mahmoud/awesome-python-applications",
+   "does": "\ud83d\udcbf Free software that works great, and also happens to be open-source Python.",
+   "url": "https://github.com/mahmoud/awesome-python-applications",
+   "stars": 18195,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "omnivore-app/omnivore",
+   "does": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+   "url": "https://github.com/omnivore-app/omnivore",
+   "stars": 16435,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  },
+  {
+   "node": "Flow-Launcher/Flow.Launcher",
+   "does": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+   "url": "https://github.com/Flow-Launcher/Flow.Launcher",
+   "stars": 16107,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:productivity"
+  }
+ ]
+}
