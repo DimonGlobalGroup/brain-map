@@ -1,5 +1,63 @@
 {
  "shard": "raspberry-pi-tool",
+ "slim": [
+  {
+   "n": "thibmaek/awesome-raspberry-pi",
+   "t": "discovered",
+   "s": 17179,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "infinition/Bjorn",
+   "t": "discovered",
+   "s": 6405,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "RPi-Distro/pi-gen",
+   "t": "discovered",
+   "s": 3294,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "raspberrypi/rpi-imager",
+   "t": "discovered",
+   "s": 2683,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "Neutree/COMTool",
+   "t": "discovered",
+   "s": 2622,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "xtr4nge/FruityWifi",
+   "t": "discovered",
+   "s": 2285,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "davidferguson/pibakery",
+   "t": "discovered",
+   "s": 1486,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  },
+  {
+   "n": "raspberrypi/usbboot",
+   "t": "discovered",
+   "s": 1372,
+   "w": "answering",
+   "sh": "raspberry-pi-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "thibmaek/awesome-raspberry-pi",
@@ -68,7 +126,7 @@
    "node": "raspberrypi/rpi-imager",
    "does": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.",
    "url": "https://github.com/raspberrypi/rpi-imager",
-   "stars": 2682,
+   "stars": 2683,
    "license": null,
    "trust": "discovered",
    "bench": {

@@ -1,5 +1,217 @@
 {
  "shard": "privacy-tool",
+ "slim": [
+  {
+   "n": "lissy93/web-check",
+   "t": "discovered",
+   "s": 35660,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "itsfatduck/optimizerDuck",
+   "t": "discovered",
+   "s": 13233,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "blinkospace/blinko",
+   "t": "discovered",
+   "s": 11254,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "PDFCraftTool/pdfcraft",
+   "t": "discovered",
+   "s": 9891,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Trusted-AI/adversarial-robustness-toolbox",
+   "t": "discovered",
+   "s": 6330,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "undergroundwires/privacy.sexy",
+   "t": "discovered",
+   "s": 6189,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Shawn-Shan/fawkes",
+   "t": "discovered",
+   "s": 5627,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "charles2gan/GDA-android-reversing-Tool",
+   "t": "discovered",
+   "s": 4883,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "iDescriptor/iDescriptor",
+   "t": "discovered",
+   "s": 4797,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "electerious/Ackee",
+   "t": "discovered",
+   "s": 4736,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "QiuYannnn/Local-File-Organizer",
+   "t": "discovered",
+   "s": 3383,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "flick9000/winscript",
+   "t": "discovered",
+   "s": 3062,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "kylecorry31/Trail-Sense",
+   "t": "discovered",
+   "s": 3056,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "snapotter-hq/SnapOtter",
+   "t": "discovered",
+   "s": 3016,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "martinvigo/email2phonenumber",
+   "t": "discovered",
+   "s": 2841,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Bearer/bearer",
+   "t": "discovered",
+   "s": 2801,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Narasimha1997/fake-sms",
+   "t": "discovered",
+   "s": 2796,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Open-Web-Analytics/Open-Web-Analytics",
+   "t": "discovered",
+   "s": 2694,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "HACKERALERT/Picocrypt",
+   "t": "discovered",
+   "s": 2472,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "isair/jarvis",
+   "t": "discovered",
+   "s": 2434,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "wabarc/wayback",
+   "t": "discovered",
+   "s": 2259,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "complexorganizations/wireguard-manager",
+   "t": "discovered",
+   "s": 1862,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "KatrielMoses/MailAccess",
+   "t": "discovered",
+   "s": 1845,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Moustachauve/cookie-editor",
+   "t": "discovered",
+   "s": 1803,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "six2dez/burp-ai-agent",
+   "t": "discovered",
+   "s": 1605,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "Picocrypt/Picocrypt",
+   "t": "discovered",
+   "s": 1545,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "kinghacker0/WhatsApp-OSINT",
+   "t": "discovered",
+   "s": 1335,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "wasi-master/wmkeyboard",
+   "t": "discovered",
+   "s": 1132,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "utkusen/wholeaked",
+   "t": "discovered",
+   "s": 1101,
+   "w": "answering",
+   "sh": "privacy-tool"
+  },
+  {
+   "n": "frangelbarrera/OSINT-BIBLE",
+   "t": "discovered",
+   "s": 1034,
+   "w": "answering",
+   "sh": "privacy-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "lissy93/web-check",
@@ -26,7 +238,7 @@
    "node": "itsfatduck/optimizerDuck",
    "does": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
    "url": "https://github.com/itsfatduck/optimizerDuck",
-   "stars": 13232,
+   "stars": 13233,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -510,6 +722,111 @@
    "does": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
    "url": "https://github.com/six2dez/burp-ai-agent",
    "stars": 1605,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: privacy tool"
+  },
+  {
+   "node": "Picocrypt/Picocrypt",
+   "does": "A very small, very simple, yet very secure encryption tool.",
+   "url": "https://github.com/Picocrypt/Picocrypt",
+   "stars": 1545,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: privacy tool"
+  },
+  {
+   "node": "kinghacker0/WhatsApp-OSINT",
+   "does": "OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review ",
+   "url": "https://github.com/kinghacker0/WhatsApp-OSINT",
+   "stars": 1335,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: privacy tool"
+  },
+  {
+   "node": "wasi-master/wmkeyboard",
+   "does": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
+   "url": "https://github.com/wasi-master/wmkeyboard",
+   "stars": 1132,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: privacy tool"
+  },
+  {
+   "node": "utkusen/wholeaked",
+   "does": "a file-sharing tool that allows you to find the responsible person in case of a leakage",
+   "url": "https://github.com/utkusen/wholeaked",
+   "stars": 1101,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: privacy tool"
+  },
+  {
+   "node": "frangelbarrera/OSINT-BIBLE",
+   "does": "Comprehensive 2026 OSINT field guide: tools, AI intelligence, investigation workflows, threat intel, verification, GEOINT, OPSEC and ethics.",
+   "url": "https://github.com/frangelbarrera/OSINT-BIBLE",
+   "stars": 1034,
    "license": null,
    "trust": "discovered",
    "bench": {
