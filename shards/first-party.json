@@ -1,5 +1,287 @@
 {
  "shard": "first-party",
+ "slim": [
+  {
+   "n": "DimonGlobalGroup/shelflife",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/calferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/neurogen",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/zipferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/reverb-wiki",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/refcheck",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/snapdrift",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/rowsentry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/leakhound",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/reverb-sitegen",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/fieldmason",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/dgg-flagship",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/linkfray",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/smart-script-remix",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/nameferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/brain-map",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/contextpack",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/dgg-founder",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/chronos-atom",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/lan-watch",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/markferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/glyphaudit",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/DimonGlobalGroup.github.io",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/dgg-media",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/DimonGlobalGroup",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/cronstampede",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/cardferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/slatewarden",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/hashferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/rankledger",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/twintally",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/omniframe-genesis",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/.github",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/optout-ledger",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/reverb-files",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/trueguise",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/keyferry",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/permscope",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/medialith",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  },
+  {
+   "n": "DimonGlobalGroup/versionvigil",
+   "t": "first-party",
+   "s": 0,
+   "w": "answering",
+   "sh": "first-party"
+  }
+ ],
  "nodes": [
   {
    "node": "DimonGlobalGroup/shelflife",
