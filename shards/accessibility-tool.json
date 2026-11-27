@@ -1,0 +1,735 @@
+{
+ "shard": "accessibility-tool",
+ "slim": [
+  {
+   "n": "adobe/react-spectrum",
+   "t": "discovered",
+   "s": 16071,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "screetsec/TheFatRat",
+   "t": "discovered",
+   "s": 11644,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "vmware-tanzu/sonobuoy",
+   "t": "discovered",
+   "s": 3052,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "spartan-ng/spartan",
+   "t": "discovered",
+   "s": 3011,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "paulpacifico/shutter-encoder",
+   "t": "discovered",
+   "s": 2938,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "smittix/intercept",
+   "t": "discovered",
+   "s": 2487,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "cameroncooke/AXe",
+   "t": "discovered",
+   "s": 2414,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "GoogleChrome/accessibility-developer-tools",
+   "t": "discovered",
+   "s": 2310,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "open-source-labs/Reactime",
+   "t": "discovered",
+   "s": 2241,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "dunnousername/yanderifier",
+   "t": "discovered",
+   "s": 1772,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "addyosmani/a11y",
+   "t": "discovered",
+   "s": 1725,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "brmodeloweb/brmodelo-app",
+   "t": "discovered",
+   "s": 1706,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "seo-skills/seo-audit-skill",
+   "t": "discovered",
+   "s": 996,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "AgnosticUI/agnosticui",
+   "t": "discovered",
+   "s": 831,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "AvdLee/RocketSimApp",
+   "t": "discovered",
+   "s": 817,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "IBMa/equal-access",
+   "t": "discovered",
+   "s": 788,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "xxnuo/dns-benchmark",
+   "t": "discovered",
+   "s": 750,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "primer/prism",
+   "t": "discovered",
+   "s": 686,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "liip/TheA11yMachine",
+   "t": "discovered",
+   "s": 643,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "pmndrs/react-three-a11y",
+   "t": "discovered",
+   "s": 632,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "paypal/AATT",
+   "t": "discovered",
+   "s": 610,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "loqusion/hyprshade",
+   "t": "discovered",
+   "s": 576,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "microsoft/accessibility-insights-windows",
+   "t": "discovered",
+   "s": 557,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "jacobsalmela/tccutil",
+   "t": "discovered",
+   "s": 551,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "evanpeikon/Bioinformatics_Toolkit",
+   "t": "discovered",
+   "s": 543,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  },
+  {
+   "n": "camenduru/TostUI",
+   "t": "discovered",
+   "s": 514,
+   "w": "answering",
+   "sh": "accessibility-tool"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "adobe/react-spectrum",
+   "does": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+   "url": "https://github.com/adobe/react-spectrum",
+   "stars": 16071,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "screetsec/TheFatRat",
+   "does": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles ",
+   "url": "https://github.com/screetsec/TheFatRat",
+   "stars": 11644,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "vmware-tanzu/sonobuoy",
+   "does": "Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other pl",
+   "url": "https://github.com/vmware-tanzu/sonobuoy",
+   "stars": 3052,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "spartan-ng/spartan",
+   "does": "Cutting-edge tools powering Angular full-stack development.",
+   "url": "https://github.com/spartan-ng/spartan",
+   "stars": 3011,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "paulpacifico/shutter-encoder",
+   "does": "A professional video compression tool accessible to all, mostly based on FFmpeg.",
+   "url": "https://github.com/paulpacifico/shutter-encoder",
+   "stars": 2938,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "smittix/intercept",
+   "does": "iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.",
+   "url": "https://github.com/smittix/intercept",
+   "stars": 2487,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "cameroncooke/AXe",
+   "does": "AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.",
+   "url": "https://github.com/cameroncooke/AXe",
+   "stars": 2414,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "GoogleChrome/accessibility-developer-tools",
+   "does": "This is a library of accessibility-related testing and utility code.",
+   "url": "https://github.com/GoogleChrome/accessibility-developer-tools",
+   "stars": 2310,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "open-source-labs/Reactime",
+   "does": "Developer tool for time travel debugging and performance monitoring in React applications.",
+   "url": "https://github.com/open-source-labs/Reactime",
+   "stars": 2241,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "dunnousername/yanderifier",
+   "does": "First-Order-Wrapper (formerly known as Yanderify) is a front-end tool for first-order-motion. It aims to make using first-order-motion face animation accessible",
+   "url": "https://github.com/dunnousername/yanderifier",
+   "stars": 1772,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "addyosmani/a11y",
+   "does": "Accessibility audit tooling for the web (beta)",
+   "url": "https://github.com/addyosmani/a11y",
+   "stars": 1725,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "brmodeloweb/brmodelo-app",
+   "does": "BRMW is a free open source entity-relationship database modeling tool. We're working to make learning database modeling simple and accessible for everyone.",
+   "url": "https://github.com/brmodeloweb/brmodelo-app",
+   "stars": 1706,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "seo-skills/seo-audit-skill",
+   "does": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security hea",
+   "url": "https://github.com/seo-skills/seo-audit-skill",
+   "stars": 996,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "AgnosticUI/agnosticui",
+   "does": "AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-r",
+   "url": "https://github.com/AgnosticUI/agnosticui",
+   "stars": 831,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "AvdLee/RocketSimApp",
+   "does": "RocketSim \u2014 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the R",
+   "url": "https://github.com/AvdLee/RocketSimApp",
+   "stars": 817,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "IBMa/equal-access",
+   "does": "IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment",
+   "url": "https://github.com/IBMa/equal-access",
+   "stars": 788,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "xxnuo/dns-benchmark",
+   "does": "dnspy \u662f\u4e00\u4e2a\u6279\u91cf DNS \u670d\u52a1\u5668\u57fa\u51c6\u6d4b\u8bd5\u5de5\u5177\uff0c\u7528\u4e8e\u672c\u5730\u6d4b\u91cf\u5168\u4e16\u754c\u7684 DNS \u670d\u52a1\u5668\u7684\u53ef\u8bbf\u95ee\u6027\u548c\u6027\u80fd\u3002\u751f\u6210\u53ef\u89c6\u5316\u56fe\u8868\u3002dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performanc",
+   "url": "https://github.com/xxnuo/dns-benchmark",
+   "stars": 750,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "primer/prism",
+   "does": "A tool for creating and maintaining cohesive, consistent, and accessible color palettes",
+   "url": "https://github.com/primer/prism",
+   "stars": 686,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "liip/TheA11yMachine",
+   "does": "The A11y Machine is an automated accessibility testing tool which crawls and tests pages of any web application to produce detailed reports.",
+   "url": "https://github.com/liip/TheA11yMachine",
+   "stars": 643,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "pmndrs/react-three-a11y",
+   "does": "\u267f\ufe0f Accessibility tools for React Three Fiber",
+   "url": "https://github.com/pmndrs/react-three-a11y",
+   "stars": 632,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-11",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "paypal/AATT",
+   "does": "Automated Accessibility Testing Tool",
+   "url": "https://github.com/paypal/AATT",
+   "stars": 610,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "loqusion/hyprshade",
+   "does": "Hyprland shader configuration tool",
+   "url": "https://github.com/loqusion/hyprshade",
+   "stars": 576,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "microsoft/accessibility-insights-windows",
+   "does": "Accessibility Insights for Windows",
+   "url": "https://github.com/microsoft/accessibility-insights-windows",
+   "stars": 557,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "jacobsalmela/tccutil",
+   "does": "\u267f\ufe0f  Command line tool to modify OS X's accessibility database (TCC.db)",
+   "url": "https://github.com/jacobsalmela/tccutil",
+   "stars": 551,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "evanpeikon/Bioinformatics_Toolkit",
+   "does": "A growing collection of bioinformatics tutorials, project guides, tools, and articles I\u2019ve developed to make bioinformatics more accessible.",
+   "url": "https://github.com/evanpeikon/Bioinformatics_Toolkit",
+   "stars": 543,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  },
+  {
+   "node": "camenduru/TostUI",
+   "does": "This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the",
+   "url": "https://github.com/camenduru/TostUI",
+   "stars": 514,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: accessibility tool"
+  }
+ ]
+}

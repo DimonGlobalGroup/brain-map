@@ -1,5 +1,21 @@
 {
  "shard": "3d-graphics-library",
+ "slim": [
+  {
+   "n": "google/draco",
+   "t": "discovered",
+   "s": 7570,
+   "w": "answering",
+   "sh": "3d-graphics-library"
+  },
+  {
+   "n": "dotnet/Silk.NET",
+   "t": "discovered",
+   "s": 5264,
+   "w": "answering",
+   "sh": "3d-graphics-library"
+  }
+ ],
  "nodes": [
   {
    "node": "google/draco",
