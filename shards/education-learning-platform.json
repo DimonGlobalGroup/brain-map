@@ -1,0 +1,231 @@
+{
+ "shard": "education-learning-platform",
+ "slim": [
+  {
+   "n": "processing/p5.js",
+   "t": "discovered",
+   "s": 24434,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "oppia/oppia",
+   "t": "discovered",
+   "s": 7013,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "liyupi/sql-mother",
+   "t": "discovered",
+   "s": 4524,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "rathena/rathena",
+   "t": "discovered",
+   "s": 3677,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "kantord/LibreLingo",
+   "t": "discovered",
+   "s": 2631,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "learnhouse/learnhouse",
+   "t": "discovered",
+   "s": 2499,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "classroomio/classroomio",
+   "t": "discovered",
+   "s": 1750,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  },
+  {
+   "n": "learningequality/kolibri",
+   "t": "discovered",
+   "s": 1192,
+   "w": "answering",
+   "sh": "education-learning-platform"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "processing/p5.js",
+   "does": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is b",
+   "url": "https://github.com/processing/p5.js",
+   "stars": 24434,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "oppia/oppia",
+   "does": "A free, online learning platform to make quality education accessible for all.",
+   "url": "https://github.com/oppia/oppia",
+   "stars": 7013,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "liyupi/sql-mother",
+   "does": "\u7a0b\u5e8f\u5458\u9c7c\u76ae\u7f16\u7a0b\u5bfc\u822a\u539f\u521b\u5f00\u6e90\u9879\u76ee\uff0c\u4e00\u6b3e\u514d\u8d39\u4e14\u7eaf\u524d\u7aef\u5b9e\u73b0\u7684\u95ef\u5173\u4ea4\u4e92\u5f0f SQL \u81ea\u5b66\u6559\u7a0b\u7f51\u7ad9\uff08Interactive SQL Learning Platform\uff09\uff0c\u5e2e\u52a9\u96f6\u57fa\u7840\u7528\u6237\u3001\u7a0b\u5e8f\u5458\u4e0e\u6570\u636e\u5206\u6790\u5e08\u901a\u8fc7\u5b9e\u6218\u5feb\u901f\u638c\u63e1 MySQL\u3001SQLite\u3001PostgreSQL \u7b49\u5e38\u7528 SQL \u6570\u636e\u5e93\u8bed\u6cd5\u3002\u9879\u76ee\u5185\u7f6e 30 \u4e2a\u4f53\u7cfb\u5316\u4e3b\u7ebf\u5173\u5361\u3001",
+   "url": "https://github.com/liyupi/sql-mother",
+   "stars": 4524,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "rathena/rathena",
+   "does": "rAthena is an open-source cross-platform MMORPG server.",
+   "url": "https://github.com/rathena/rathena",
+   "stars": 3677,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "kantord/LibreLingo",
+   "does": "\ud83d\udc22 \ud83c\udf0e \ud83d\udcda a community-owned language-learning platform",
+   "url": "https://github.com/kantord/LibreLingo",
+   "stars": 2631,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "learnhouse/learnhouse",
+   "does": "The Next-gen Open Source learning platform for everyone \u2728",
+   "url": "https://github.com/learnhouse/learnhouse",
+   "stars": 2499,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "classroomio/classroomio",
+   "does": "ClassroomIO is an  Intelligent Customer Training Platform that helps SaaS companies use education to grow their business.",
+   "url": "https://github.com/classroomio/classroomio",
+   "stars": 1750,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  },
+  {
+   "node": "learningequality/kolibri",
+   "does": "Kolibri Learning Platform: the offline app for universal education",
+   "url": "https://github.com/learningequality/kolibri",
+   "stars": 1192,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: education learning platform"
+  }
+ ]
+}

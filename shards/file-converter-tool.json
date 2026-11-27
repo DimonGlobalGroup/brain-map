@@ -1,5 +1,21 @@
 {
  "shard": "file-converter-tool",
+ "slim": [
+  {
+   "n": "Tichau/FileConverter",
+   "t": "discovered",
+   "s": 15802,
+   "w": "answering",
+   "sh": "file-converter-tool"
+  },
+  {
+   "n": "transmute-app/transmute",
+   "t": "discovered",
+   "s": 1486,
+   "w": "answering",
+   "sh": "file-converter-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "Tichau/FileConverter",
