@@ -1,5 +1,105 @@
 {
  "shard": "chatbot-framework",
+ "slim": [
+  {
+   "n": "python-telegram-bot/python-telegram-bot",
+   "t": "discovered",
+   "s": 29616,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "wechaty/wechaty",
+   "t": "discovered",
+   "s": 23622,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "RasaHQ/rasa",
+   "t": "discovered",
+   "s": 21401,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "nonebot/nonebot2",
+   "t": "discovered",
+   "s": 7785,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "vynect/venom",
+   "t": "discovered",
+   "s": 6608,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "koishijs/koishi",
+   "t": "discovered",
+   "s": 6361,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "botman/botman",
+   "t": "discovered",
+   "s": 6147,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "h2oai/h2o-llmstudio",
+   "t": "discovered",
+   "s": 5201,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "Yoctol/bottender",
+   "t": "discovered",
+   "s": 4285,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "open-wa/wa-automate-nodejs",
+   "t": "discovered",
+   "s": 3684,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "run-llama/LlamaIndexTS",
+   "t": "discovered",
+   "s": 3081,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "ehForwarderBot/ehForwarderBot",
+   "t": "discovered",
+   "s": 2936,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "RasaHQ/rasa_core",
+   "t": "discovered",
+   "s": 2340,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  },
+  {
+   "n": "alfredfrancis/ai-chatbot-framework",
+   "t": "discovered",
+   "s": 2188,
+   "w": "answering",
+   "sh": "chatbot-framework"
+  }
+ ],
  "nodes": [
   {
    "node": "python-telegram-bot/python-telegram-bot",
@@ -65,31 +165,10 @@
    "found": "2026-11-26 crawler area: chatbot framework"
   },
   {
-   "node": "2FastLabs/agent-squad",
-   "does": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
-   "url": "https://github.com/2FastLabs/agent-squad",
-   "stars": 7807,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-26",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: chatbot framework"
-  },
-  {
    "node": "nonebot/nonebot2",
    "does": "\u8de8\u5e73\u53f0 Python \u5f02\u6b65\u804a\u5929\u673a\u5668\u4eba\u6846\u67b6 / Asynchronous multi-platform chatbot framework written in Python",
    "url": "https://github.com/nonebot/nonebot2",
-   "stars": 7786,
+   "stars": 7785,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -101,7 +180,7 @@
    "watchdog": {
     "herald": "observed",
     "state": "answering",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "last_checked": "2026-11-26"
    },
    "found": "2026-11-26 crawler area: chatbot framework"
@@ -131,7 +210,7 @@
    "node": "koishijs/koishi",
    "does": "Cross-platform chatbot framework made with love",
    "url": "https://github.com/koishijs/koishi",
-   "stars": 6360,
+   "stars": 6361,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -143,7 +222,7 @@
    "watchdog": {
     "herald": "observed",
     "state": "answering",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "last_checked": "2026-11-26"
    },
    "found": "2026-11-26 crawler area: chatbot framework"
@@ -165,27 +244,6 @@
     "herald": "observed",
     "state": "answering",
     "last_seen": "2026-11-25",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: chatbot framework"
-  },
-  {
-   "node": "superduper-io/superduper",
-   "does": "Superduper: End-to-end framework for building custom AI applications and agents.",
-   "url": "https://github.com/superduper-io/superduper",
-   "stars": 5327,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-26",
     "last_checked": "2026-11-26"
    },
    "found": "2026-11-26 crawler area: chatbot framework"
@@ -233,73 +291,10 @@
    "found": "2026-11-26 crawler area: chatbot framework"
   },
   {
-   "node": "SylphAI-Inc/AdalFlow",
-   "does": "AdalFlow: The library to build & auto-optimize LLM applications.",
-   "url": "https://github.com/SylphAI-Inc/AdalFlow",
-   "stars": 4237,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-25",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: chatbot framework"
-  },
-  {
    "node": "open-wa/wa-automate-nodejs",
    "does": "\ud83d\udcac \ud83e\udd16  The most reliable tool for chatbots with advanced features. Be sure to \ud83c\udf1f this repository for updates!",
    "url": "https://github.com/open-wa/wa-automate-nodejs",
    "stars": 3684,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-26",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: chatbot framework"
-  },
-  {
-   "node": "SciSharp/BotSharp",
-   "does": "AI Multi-Agent Framework in .NET",
-   "url": "https://github.com/SciSharp/BotSharp",
-   "stars": 3120,
-   "license": null,
-   "trust": "discovered",
-   "bench": {
-    "status": "untested"
-   },
-   "kind": "tool",
-   "access": "public",
-   "keys": "none-in-repo",
-   "watchdog": {
-    "herald": "observed",
-    "state": "answering",
-    "last_seen": "2026-11-25",
-    "last_checked": "2026-11-26"
-   },
-   "found": "2026-11-26 crawler area: chatbot framework"
-  },
-  {
-   "node": "cheshire-cat-ai/core",
-   "does": "AI agent microservice",
-   "url": "https://github.com/cheshire-cat-ai/core",
-   "stars": 3095,
    "license": null,
    "trust": "discovered",
    "bench": {

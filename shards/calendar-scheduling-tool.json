@@ -1,5 +1,14 @@
 {
  "shard": "calendar-scheduling-tool",
+ "slim": [
+  {
+   "n": "linkedin/oncall",
+   "t": "discovered",
+   "s": 1258,
+   "w": "answering",
+   "sh": "calendar-scheduling-tool"
+  }
+ ],
  "nodes": [
   {
    "node": "linkedin/oncall",

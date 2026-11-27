@@ -1,0 +1,119 @@
+{
+ "shard": "chat-messaging-app",
+ "slim": [
+  {
+   "n": "howdyai/botkit",
+   "t": "discovered",
+   "s": 11579,
+   "w": "answering",
+   "sh": "chat-messaging-app"
+  },
+  {
+   "n": "fluxerapp/fluxer",
+   "t": "discovered",
+   "s": 11016,
+   "w": "answering",
+   "sh": "chat-messaging-app"
+  },
+  {
+   "n": "TencentCloud/TIMSDK",
+   "t": "discovered",
+   "s": 2757,
+   "w": "answering",
+   "sh": "chat-messaging-app"
+  },
+  {
+   "n": "acani/Chats",
+   "t": "discovered",
+   "s": 2039,
+   "w": "answering",
+   "sh": "chat-messaging-app"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "howdyai/botkit",
+   "does": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+   "url": "https://github.com/howdyai/botkit",
+   "stars": 11579,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: chat messaging app"
+  },
+  {
+   "node": "fluxerapp/fluxer",
+   "does": "A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.",
+   "url": "https://github.com/fluxerapp/fluxer",
+   "stars": 11016,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: chat messaging app"
+  },
+  {
+   "node": "TencentCloud/TIMSDK",
+   "does": "Free Chat SDK (IM SDK) \u2014 1,000 MAU/month free forever with push notifications & no concurrency limits. Build in-app messaging with chat API, UIKit & send messag",
+   "url": "https://github.com/TencentCloud/TIMSDK",
+   "stars": 2757,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: chat messaging app"
+  },
+  {
+   "node": "acani/Chats",
+   "does": "Open-Source Messaging App",
+   "url": "https://github.com/acani/Chats",
+   "stars": 2039,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: chat messaging app"
+  }
+ ]
+}
