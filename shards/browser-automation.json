@@ -1,0 +1,488 @@
+{
+ "shard": "browser-automation",
+ "nodes": [
+  {
+   "node": "vercel-labs/agent-browser",
+   "does": "Browser automation CLI for AI agents",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "stars": 54179,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "lightpanda-io/browser",
+   "does": "Lightpanda: the headless browser designed for AI and automation",
+   "url": "https://github.com/lightpanda-io/browser",
+   "stars": 42628,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "SeleniumHQ/selenium",
+   "does": "A browser automation framework and ecosystem.",
+   "url": "https://github.com/SeleniumHQ/selenium",
+   "stars": 34616,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "ariya/phantomjs",
+   "does": "Scriptable Headless Browser",
+   "url": "https://github.com/ariya/phantomjs",
+   "stars": 29408,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "apify/crawlee",
+   "does": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or G",
+   "url": "https://github.com/apify/crawlee",
+   "stars": 26595,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "citrolabs/ego-lite",
+   "does": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, with",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "stars": 24697,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "browseros-ai/BrowserOS",
+   "does": "\ud83c\udf10 The browser built for your agents!",
+   "url": "https://github.com/browseros-ai/BrowserOS",
+   "stars": 14507,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "nanobrowser/nanobrowser",
+   "does": "Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.",
+   "url": "https://github.com/nanobrowser/nanobrowser",
+   "stars": 14401,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "chromedp/chromedp",
+   "does": "Drive Chrome from Go over the Chrome DevTools Protocol: browser automation, web scraping, testing, screenshots and PDFs. No Node, Selenium or WebDriver.",
+   "url": "https://github.com/chromedp/chromedp",
+   "stars": 13385,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "ultrafunkamsterdam/undetected-chromedriver",
+   "does": "Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)",
+   "url": "https://github.com/ultrafunkamsterdam/undetected-chromedriver",
+   "stars": 12919,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "hangwin/mcp-chrome",
+   "does": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, e",
+   "url": "https://github.com/hangwin/mcp-chrome",
+   "stars": 12564,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "jo-inc/camofox-browser",
+   "does": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+   "url": "https://github.com/jo-inc/camofox-browser",
+   "stars": 12507,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "Tencent/BrowserSkill",
+   "does": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+   "url": "https://github.com/Tencent/BrowserSkill",
+   "stars": 10764,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "pinchtab/pinchtab",
+   "does": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+   "url": "https://github.com/pinchtab/pinchtab",
+   "stars": 10617,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "webdriverio/webdriverio",
+   "does": "Next-gen browser and mobile automation test framework for Node.js",
+   "url": "https://github.com/webdriverio/webdriverio",
+   "stars": 9886,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "apify/crawlee-python",
+   "does": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the b",
+   "url": "https://github.com/apify/crawlee-python",
+   "stars": 9696,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "ntegrals/openbrowser",
+   "does": "Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.",
+   "url": "https://github.com/ntegrals/openbrowser",
+   "stars": 9599,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "artilleryio/artillery",
+   "does": "The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP API",
+   "url": "https://github.com/artilleryio/artillery",
+   "stars": 9127,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "SeleniumHQ/docker-selenium",
+   "does": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale",
+   "url": "https://github.com/SeleniumHQ/docker-selenium",
+   "stars": 8665,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "PleasePrompto/notebooklm-skill",
+   "does": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citat",
+   "url": "https://github.com/PleasePrompto/notebooklm-skill",
+   "stars": 7801,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "autoscrape-labs/pydoll",
+   "does": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.",
+   "url": "https://github.com/autoscrape-labs/pydoll",
+   "stars": 7155,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "dhamaniasad/HeadlessBrowsers",
+   "does": "A list of (almost) all headless web browsers in existence",
+   "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
+   "stars": 6710,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  },
+  {
+   "node": "browser-act/skills",
+   "does": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, indepen",
+   "url": "https://github.com/browser-act/skills",
+   "stars": 6433,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: browser automation"
+  }
+ ]
+}

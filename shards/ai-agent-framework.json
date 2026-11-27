@@ -1,0 +1,530 @@
+{
+ "shard": "ai-agent-framework",
+ "nodes": [
+  {
+   "node": "obra/superpowers",
+   "does": "An agentic skills framework & software development methodology that works.",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 327582,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "langchain-ai/langchain",
+   "does": "The agent engineering platform.",
+   "url": "https://github.com/langchain-ai/langchain",
+   "stars": 150046,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "FoundationAgents/MetaGPT",
+   "does": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "stars": 71494,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "microsoft/autogen",
+   "does": "A programming framework for agentic AI",
+   "url": "https://github.com/microsoft/autogen",
+   "stars": 61970,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "crewAIInc/crewAI",
+   "does": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tac",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "stars": 61311,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "AstrBotDevs/AstrBot",
+   "does": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "stars": 47605,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "langchain-ai/langgraph",
+   "does": "Build resilient agents.",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "stars": 45484,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "mukul975/Anthropic-Cybersecurity-Skills",
+   "does": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud",
+   "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+   "stars": 36828,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "TencentCloud/TencentDB-Agent-Memory",
+   "does": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LL",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "stars": 31219,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "openai/openai-agents-python",
+   "does": "A lightweight, powerful framework for multi-agent workflows",
+   "url": "https://github.com/openai/openai-agents-python",
+   "stars": 30890,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "mastra-ai/mastra",
+   "does": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+   "url": "https://github.com/mastra-ai/mastra",
+   "stars": 29844,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "humanlayer/12-factor-agents",
+   "does": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+   "url": "https://github.com/humanlayer/12-factor-agents",
+   "stars": 27444,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "deepset-ai/haystack",
+   "does": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with exp",
+   "url": "https://github.com/deepset-ai/haystack",
+   "stars": 27118,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "zai-org/Open-AutoGLM",
+   "does": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+   "url": "https://github.com/zai-org/Open-AutoGLM",
+   "stars": 26685,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "agent0ai/agent-zero",
+   "does": "Agent Zero AI framework",
+   "url": "https://github.com/agent0ai/agent-zero",
+   "stars": 20003,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "elizaOS/eliza",
+   "does": "Open source agentic operating system",
+   "url": "https://github.com/elizaOS/eliza",
+   "stars": 19928,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "camel-ai/camel",
+   "does": "\ud83d\udc2b CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+   "url": "https://github.com/camel-ai/camel",
+   "stars": 18072,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "TransformerOptimus/SuperAGI",
+   "does": "<\u26a1\ufe0f> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+   "url": "https://github.com/TransformerOptimus/SuperAGI",
+   "stars": 17758,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "pipecat-ai/pipecat",
+   "does": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+   "url": "https://github.com/pipecat-ai/pipecat",
+   "stars": 17463,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "xbtlin/ai-berkshire",
+   "does": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Co",
+   "url": "https://github.com/xbtlin/ai-berkshire",
+   "stars": 17269,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "raga-ai-hub/RagaAI-Catalyst",
+   "does": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system,",
+   "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+   "stars": 16199,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "livekit/agents",
+   "does": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9",
+   "url": "https://github.com/livekit/agents",
+   "stars": 15357,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "NVIDIA/auto-ontology",
+   "does": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "stars": 15100,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "pestphp/pest",
+   "does": "The elegant testing framework for PHP developers and AI agents.",
+   "url": "https://github.com/pestphp/pest",
+   "stars": 11790,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  },
+  {
+   "node": "omnigent-ai/omnigent",
+   "does": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting",
+   "url": "https://github.com/omnigent-ai/omnigent",
+   "stars": 11582,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: ai agent framework"
+  }
+ ]
+}
