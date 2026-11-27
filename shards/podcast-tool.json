@@ -1,0 +1,147 @@
+{
+ "shard": "podcast-tool",
+ "slim": [
+  {
+   "n": "devsecops/awesome-devsecops",
+   "t": "discovered",
+   "s": 5523,
+   "w": "answering",
+   "sh": "podcast-tool"
+  },
+  {
+   "n": "BolajiAyodeji/awesome-technical-writing",
+   "t": "discovered",
+   "s": 2335,
+   "w": "answering",
+   "sh": "podcast-tool"
+  },
+  {
+   "n": "akhilrex/podgrab",
+   "t": "discovered",
+   "s": 1990,
+   "w": "answering",
+   "sh": "podcast-tool"
+  },
+  {
+   "n": "Chevron7Locked/kima-hub",
+   "t": "discovered",
+   "s": 1297,
+   "w": "answering",
+   "sh": "podcast-tool"
+  },
+  {
+   "n": "awesomeSBOM/awesome-sbom",
+   "t": "discovered",
+   "s": 605,
+   "w": "answering",
+   "sh": "podcast-tool"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "devsecops/awesome-devsecops",
+   "does": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+   "url": "https://github.com/devsecops/awesome-devsecops",
+   "stars": 5523,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: podcast tool"
+  },
+  {
+   "node": "BolajiAyodeji/awesome-technical-writing",
+   "does": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
+   "url": "https://github.com/BolajiAyodeji/awesome-technical-writing",
+   "stars": 2335,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: podcast tool"
+  },
+  {
+   "node": "akhilrex/podgrab",
+   "does": "A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.",
+   "url": "https://github.com/akhilrex/podgrab",
+   "stars": 1990,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: podcast tool"
+  },
+  {
+   "node": "Chevron7Locked/kima-hub",
+   "does": "Kima Hub is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collect",
+   "url": "https://github.com/Chevron7Locked/kima-hub",
+   "stars": 1297,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: podcast tool"
+  },
+  {
+   "node": "awesomeSBOM/awesome-sbom",
+   "does": "A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles",
+   "url": "https://github.com/awesomeSBOM/awesome-sbom",
+   "stars": 605,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-16",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: podcast tool"
+  }
+ ]
+}

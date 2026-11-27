@@ -1,5 +1,42 @@
 {
  "shard": "pdf-generation-library",
+ "slim": [
+  {
+   "n": "QuestPDF/QuestPDF",
+   "t": "discovered",
+   "s": 14235,
+   "w": "answering",
+   "sh": "pdf-generation-library"
+  },
+  {
+   "n": "foliojs/pdfkit",
+   "t": "discovered",
+   "s": 10739,
+   "w": "answering",
+   "sh": "pdf-generation-library"
+  },
+  {
+   "n": "Hopding/pdf-lib",
+   "t": "discovered",
+   "s": 8699,
+   "w": "answering",
+   "sh": "pdf-generation-library"
+  },
+  {
+   "n": "pdfme/pdfme",
+   "t": "discovered",
+   "s": 5097,
+   "w": "answering",
+   "sh": "pdf-generation-library"
+  },
+  {
+   "n": "KnpLabs/snappy",
+   "t": "discovered",
+   "s": 4470,
+   "w": "answering",
+   "sh": "pdf-generation-library"
+  }
+ ],
  "nodes": [
   {
    "node": "QuestPDF/QuestPDF",
