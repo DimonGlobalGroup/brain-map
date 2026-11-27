@@ -1,0 +1,1 @@
+{"shard":"m","links":[{"from":"web:mermade.org.uk:openapi-converter","to":"github:mermade/swagger2openapi","basis":"homepage-url","tier":"bridge-unmapped"},{"from":"web:rottentomatoes.com","to":"github:mermade/mashery2openapi","basis":"homepage-url","tier":"in-github-layer"}]}
