@@ -1,0 +1,2275 @@
+{
+ "shard": "animation-library",
+ "slim": [
+  {
+   "n": "animate-css/animate.css",
+   "t": "discovered",
+   "s": 83074,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "PhilJay/MPAndroidChart",
+   "t": "discovered",
+   "s": 38184,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "motiondivision/motion",
+   "t": "discovered",
+   "s": 35609,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "greensock/GSAP",
+   "t": "discovered",
+   "s": 31331,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "pmndrs/react-spring",
+   "t": "discovered",
+   "s": 29350,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "airbnb/lottie-ios",
+   "t": "discovered",
+   "s": 26952,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "HeroTransitions/Hero",
+   "t": "discovered",
+   "s": 22495,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Popmotion/popmotion",
+   "t": "discovered",
+   "s": 20162,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "facebookarchive/pop",
+   "t": "discovered",
+   "s": 19499,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "mojs/mojs",
+   "t": "discovered",
+   "s": 18950,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "mattboldt/typed.js",
+   "t": "discovered",
+   "s": 16279,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "maxwellito/vivus",
+   "t": "discovered",
+   "s": 15488,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "MengTo/Spring",
+   "t": "discovered",
+   "s": 14054,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "barbajs/barba",
+   "t": "discovered",
+   "s": 13012,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Yalantis/uCrop",
+   "t": "discovered",
+   "s": 12075,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "svgdotjs/svg.js",
+   "t": "discovered",
+   "s": 11965,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "wasabeef/recyclerview-animators",
+   "t": "discovered",
+   "s": 11521,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "software-mansion/react-native-reanimated",
+   "t": "discovered",
+   "s": 11102,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/animated-tab-bar",
+   "t": "discovered",
+   "s": 11078,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "alexfoxy/lax.js",
+   "t": "discovered",
+   "s": 10448,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/folding-cell",
+   "t": "discovered",
+   "s": 10169,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "lecho/hellocharts-android",
+   "t": "discovered",
+   "s": 7556,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "FastLED/FastLED",
+   "t": "discovered",
+   "s": 7540,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "michaelvillar/dynamics.js",
+   "t": "discovered",
+   "s": 7532,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ChenYilong/CYLTabBarController",
+   "t": "discovered",
+   "s": 7077,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ibelick/motion-primitives",
+   "t": "discovered",
+   "s": 7044,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "exyte/Macaw",
+   "t": "discovered",
+   "s": 6042,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Tencent/libpag",
+   "t": "discovered",
+   "s": 5825,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "amosgyamfi/open-swiftui-animations",
+   "t": "discovered",
+   "s": 5695,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "DavidHDev/canvas-ui",
+   "t": "discovered",
+   "s": 5599,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "pterm/pterm",
+   "t": "discovered",
+   "s": 5571,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "nhaarman/ListViewAnimations",
+   "t": "discovered",
+   "s": 5512,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/expanding-collection",
+   "t": "discovered",
+   "s": 5510,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "v5tech/awesome-ios-animation",
+   "t": "discovered",
+   "s": 5479,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "sarcadass/granim.js",
+   "t": "discovered",
+   "s": 5293,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "facebookarchive/Keyframes",
+   "t": "discovered",
+   "s": 5277,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "swup/swup",
+   "t": "discovered",
+   "s": 5257,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "nandorojo/moti",
+   "t": "discovered",
+   "s": 4547,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "patrickkunka/mixitup",
+   "t": "discovered",
+   "s": 4522,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ColinEberhardt/VCTransitionsLibrary",
+   "t": "discovered",
+   "s": 4506,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "JakeWharton/NineOldAndroids",
+   "t": "discovered",
+   "s": 4455,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "roberthein/TinyConstraints",
+   "t": "discovered",
+   "s": 4075,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "spite/ccapture.js",
+   "t": "discovered",
+   "s": 3786,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/swift-ui-animation-components-and-libraries",
+   "t": "discovered",
+   "s": 3715,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "mciastek/sal",
+   "t": "discovered",
+   "s": 3694,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "CreateJS/TweenJS",
+   "t": "discovered",
+   "s": 3582,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "helblazer811/ManimML",
+   "t": "discovered",
+   "s": 3534,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "willowtreeapps/spruce-ios",
+   "t": "discovered",
+   "s": 3418,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/circle-menu",
+   "t": "discovered",
+   "s": 3400,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "MoZhouqi/KMNavigationBarTransition",
+   "t": "discovered",
+   "s": 3343,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "romboHQ/tailwindcss-motion",
+   "t": "discovered",
+   "s": 3337,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "signerlabs/ShipSwift",
+   "t": "discovered",
+   "s": 3283,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "guillaumeblanc/ozz-animation",
+   "t": "discovered",
+   "s": 3188,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "alexmacarthur/typeit",
+   "t": "discovered",
+   "s": 3177,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "FormidableLabs/react-animations",
+   "t": "discovered",
+   "s": 3033,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "gabrielemariotti/RecyclerViewItemAnimators",
+   "t": "discovered",
+   "s": 3012,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "AugustRush/Stellar",
+   "t": "discovered",
+   "s": 2943,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "icanzilb/EasyAnimation",
+   "t": "discovered",
+   "s": 2925,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "hsnaydd/moveTo",
+   "t": "discovered",
+   "s": 2850,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "daybrush/scenejs",
+   "t": "discovered",
+   "s": 2789,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "florent37/ViewAnimator",
+   "t": "discovered",
+   "s": 2696,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Yalantis/GuillotineMenu-Android",
+   "t": "discovered",
+   "s": 2690,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Krupen/FabulousFilter",
+   "t": "discovered",
+   "s": 2644,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "margelo/react-native-graph",
+   "t": "discovered",
+   "s": 2641,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "worker8/TourGuide",
+   "t": "discovered",
+   "s": 2604,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ToxicBakery/ViewPagerTransforms",
+   "t": "discovered",
+   "s": 2560,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "drawcall/Proton",
+   "t": "discovered",
+   "s": 2535,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ingram-projects/animxyz",
+   "t": "discovered",
+   "s": 2508,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "elye/loaderviewlibrary",
+   "t": "discovered",
+   "s": 2480,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "annulusgames/LitMotion",
+   "t": "discovered",
+   "s": 2372,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "android-cjj/JJSearchViewAnim",
+   "t": "discovered",
+   "s": 2337,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "webkul/micron",
+   "t": "discovered",
+   "s": 2305,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "takuoka/TKSubmitTransition",
+   "t": "discovered",
+   "s": 2253,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "jacklam718/react-native-modals",
+   "t": "discovered",
+   "s": 2203,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "geosigno/simpleParallax.js",
+   "t": "discovered",
+   "s": 2159,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "ui-layouts/cursify",
+   "t": "discovered",
+   "s": 2142,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "janishar/PlaceHolderView",
+   "t": "discovered",
+   "s": 2130,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "Ramotion/android-ui-animation-components-and-libraries",
+   "t": "discovered",
+   "s": 2059,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "vizzuhq/vizzu-lib",
+   "t": "discovered",
+   "s": 2051,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "dev-labs-bg/transitioner",
+   "t": "discovered",
+   "s": 2043,
+   "w": "answering",
+   "sh": "animation-library"
+  },
+  {
+   "n": "KyryloKuzyk/PrimeTween",
+   "t": "discovered",
+   "s": 2032,
+   "w": "answering",
+   "sh": "animation-library"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "animate-css/animate.css",
+   "does": "\ud83c\udf7f A cross-browser library of CSS animations. As easy to use as an easy thing.",
+   "url": "https://github.com/animate-css/animate.css",
+   "stars": 83074,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "PhilJay/MPAndroidChart",
+   "does": "A powerful \ud83d\ude80 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animation",
+   "url": "https://github.com/PhilJay/MPAndroidChart",
+   "stars": 38184,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "motiondivision/motion",
+   "does": "A modern animation library for React and JavaScript",
+   "url": "https://github.com/motiondivision/motion",
+   "stars": 35609,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "greensock/GSAP",
+   "does": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+   "url": "https://github.com/greensock/GSAP",
+   "stars": 31331,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "pmndrs/react-spring",
+   "does": "\u270c\ufe0f A spring physics based React animation library",
+   "url": "https://github.com/pmndrs/react-spring",
+   "stars": 29350,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "airbnb/lottie-ios",
+   "does": "An iOS library to natively render After Effects vector animations",
+   "url": "https://github.com/airbnb/lottie-ios",
+   "stars": 26952,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "HeroTransitions/Hero",
+   "does": "Elegant transition library for iOS & tvOS",
+   "url": "https://github.com/HeroTransitions/Hero",
+   "stars": 22495,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Popmotion/popmotion",
+   "does": "Simple animation libraries for delightful user interfaces",
+   "url": "https://github.com/Popmotion/popmotion",
+   "stars": 20162,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "facebookarchive/pop",
+   "does": "An extensible iOS and OS X animation library, useful for physics-based interactions.",
+   "url": "https://github.com/facebookarchive/pop",
+   "stars": 19499,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "mojs/mojs",
+   "does": "The motion graphics toolbelt for the web",
+   "url": "https://github.com/mojs/mojs",
+   "stars": 18950,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "mattboldt/typed.js",
+   "does": "A JavaScript Typing Animation Library",
+   "url": "https://github.com/mattboldt/typed.js",
+   "stars": 16279,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "maxwellito/vivus",
+   "does": "JavaScript library to make drawing animation on SVG",
+   "url": "https://github.com/maxwellito/vivus",
+   "stars": 15488,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "MengTo/Spring",
+   "does": "A library to simplify iOS animations in Swift.",
+   "url": "https://github.com/MengTo/Spring",
+   "stars": 14054,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "barbajs/barba",
+   "does": "Create badass, fluid and smooth transitions between your website\u2019s pages",
+   "url": "https://github.com/barbajs/barba",
+   "stars": 13012,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Yalantis/uCrop",
+   "does": "Image Cropping Library for Android",
+   "url": "https://github.com/Yalantis/uCrop",
+   "stars": 12075,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "svgdotjs/svg.js",
+   "does": "The lightweight library for manipulating and animating SVG",
+   "url": "https://github.com/svgdotjs/svg.js",
+   "stars": 11965,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "wasabeef/recyclerview-animators",
+   "does": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+   "url": "https://github.com/wasabeef/recyclerview-animators",
+   "stars": 11521,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "software-mansion/react-native-reanimated",
+   "does": "React Native's Animated library reimplemented",
+   "url": "https://github.com/software-mansion/react-native-reanimated",
+   "stars": 11102,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/animated-tab-bar",
+   "does": ":octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion",
+   "url": "https://github.com/Ramotion/animated-tab-bar",
+   "stars": 11078,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "alexfoxy/lax.js",
+   "does": "Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.",
+   "url": "https://github.com/alexfoxy/lax.js",
+   "stars": 10448,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/folding-cell",
+   "does": ":octocat: \ud83d\udcc3 FoldingCell is an expanding content cell with animation made by @Ramotion",
+   "url": "https://github.com/Ramotion/folding-cell",
+   "stars": 10169,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "lecho/hellocharts-android",
+   "does": "Charts library for Android compatible with API 8+, several chart types with scaling, scrolling and animations \ud83d\udcca",
+   "url": "https://github.com/lecho/hellocharts-android",
+   "stars": 7556,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "FastLED/FastLED",
+   "does": "The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd",
+   "url": "https://github.com/FastLED/FastLED",
+   "stars": 7540,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "michaelvillar/dynamics.js",
+   "does": "Javascript library to create physics-based animations",
+   "url": "https://github.com/michaelvillar/dynamics.js",
+   "stars": 7532,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ChenYilong/CYLTabBarController",
+   "does": "[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, Liquid Glass and adding a bigger center UITabBar Item.  [CN]\u3010",
+   "url": "https://github.com/ChenYilong/CYLTabBarController",
+   "stars": 7077,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ibelick/motion-primitives",
+   "does": "UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.",
+   "url": "https://github.com/ibelick/motion-primitives",
+   "stars": 7044,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "exyte/Macaw",
+   "does": "Powerful and easy-to-use vector graphics Swift library with SVG support",
+   "url": "https://github.com/exyte/Macaw",
+   "stars": 6042,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Tencent/libpag",
+   "does": "The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.",
+   "url": "https://github.com/Tencent/libpag",
+   "stars": 5825,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "amosgyamfi/open-swiftui-animations",
+   "does": "You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expre",
+   "url": "https://github.com/amosgyamfi/open-swiftui-animations",
+   "stars": 5695,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "DavidHDev/canvas-ui",
+   "does": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+   "url": "https://github.com/DavidHDev/canvas-ui",
+   "stars": 5599,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "pterm/pterm",
+   "does": "\u2728 PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more \ud83d\ude80 It's co",
+   "url": "https://github.com/pterm/pterm",
+   "stars": 5571,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "nhaarman/ListViewAnimations",
+   "does": "[DEPRECATED] An Android library which allows developers to easily add animations to ListView items",
+   "url": "https://github.com/nhaarman/ListViewAnimations",
+   "stars": 5512,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/expanding-collection",
+   "does": ":octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion",
+   "url": "https://github.com/Ramotion/expanding-collection",
+   "stars": 5510,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-05",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "v5tech/awesome-ios-animation",
+   "does": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
+   "url": "https://github.com/v5tech/awesome-ios-animation",
+   "stars": 5479,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "sarcadass/granim.js",
+   "does": "Create fluid and interactive gradient animations with this small javascript library.",
+   "url": "https://github.com/sarcadass/granim.js",
+   "stars": 5293,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "facebookarchive/Keyframes",
+   "does": "A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices.",
+   "url": "https://github.com/facebookarchive/Keyframes",
+   "stars": 5277,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "swup/swup",
+   "does": "Versatile and extensible page transition library for server-rendered websites \ud83c\udf89",
+   "url": "https://github.com/swup/swup",
+   "stars": 5257,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "nandorojo/moti",
+   "does": "\ud83d\udc3c  The React Native (+ Web) animation library, powered by Reanimated 3.",
+   "url": "https://github.com/nandorojo/moti",
+   "stars": 4547,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "patrickkunka/mixitup",
+   "does": "A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more",
+   "url": "https://github.com/patrickkunka/mixitup",
+   "stars": 4522,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ColinEberhardt/VCTransitionsLibrary",
+   "does": "A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.",
+   "url": "https://github.com/ColinEberhardt/VCTransitionsLibrary",
+   "stars": 4506,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "JakeWharton/NineOldAndroids",
+   "does": "[DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!",
+   "url": "https://github.com/JakeWharton/NineOldAndroids",
+   "stars": 4455,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "roberthein/TinyConstraints",
+   "does": "Nothing but sugar.",
+   "url": "https://github.com/roberthein/TinyConstraints",
+   "stars": 4075,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "spite/ccapture.js",
+   "does": "A library to capture canvas-based animations at a fixed framerate",
+   "url": "https://github.com/spite/ccapture.js",
+   "stars": 3786,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/swift-ui-animation-components-and-libraries",
+   "does": "Swift UI libraries, iOS components and animations by @Ramotion",
+   "url": "https://github.com/Ramotion/swift-ui-animation-components-and-libraries",
+   "stars": 3715,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "mciastek/sal",
+   "does": "\ud83d\ude80 Performance focused, lightweight scroll animation library \ud83d\ude80",
+   "url": "https://github.com/mciastek/sal",
+   "stars": 3694,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "CreateJS/TweenJS",
+   "does": "A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.",
+   "url": "https://github.com/CreateJS/TweenJS",
+   "stars": 3582,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "helblazer811/ManimML",
+   "does": "ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.",
+   "url": "https://github.com/helblazer811/ManimML",
+   "stars": 3534,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "willowtreeapps/spruce-ios",
+   "does": "Swift library for choreographing animations on the screen.",
+   "url": "https://github.com/willowtreeapps/spruce-ios",
+   "stars": 3418,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-13",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/circle-menu",
+   "does": ":octocat: \u2b55\ufe0f CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library made by @Ramotion",
+   "url": "https://github.com/Ramotion/circle-menu",
+   "stars": 3400,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "MoZhouqi/KMNavigationBarTransition",
+   "does": "A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while p",
+   "url": "https://github.com/MoZhouqi/KMNavigationBarTransition",
+   "stars": 3343,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "romboHQ/tailwindcss-motion",
+   "does": "tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It\u2019s a simple, yet powerful, animation library with a simple syntax.",
+   "url": "https://github.com/romboHQ/tailwindcss-motion",
+   "stars": 3337,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "signerlabs/ShipSwift",
+   "does": "Agent skills and an AI-native SwiftUI component library for iOS apps: animations, Metal shaders, charts, components and full-stack modules your coding agent can",
+   "url": "https://github.com/signerlabs/ShipSwift",
+   "stars": 3283,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "guillaumeblanc/ozz-animation",
+   "does": "Open source c++ skeletal animation library and toolset",
+   "url": "https://github.com/guillaumeblanc/ozz-animation",
+   "stars": 3188,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "alexmacarthur/typeit",
+   "does": "The most versatile JavaScript typewriter effect library on the planet.",
+   "url": "https://github.com/alexmacarthur/typeit",
+   "stars": 3177,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "FormidableLabs/react-animations",
+   "does": "\ud83c\udf8a A collection of animations for inline style libraries",
+   "url": "https://github.com/FormidableLabs/react-animations",
+   "stars": 3033,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "gabrielemariotti/RecyclerViewItemAnimators",
+   "does": "An Android library which provides simple Item animations to RecyclerView items",
+   "url": "https://github.com/gabrielemariotti/RecyclerViewItemAnimators",
+   "stars": 3012,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "AugustRush/Stellar",
+   "does": "A fantastic Physical animation library for swift",
+   "url": "https://github.com/AugustRush/Stellar",
+   "stars": 2943,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "icanzilb/EasyAnimation",
+   "does": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing vie",
+   "url": "https://github.com/icanzilb/EasyAnimation",
+   "stars": 2925,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "hsnaydd/moveTo",
+   "does": "A lightweight scroll animation javascript library without any dependency",
+   "url": "https://github.com/hsnaydd/moveTo",
+   "stars": 2850,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "daybrush/scenejs",
+   "does": "\ud83c\udfac Scene.js is JavaScript & CSS timeline-based animation library",
+   "url": "https://github.com/daybrush/scenejs",
+   "stars": 2789,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "florent37/ViewAnimator",
+   "does": "A fluent Android animation library",
+   "url": "https://github.com/florent37/ViewAnimator",
+   "stars": 2696,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Yalantis/GuillotineMenu-Android",
+   "does": "Neat library, that provides a simple way to implement guillotine-styled animation",
+   "url": "https://github.com/Yalantis/GuillotineMenu-Android",
+   "stars": 2690,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Krupen/FabulousFilter",
+   "does": "Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa",
+   "url": "https://github.com/Krupen/FabulousFilter",
+   "stars": 2644,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "margelo/react-native-graph",
+   "does": "\ud83d\udcc8 Beautiful, high-performance Graphs and Charts for React Native built with Skia",
+   "url": "https://github.com/margelo/react-native-graph",
+   "stars": 2641,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "worker8/TourGuide",
+   "does": "TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View",
+   "url": "https://github.com/worker8/TourGuide",
+   "stars": 2604,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ToxicBakery/ViewPagerTransforms",
+   "does": "Library containing common animations needed for transforming ViewPager scrolling for Android v13+.",
+   "url": "https://github.com/ToxicBakery/ViewPagerTransforms",
+   "stars": 2560,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "drawcall/Proton",
+   "does": "Javascript particle animation library",
+   "url": "https://github.com/drawcall/Proton",
+   "stars": 2535,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ingram-projects/animxyz",
+   "does": "The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.",
+   "url": "https://github.com/ingram-projects/animxyz",
+   "stars": 2508,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "elye/loaderviewlibrary",
+   "does": "Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded",
+   "url": "https://github.com/elye/loaderviewlibrary",
+   "stars": 2480,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "annulusgames/LitMotion",
+   "does": "Lightning-fast and Zero Allocation Tween Library for Unity.",
+   "url": "https://github.com/annulusgames/LitMotion",
+   "stars": 2372,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "android-cjj/JJSearchViewAnim",
+   "does": "A cool search view animation library",
+   "url": "https://github.com/android-cjj/JJSearchViewAnim",
+   "stars": 2337,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "webkul/micron",
+   "does": "a [\u03bc] microInteraction library built with CSS Animations and controlled by JavaScript Power",
+   "url": "https://github.com/webkul/micron",
+   "stars": 2305,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "takuoka/TKSubmitTransition",
+   "does": "Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen",
+   "url": "https://github.com/takuoka/TKSubmitTransition",
+   "stars": 2253,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-13",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "jacklam718/react-native-modals",
+   "does": "A react native modals library. Swipeable. Highly customizable. Support multi modals & Support custom animation. For IOS & Android.",
+   "url": "https://github.com/jacklam718/react-native-modals",
+   "stars": 2203,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "geosigno/simpleParallax.js",
+   "does": "A lightweight React & vanilla JavaScript library that adds a parallax effect to any image.",
+   "url": "https://github.com/geosigno/simpleParallax.js",
+   "stars": 2159,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "ui-layouts/cursify",
+   "does": "Cursor Animation Library for React & Next.js",
+   "url": "https://github.com/ui-layouts/cursify",
+   "stars": 2142,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "janishar/PlaceHolderView",
+   "does": "This library provides advance views for lists and stacks. Some of the views are build on top of RecyclerView and others are written in their own. Annotations ar",
+   "url": "https://github.com/janishar/PlaceHolderView",
+   "stars": 2130,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "Ramotion/android-ui-animation-components-and-libraries",
+   "does": "Android UI libraries, components and animations by @ramotion",
+   "url": "https://github.com/Ramotion/android-ui-animation-components-and-libraries",
+   "stars": 2059,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "vizzuhq/vizzu-lib",
+   "does": "Library for animated data visualizations and data stories.",
+   "url": "https://github.com/vizzuhq/vizzu-lib",
+   "stars": 2051,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "dev-labs-bg/transitioner",
+   "does": "A library for dynamic view-to-view transitions",
+   "url": "https://github.com/dev-labs-bg/transitioner",
+   "stars": 2043,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  },
+  {
+   "node": "KyryloKuzyk/PrimeTween",
+   "does": "High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.",
+   "url": "https://github.com/KyryloKuzyk/PrimeTween",
+   "stars": 2032,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: animation library"
+  }
+ ]
+}
