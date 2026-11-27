@@ -1,0 +1,17 @@
+{
+ "brainmap_peers": 1,
+ "knows": [
+  {
+   "node": "DimonGlobalGroup/brain-map",
+   "why": "this registry itself"
+  },
+  {
+   "node": "DimonGlobalGroup/shelflife",
+   "why": "stale-file auditor, founding tool node"
+  },
+  {
+   "node": "DimonGlobalGroup/neurogen",
+   "why": "NEUROGEN releases, founding node"
+  }
+ ]
+}
