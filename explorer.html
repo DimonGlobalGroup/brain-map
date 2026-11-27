@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Whole Graph — Dimon Global Group Brain Map</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 2rem auto; max-width: 880px; padding: 0 1rem; color: #14181d; }
+  h1 { font-size: 1.5rem; margin-bottom: .2rem; }
+  .sub { color: #5a6472; margin-top: 0; }
+  .counts { display: flex; gap: 1.2rem; flex-wrap: wrap; margin: 1rem 0; }
+  .counts div { background: #f2f4f7; border-radius: 8px; padding: .6rem .9rem; }
+  .counts b { font-size: 1.25rem; display: block; }
+  input[type=search] { width: 100%; box-sizing: border-box; font-size: 1.05rem; padding: .65rem .8rem; border: 1px solid #b9c2cc; border-radius: 8px; }
+  .filters { margin: .7rem 0 1rem; display: flex; gap: .5rem; flex-wrap: wrap; }
+  .filters button { border: 1px solid #b9c2cc; background: #fff; border-radius: 999px; padding: .3rem .8rem; cursor: pointer; }
+  .filters button.on { background: #14181d; color: #fff; }
+  .node { border: 1px solid #e1e6ec; border-radius: 8px; padding: .7rem .9rem; margin-bottom: .55rem; }
+  .node .id { font-weight: 650; word-break: break-all; }
+  .tag { font-size: .72rem; border-radius: 4px; padding: .1rem .4rem; margin-left: .45rem; vertical-align: middle; }
+  .gh { background: #e8f0fe; } .web { background: #e6f4ea; }
+  .disc { background: #fef7e0; } .fp { background: #e6f4ea; }
+  .does { color: #39424e; margin: .3rem 0; }
+  .bridge { font-size: .85rem; margin-top: .35rem; }
+  .bridge a { cursor: pointer; color: #0b57d0; text-decoration: underline; }
+  .meta { font-size: .8rem; color: #5a6472; }
+  a.ext { color: #0b57d0; }
+</style>
+</head>
+<body>
+<h1>The Whole Graph</h1>
+<p class="sub">One graph, two layers: GitHub repos and internet services, tied by bridges. The Brain Map of Dimon Global Group. Discovered nodes are claims until benched; a bridge never transfers trust.</p>
+<div class="counts" id="counts">Loading the graph…</div>
+<input type="search" id="q" placeholder="Search 5,000+ nodes: try pdf, weather, payments, godot, voice…">
+<div class="filters" id="filters">
+  <button data-f="all" class="on">All</button>
+  <button data-f="github">GitHub layer</button>
+  <button data-f="web">Web layer</button>
+  <button data-f="bridged">Bridged only</button>
+</div>
+<div id="results"></div>
+<script>
+let G = null, filter = "all";
+const $ = (id) => document.getElementById(id);
+function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+async function load() {
+  const [whole, slim] = await Promise.all([
+    fetch("whole-graph.json").then((r) => r.json()),
+    fetch("slim-all.json").then((r) => r.json()),
+  ]);
+  G = { whole, slim };
+  const c = whole.counts;
+  $("counts").innerHTML =
+    "<div><b>" + c.total_nodes.toLocaleString() + "</b>nodes, one graph</div>" +
+    "<div><b>" + c.github_nodes.toLocaleString() + "</b>GitHub repos</div>" +
+    "<div><b>" + c.web_nodes.toLocaleString() + "</b>web services</div>" +
+    "<div><b>" + c.cross_links.toLocaleString() + "</b>bridges (" + c.bridges_in_layer + " landed)</div>";
+  render();
+}
+function bridgesFor(layer, id) {
+  if (!G) return [];
+  if (layer === "web") return G.slim.links.filter((l) => l.from === "web:" + id);
+  return G.slim.links.filter((l) => l.to.toLowerCase() === ("github:" + id).toLowerCase());
+}
+function jump(layer, id) {
+  $("q").value = id; filter = layer; syncFilters(); render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+function syncFilters() {
+  document.querySelectorAll("#filters button").forEach((b) => b.classList.toggle("on", b.dataset.f === filter));
+}
+function render() {
+  if (!G) return;
+  const q = $("q").value.trim().toLowerCase();
+  const out = [];
+  const push = (layer, n) => {
+    const bridges = bridgesFor(layer, n.n);
+    if (filter === "bridged" && !bridges.length) return;
+    if (filter !== "all" && filter !== "bridged" && filter !== layer) return;
+    if (q && !(n.n.toLowerCase().includes(q) || (n.d || "").toLowerCase().includes(q))) return;
+    out.push({ layer, n, bridges });
+  };
+  G.slim.github.forEach((n) => push("github", n));
+  G.slim.web.forEach((n) => push("web", n));
+  const shown = out.slice(0, 60);
+  $("results").innerHTML =
+    "<p class='meta'>" + out.length.toLocaleString() + " match" + (out.length === 1 ? "" : "es") + (out.length > 60 ? ", showing first 60" : "") + "</p>" +
+    shown.map(({ layer, n, bridges }) => {
+      const home = layer === "github" ? n.u : (n.hp || n.ep);
+      let h = "<div class='node'><span class='id'>" + esc(n.n) + "</span>" +
+        "<span class='tag " + (layer === "github" ? "gh" : "web") + "'>" + layer + "</span>" +
+        "<span class='tag " + (n.t === "first-party" ? "fp" : "disc") + "'>" + esc(n.t) + "</span>" +
+        "<span class='tag'>" + esc(n.w) + "</span>";
+      if (n.d) h += "<div class='does'>" + esc(n.d) + "</div>";
+      if (home) h += "<div class='meta'><a class='ext' href='" + esc(home) + "' target='_blank' rel='noopener'>open</a></div>";
+      for (const b of bridges) {
+        if (layer === "web") h += "<div class='bridge'>bridge → <a onclick=\"jump('github','" + esc(b.to.slice(7)) + "')\">" + esc(b.to) + "</a> <span class='meta'>(" + esc(b.tier) + ", by " + esc(b.basis) + ")</span></div>";
+        else h += "<div class='bridge'>bridge ← <a onclick=\"jump('web','" + esc(b.from.slice(4)) + "')\">" + esc(b.from) + "</a> <span class='meta'>(" + esc(b.tier) + ")</span></div>";
+      }
+      return h + "</div>";
+    }).join("");
+}
+$("q").addEventListener("input", render);
+document.querySelectorAll("#filters button").forEach((b) => b.addEventListener("click", () => { filter = b.dataset.f; syncFilters(); render(); }));
+load().catch((e) => { $("counts").textContent = "Could not load the graph files: " + e; });
+</script>
+</body>
+</html>
