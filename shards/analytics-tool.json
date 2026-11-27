@@ -1,0 +1,203 @@
+{
+ "shard": "analytics-tool",
+ "slim": [
+  {
+   "n": "PostHog/posthog",
+   "t": "discovered",
+   "s": 41180,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "faisalman/ua-parser-js",
+   "t": "discovered",
+   "s": 10217,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "Tautulli/Tautulli",
+   "t": "discovered",
+   "s": 6645,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "nunomaduro/phpinsights",
+   "t": "discovered",
+   "s": 5647,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "oxnr/awesome-analytics",
+   "t": "discovered",
+   "s": 4336,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "cisagov/RedEye",
+   "t": "discovered",
+   "s": 2768,
+   "w": "answering",
+   "sh": "analytics-tool"
+  },
+  {
+   "n": "Hamza417/Inure",
+   "t": "discovered",
+   "s": 2022,
+   "w": "answering",
+   "sh": "analytics-tool"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "PostHog/posthog",
+   "does": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experim",
+   "url": "https://github.com/PostHog/posthog",
+   "stars": 41180,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "faisalman/ua-parser-js",
+   "does": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Nod",
+   "url": "https://github.com/faisalman/ua-parser-js",
+   "stars": 10217,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "Tautulli/Tautulli",
+   "does": "A Python based monitoring and tracking tool for Plex Media Server.",
+   "url": "https://github.com/Tautulli/Tautulli",
+   "stars": 6645,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "nunomaduro/phpinsights",
+   "does": "\ud83d\udd30 Instant PHP quality checks from your console",
+   "url": "https://github.com/nunomaduro/phpinsights",
+   "stars": 5647,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "oxnr/awesome-analytics",
+   "does": "A curated list of analytics frameworks, software and other tools.",
+   "url": "https://github.com/oxnr/awesome-analytics",
+   "stars": 4336,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "cisagov/RedEye",
+   "does": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+   "url": "https://github.com/cisagov/RedEye",
+   "stars": 2768,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  },
+  {
+   "node": "Hamza417/Inure",
+   "does": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other",
+   "url": "https://github.com/Hamza417/Inure",
+   "stars": 2022,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: analytics tool"
+  }
+ ]
+}
