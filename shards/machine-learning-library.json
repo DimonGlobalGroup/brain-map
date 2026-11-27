@@ -1,5 +1,350 @@
 {
  "shard": "machine-learning-library",
+ "slim": [
+  {
+   "n": "josephmisiti/awesome-machine-learning",
+   "t": "discovered",
+   "s": 74920,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "lukasmasuch/best-of-ml-python",
+   "t": "discovered",
+   "s": 23884,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "EthicalML/awesome-production-machine-learning",
+   "t": "discovered",
+   "s": 21127,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ggml-org/ggml",
+   "t": "discovered",
+   "s": 16225,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "cleanlab/cleanlab",
+   "t": "discovered",
+   "s": 11762,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "anbeime/skill",
+   "t": "discovered",
+   "s": 9940,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "catboost/catboost",
+   "t": "discovered",
+   "s": 9220,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "firmai/industry-machine-learning",
+   "t": "discovered",
+   "s": 7493,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "guess-js/guess",
+   "t": "discovered",
+   "s": 7117,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ml5js/ml5-library",
+   "t": "discovered",
+   "s": 6584,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "timeseriesAI/tsai",
+   "t": "discovered",
+   "s": 6153,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "Swift-AI/Swift-AI",
+   "t": "discovered",
+   "s": 6029,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "gorgonia/gorgonia",
+   "t": "discovered",
+   "s": 5926,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "mlpack/mlpack",
+   "t": "discovered",
+   "s": 5731,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "flashlight/flashlight",
+   "t": "discovered",
+   "s": 5479,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "microsoft/SynapseML",
+   "t": "discovered",
+   "s": 5260,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "rasbt/mlxtend",
+   "t": "discovered",
+   "s": 5195,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "mdbloice/Augmentor",
+   "t": "discovered",
+   "s": 5129,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "lululxvi/deepxde",
+   "t": "discovered",
+   "s": 4513,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "amazon-archives/amazon-dsstne",
+   "t": "discovered",
+   "s": 4387,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ARM-software/ComputeLibrary",
+   "t": "discovered",
+   "s": 3213,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "TeamHG-Memex/eli5",
+   "t": "discovered",
+   "s": 2861,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "whylabs/whylogs",
+   "t": "discovered",
+   "s": 2838,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "microsoft/DirectML",
+   "t": "discovered",
+   "s": 2589,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "huggingface/evaluate",
+   "t": "discovered",
+   "s": 2498,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "facebookresearch/fairchem",
+   "t": "discovered",
+   "s": 2375,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "salesforce/TransmogrifAI",
+   "t": "discovered",
+   "s": 2280,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ageron/handson-mlp",
+   "t": "discovered",
+   "s": 2279,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ermig1979/Simd",
+   "t": "discovered",
+   "s": 2278,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "aws/sagemaker-python-sdk",
+   "t": "discovered",
+   "s": 2272,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "vaaaaanquish/Awesome-Rust-MachineLearning",
+   "t": "discovered",
+   "s": 2265,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ahmedfgad/GeneticAlgorithmPython",
+   "t": "discovered",
+   "s": 2234,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "RubixML/ML",
+   "t": "discovered",
+   "s": 2213,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "WenjieDu/PyPOTS",
+   "t": "discovered",
+   "s": 2099,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "tensorflow/privacy",
+   "t": "discovered",
+   "s": 2042,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "uber/petastorm",
+   "t": "discovered",
+   "s": 1894,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "nlpodyssey/spago",
+   "t": "discovered",
+   "s": 1852,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "symisc/sod",
+   "t": "discovered",
+   "s": 1808,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "Anemll/Anemll",
+   "t": "discovered",
+   "s": 1711,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "ml4a/ml4a",
+   "t": "discovered",
+   "s": 1603,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "AxeldeRomblay/MLBox",
+   "t": "discovered",
+   "s": 1534,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "oracle/tribuo",
+   "t": "discovered",
+   "s": 1420,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "AtheMathmo/rusty-machine",
+   "t": "discovered",
+   "s": 1263,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "AlgRUC/JittorGeometric",
+   "t": "discovered",
+   "s": 1196,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "dmlc/mshadow",
+   "t": "discovered",
+   "s": 1119,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "stfc/qiskit-machine-learning",
+   "t": "discovered",
+   "s": 1116,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "novak-99/MLPP",
+   "t": "discovered",
+   "s": 1106,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "LeonChaoX/qinyan-academic-skills",
+   "t": "discovered",
+   "s": 1073,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  },
+  {
+   "n": "mni-ml/framework",
+   "t": "discovered",
+   "s": 1023,
+   "w": "answering",
+   "sh": "machine-learning-library"
+  }
+ ],
  "nodes": [
   {
    "node": "josephmisiti/awesome-machine-learning",
@@ -68,7 +413,7 @@
    "node": "ggml-org/ggml",
    "does": "Tensor library for machine learning",
    "url": "https://github.com/ggml-org/ggml",
-   "stars": 16224,
+   "stars": 16225,
    "license": null,
    "trust": "discovered",
    "bench": {
@@ -375,6 +720,657 @@
     "herald": "observed",
     "state": "answering",
     "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "lululxvi/deepxde",
+   "does": "A library for scientific machine learning and physics-informed learning",
+   "url": "https://github.com/lululxvi/deepxde",
+   "stars": 4513,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "amazon-archives/amazon-dsstne",
+   "does": "Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models",
+   "url": "https://github.com/amazon-archives/amazon-dsstne",
+   "stars": 4387,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ARM-software/ComputeLibrary",
+   "does": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
+   "url": "https://github.com/ARM-software/ComputeLibrary",
+   "stars": 3213,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "TeamHG-Memex/eli5",
+   "does": "A library for debugging/inspecting machine learning classifiers and explaining their predictions",
+   "url": "https://github.com/TeamHG-Memex/eli5",
+   "stars": 2861,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "whylabs/whylogs",
+   "does": "An open-source data logging library for machine learning models and data pipelines. \ud83d\udcda Provides visibility into data quality & model performance over time. \ud83d\udee1\ufe0f Su",
+   "url": "https://github.com/whylabs/whylogs",
+   "stars": 2838,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "microsoft/DirectML",
+   "does": "\u26a0\ufe0fDirectML is in maintenance mode \u26a0\ufe0f DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceler",
+   "url": "https://github.com/microsoft/DirectML",
+   "stars": 2589,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "huggingface/evaluate",
+   "does": "\ud83e\udd17 Evaluate: A library for easily evaluating machine learning models and datasets.",
+   "url": "https://github.com/huggingface/evaluate",
+   "stars": 2498,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "facebookresearch/fairchem",
+   "does": "FAIR Chemistry's library of machine learning methods for chemistry",
+   "url": "https://github.com/facebookresearch/fairchem",
+   "stars": 2375,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "salesforce/TransmogrifAI",
+   "does": "TransmogrifAI (pronounced tr\u0103ns-m\u014fg\u02c8r\u0259-f\u012b) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with m",
+   "url": "https://github.com/salesforce/TransmogrifAI",
+   "stars": 2280,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ageron/handson-mlp",
+   "does": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Fa",
+   "url": "https://github.com/ageron/handson-mlp",
+   "stars": 2279,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ermig1979/Simd",
+   "does": "C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON, SVE for ARM, HVX for Hexagon",
+   "url": "https://github.com/ermig1979/Simd",
+   "stars": 2278,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "aws/sagemaker-python-sdk",
+   "does": "A library for training and deploying machine learning models on Amazon SageMaker",
+   "url": "https://github.com/aws/sagemaker-python-sdk",
+   "stars": 2272,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "vaaaaanquish/Awesome-Rust-MachineLearning",
+   "does": "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, e",
+   "url": "https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning",
+   "stars": 2265,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ahmedfgad/GeneticAlgorithmPython",
+   "does": "Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).",
+   "url": "https://github.com/ahmedfgad/GeneticAlgorithmPython",
+   "stars": 2234,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "RubixML/ML",
+   "does": "A high-level machine learning and deep learning library for the PHP language.",
+   "url": "https://github.com/RubixML/ML",
+   "stars": 2213,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "WenjieDu/PyPOTS",
+   "does": "A Python toolkit/library for real-world machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientifi",
+   "url": "https://github.com/WenjieDu/PyPOTS",
+   "stars": 2099,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "tensorflow/privacy",
+   "does": "Library for training machine learning models with privacy for training data",
+   "url": "https://github.com/tensorflow/privacy",
+   "stars": 2042,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "uber/petastorm",
+   "does": "Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML f",
+   "url": "https://github.com/uber/petastorm",
+   "stars": 1894,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "nlpodyssey/spago",
+   "does": "Self-contained Machine Learning and Natural Language Processing library in Go",
+   "url": "https://github.com/nlpodyssey/spago",
+   "stars": 1852,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "symisc/sod",
+   "does": "An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)",
+   "url": "https://github.com/symisc/sod",
+   "stars": 1808,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "Anemll/Anemll",
+   "does": "Artificial Neural Engine Machine Learning Library",
+   "url": "https://github.com/Anemll/Anemll",
+   "stars": 1711,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ml4a/ml4a",
+   "does": "A python library and collection of notebooks for making art with machine learning.",
+   "url": "https://github.com/ml4a/ml4a",
+   "stars": 1603,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "AxeldeRomblay/MLBox",
+   "does": "MLBox is a powerful Automated Machine Learning python library.",
+   "url": "https://github.com/AxeldeRomblay/MLBox",
+   "stars": 1534,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "oracle/tribuo",
+   "does": "Tribuo - A Java machine learning library",
+   "url": "https://github.com/oracle/tribuo",
+   "stars": 1420,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "AtheMathmo/rusty-machine",
+   "does": "Machine Learning library for Rust",
+   "url": "https://github.com/AtheMathmo/rusty-machine",
+   "stars": 1263,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "AlgRUC/JittorGeometric",
+   "does": "JittorGeometric is a Jittor-based graph machine learning library.",
+   "url": "https://github.com/AlgRUC/JittorGeometric",
+   "stars": 1196,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "dmlc/mshadow",
+   "does": "Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA for (Deep) Machine Learning",
+   "url": "https://github.com/dmlc/mshadow",
+   "stars": 1119,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "stfc/qiskit-machine-learning",
+   "does": "An open-source library built on Qiskit for quantum machine learning tasks at scale on quantum hardware and classical simulators",
+   "url": "https://github.com/stfc/qiskit-machine-learning",
+   "stars": 1116,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "novak-99/MLPP",
+   "does": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
+   "url": "https://github.com/novak-99/MLPP",
+   "stars": 1106,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "LeonChaoX/qinyan-academic-skills",
+   "does": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research\u2014spanning literature discovery, scientific writing, grant dev",
+   "url": "https://github.com/LeonChaoX/qinyan-academic-skills",
+   "stars": 1073,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "mni-ml/framework",
+   "does": "A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Built to understand how ML frameworks and models work internal",
+   "url": "https://github.com/mni-ml/framework",
+   "stars": 1023,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
     "last_checked": "2026-11-26"
    },
    "found": "2026-11-26 crawler area: machine learning library"
