@@ -1,0 +1,467 @@
+{
+ "shard": "documentation-generator",
+ "nodes": [
+  {
+   "node": "docsifyjs/docsify",
+   "does": "\ud83c\udccf A magical documentation site generator.",
+   "url": "https://github.com/docsifyjs/docsify",
+   "stars": 31612,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "OpenAPITools/openapi-generator",
+   "does": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec ",
+   "url": "https://github.com/OpenAPITools/openapi-generator",
+   "stars": 26876,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "jsdoc/jsdoc",
+   "does": "An API documentation generator for JavaScript.",
+   "url": "https://github.com/jsdoc/jsdoc",
+   "stars": 15476,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "apidoc/apidoc",
+   "does": "RESTful web API Documentation Generator.",
+   "url": "https://github.com/apidoc/apidoc",
+   "stars": 9631,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "TypeStrong/typedoc",
+   "does": "Documentation generator for TypeScript projects.",
+   "url": "https://github.com/TypeStrong/typedoc",
+   "stars": 8463,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "sphinx-doc/sphinx",
+   "does": "The Sphinx documentation generator",
+   "url": "https://github.com/sphinx-doc/sphinx",
+   "stars": 8103,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "terraform-docs/terraform-docs",
+   "does": "Generate documentation from Terraform modules in various output formats",
+   "url": "https://github.com/terraform-docs/terraform-docs",
+   "stars": 4849,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "justinwalsh/daux.io",
+   "does": "Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create grea",
+   "url": "https://github.com/justinwalsh/daux.io",
+   "stars": 4512,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "phpDocumentor/phpDocumentor",
+   "does": "Documentation Generator for PHP",
+   "url": "https://github.com/phpDocumentor/phpDocumentor",
+   "stars": 4349,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "tomaz/appledoc",
+   "does": "Objective-c code Apple style documentation set generator.",
+   "url": "https://github.com/tomaz/appledoc",
+   "stars": 4177,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "compodoc/compodoc",
+   "does": ":notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application",
+   "url": "https://github.com/compodoc/compodoc",
+   "stars": 4115,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "mpociot/laravel-apidoc-generator",
+   "does": "Laravel API Documentation Generator",
+   "url": "https://github.com/mpociot/laravel-apidoc-generator",
+   "stars": 3440,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "eli64s/readme-ai",
+   "does": "README file generator, powered by AI.",
+   "url": "https://github.com/eli64s/readme-ai",
+   "stars": 3016,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "pseudomuto/protoc-gen-doc",
+   "does": "Documentation generator plugin for Google Protocol Buffers",
+   "url": "https://github.com/pseudomuto/protoc-gen-doc",
+   "stars": 2845,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "marcgibbons/django-rest-swagger",
+   "does": "Swagger Documentation Generator for Django REST Framework: deprecated",
+   "url": "https://github.com/marcgibbons/django-rest-swagger",
+   "stars": 2564,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-13",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "dedoc/scramble",
+   "does": "Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.",
+   "url": "https://github.com/dedoc/scramble",
+   "stars": 2238,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "ApiGen/ApiGen",
+   "does": "PHP 7.1 ready Smart and Simple Documentation for your PHP project",
+   "url": "https://github.com/ApiGen/ApiGen",
+   "stars": 2163,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "tj/dox",
+   "does": "JavaScript documentation generator for node using markdown and jsdoc",
+   "url": "https://github.com/tj/dox",
+   "stars": 2148,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "FriendsOfPHP/Sami",
+   "does": "An API documentation generator",
+   "url": "https://github.com/FriendsOfPHP/Sami",
+   "stars": 1958,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "jsdoc2md/jsdoc-to-markdown",
+   "does": "Generate markdown documentation from jsdoc-annotated javascript",
+   "url": "https://github.com/jsdoc2md/jsdoc-to-markdown",
+   "stars": 1758,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "hidaxia/JApiDocs",
+   "does": "A magical api documentation generator without annotation for springboot.",
+   "url": "https://github.com/hidaxia/JApiDocs",
+   "stars": 1686,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  },
+  {
+   "node": "SwiftDocOrg/swift-doc",
+   "does": "A documentation generator for Swift projects",
+   "url": "https://github.com/SwiftDocOrg/swift-doc",
+   "stars": 1680,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: documentation generator"
+  }
+ ]
+}

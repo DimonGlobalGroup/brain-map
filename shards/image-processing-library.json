@@ -1,0 +1,131 @@
+{
+ "shard": "image-processing-library",
+ "nodes": [
+  {
+   "node": "lovell/sharp",
+   "does": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+   "url": "https://github.com/lovell/sharp",
+   "stars": 32873,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "libvips/libvips",
+   "does": "A fast image processing library with low memory needs.",
+   "url": "https://github.com/libvips/libvips",
+   "stars": 11841,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "Jounce/Surge",
+   "does": "A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.",
+   "url": "https://github.com/Jounce/Surge",
+   "stars": 5323,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "cshum/imagor",
+   "does": "Fast, secure image processing server and Go library, using libvips",
+   "url": "https://github.com/cshum/imagor",
+   "stars": 4066,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "silvia-odwyer/photon",
+   "does": "\u26a1 Rust/WebAssembly image processing library",
+   "url": "https://github.com/silvia-odwyer/photon",
+   "stars": 3915,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  },
+  {
+   "node": "h2non/bimg",
+   "does": "Go package for fast high-level image processing powered by libvips C library",
+   "url": "https://github.com/h2non/bimg",
+   "stars": 3041,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: image processing library"
+  }
+ ]
+}

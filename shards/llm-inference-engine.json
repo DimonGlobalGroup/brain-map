@@ -1,0 +1,173 @@
+{
+ "shard": "llm-inference-engine",
+ "nodes": [
+  {
+   "node": "vllm-project/vllm",
+   "does": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "url": "https://github.com/vllm-project/vllm",
+   "stars": 97655,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "stas00/ml-engineering",
+   "does": "Machine Learning Engineering Open Book",
+   "url": "https://github.com/stas00/ml-engineering",
+   "stars": 19748,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "mlc-ai/web-llm",
+   "does": "High-performance In-browser LLM Inference Engine",
+   "url": "https://github.com/mlc-ai/web-llm",
+   "stars": 19412,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "alibaba/MNN",
+   "does": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+   "url": "https://github.com/alibaba/MNN",
+   "stars": 16630,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "xorbitsai/inference",
+   "does": "Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines across heterogeneous har",
+   "url": "https://github.com/xorbitsai/inference",
+   "stars": 9677,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "trymirai/uzu",
+   "does": "A high-performance inference engine for AI models",
+   "url": "https://github.com/trymirai/uzu",
+   "stars": 3383,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "spiceai/spiceai",
+   "does": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-groun",
+   "url": "https://github.com/spiceai/spiceai",
+   "stars": 3130,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  },
+  {
+   "node": "openlake-project/openlake",
+   "does": "OpenLake is a high performance storage engine for efficient LLM inference and GPU Training",
+   "url": "https://github.com/openlake-project/openlake",
+   "stars": 3083,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: llm inference engine"
+  }
+ ]
+}

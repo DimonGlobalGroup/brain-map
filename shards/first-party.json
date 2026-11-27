@@ -1,0 +1,805 @@
+{
+ "shard": "first-party",
+ "nodes": [
+  {
+   "node": "DimonGlobalGroup/shelflife",
+   "does": "A read-only, deterministic stale-file auditor in a single Python file.",
+   "url": "https://github.com/DimonGlobalGroup/shelflife",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/calferry",
+   "does": "Audit a set of iCalendar (.ics) files before you import them anywhere \u2014 read-only, stdlib-only, and the report never prints an event value.",
+   "url": "https://github.com/DimonGlobalGroup/calferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-13",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/neurogen",
+   "does": "NEUROGEN v0.3 \u2014 a verified cognitive-reasoning engine. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/neurogen",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/zipferry",
+   "does": "Audit a ZIP archive before you open it \u2014 unsafe paths, duplicates, case collisions, and expansion bombs \u2014 from metadata alone. Single-file, stdlib-only Python.",
+   "url": "https://github.com/DimonGlobalGroup/zipferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-16",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/reverb-wiki",
+   "does": "Reverb Wiki \u2014 a flat-file personal wiki that runs anywhere Python does. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/reverb-wiki",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/refcheck",
+   "does": "Verify every local reference in your Markdown tree, completely offline: relative links, images, reference-style links, and #anchors \u2014 with case-mismatch detecti",
+   "url": "https://github.com/DimonGlobalGroup/refcheck",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/snapdrift",
+   "does": "Snapshot a directory tree by content hash and report exactly what drifted: added, removed, changed, and moved files. Single-file, stdlib-only Python, offline.",
+   "url": "https://github.com/DimonGlobalGroup/snapdrift",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/rowsentry",
+   "does": "Audit a CSV/TSV file against the contract the file itself implies: ragged rows, duplicate headers and keys, type drift, parse errors. Single-file, stdlib-only, ",
+   "url": "https://github.com/DimonGlobalGroup/rowsentry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/leakhound",
+   "does": "Find leaked secrets in a file tree without ever printing them \u2014 findings carry file, line, rule, and a SHA-256 fingerprint only. Single file, zero dependencies.",
+   "url": "https://github.com/DimonGlobalGroup/leakhound",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/reverb-sitegen",
+   "does": "Reverb Sitegen \u2014 a single-file static site generator. Write Markdown, get a website. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/reverb-sitegen",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/fieldmason",
+   "does": "Audit the shape of JSON and JSON Lines record collections: parse errors, duplicate keys, and per-field type and key drift across a whole tree. Read-only, single",
+   "url": "https://github.com/DimonGlobalGroup/fieldmason",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/dgg-flagship",
+   "does": "Dimon Global Group \u2014 flagship firm site.",
+   "url": "https://github.com/DimonGlobalGroup/dgg-flagship",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-10",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/linkfray",
+   "does": "A read-only symlink chain auditor: dangling targets, loops, root escapes, absolute and messy targets \u2014 deterministic text or JSON, no fix mode, stdlib only.",
+   "url": "https://github.com/DimonGlobalGroup/linkfray",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/smart-script-remix",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/smart-script-remix",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/nameferry",
+   "does": "Audit filenames against the platform they travel to: reserved names, illegal characters, over-long paths, case and normalization collisions. One Python file, no",
+   "url": "https://github.com/DimonGlobalGroup/nameferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/brain-map",
+   "does": "The Brain Map: a public registry of tools and capabilities that any AI can read. Every node says what it does, who it knows, and how it was verified.",
+   "url": "https://github.com/DimonGlobalGroup/brain-map",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "resident",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/contextpack",
+   "does": "Pack a codebase into one AI-ready file \u2014 inline secret redaction, a hard token budget, and a hash-verified manifest. Single file, zero dependencies.",
+   "url": "https://github.com/DimonGlobalGroup/contextpack",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/dgg-founder",
+   "does": "Dimon Global Group \u2014 founder story.",
+   "url": "https://github.com/DimonGlobalGroup/dgg-founder",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-10",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/chronos-atom",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/chronos-atom",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/lan-watch",
+   "does": "LAN Watch \u2014 a passive observer for your own home network: what showed up, when, and what changed. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/lan-watch",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/markferry",
+   "does": "Audit a set of browser bookmark exports before you import them - read-only, offline, and the report never prints a URL or title.",
+   "url": "https://github.com/DimonGlobalGroup/markferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-14",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/glyphaudit",
+   "does": "A read-only, deterministic text-file encoding and hygiene auditor in a single Python file \u2014 invalid UTF-8 with byte offsets, UTF-16 BOMs, control characters, li",
+   "url": "https://github.com/DimonGlobalGroup/glyphaudit",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/DimonGlobalGroup.github.io",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/DimonGlobalGroup.github.io",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-11",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/dgg-media",
+   "does": "Dimon Global Group \u2014 media hub.",
+   "url": "https://github.com/DimonGlobalGroup/dgg-media",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/DimonGlobalGroup",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/DimonGlobalGroup",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-04",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/cronstampede",
+   "does": "Audit a whole crontab file: validation, plain-English schedules, DST-correct next runs, and whole-file findings - pile-ups, impossible dates, and silent traps. ",
+   "url": "https://github.com/DimonGlobalGroup/cronstampede",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/cardferry",
+   "does": "Read-only vCard preflight gate: audit a set of .vcf files before import, with reports that never print contact values.",
+   "url": "https://github.com/DimonGlobalGroup/cardferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/slatewarden",
+   "does": "Read-only auditor for trees of SQLite databases: inventory, integrity, foreign keys, freelist waste and schema findings in one deterministic report.",
+   "url": "https://github.com/DimonGlobalGroup/slatewarden",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/hashferry",
+   "does": "Audit a file set before it travels \u2014 duplicates and case collisions \u2014 then verify it arrived unchanged. Read-only, stdlib-only Python.",
+   "url": "https://github.com/DimonGlobalGroup/hashferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-15",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/rankledger",
+   "does": "RankLedger \u2014 know where you stand in search: track rankings, get alerted when bad pages climb and good pages slip. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/rankledger",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/twintally",
+   "does": "Read-only duplicate-file accounting that is honest about hardlinks: size-first, hash-second, reclaimable bytes counted by distinct inodes. Nothing is ever delet",
+   "url": "https://github.com/DimonGlobalGroup/twintally",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-18",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/omniframe-genesis",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/omniframe-genesis",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/.github",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/.github",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-04",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/optout-ledger",
+   "does": "OptOut Ledger \u2014 track data-broker opt-outs and removals until they stick. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/optout-ledger",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/reverb-files",
+   "does": "Reverb Files \u2014 a fast terminal file manager in the spirit of the classics. Single file, no dependencies. By Dimon Global Group.",
+   "url": "https://github.com/DimonGlobalGroup/reverb-files",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-12",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/trueguise",
+   "does": "Audit a file tree for files whose bytes disagree with their names \u2014 extension mismatches and disguised executables, read-only, stdlib only.",
+   "url": "https://github.com/DimonGlobalGroup/trueguise",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/keyferry",
+   "does": "Config-key parity gate for dotenv-style files: missing, extra, duplicate and malformed keys \u2014 values are never printed.",
+   "url": "https://github.com/DimonGlobalGroup/keyferry",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-17",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/permscope",
+   "does": "A read-only, deterministic file-permission auditor in a single Python file \u2014 named rules, honest severity, no changes made.",
+   "url": "https://github.com/DimonGlobalGroup/permscope",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/medialith",
+   "does": "",
+   "url": "https://github.com/DimonGlobalGroup/medialith",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-02",
+    "last_checked": "2026-11-26"
+   }
+  },
+  {
+   "node": "DimonGlobalGroup/versionvigil",
+   "does": "A structural gate for CHANGELOG-style files: semver order, date order, duplicates and empty sections, checked read-only with a CI exit code.",
+   "url": "https://github.com/DimonGlobalGroup/versionvigil",
+   "stars": 0,
+   "license": null,
+   "trust": "first-party",
+   "bench": {
+    "status": "queued"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   }
+  }
+ ]
+}

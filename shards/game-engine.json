@@ -1,0 +1,530 @@
+{
+ "shard": "game-engine",
+ "nodes": [
+  {
+   "node": "godotengine/godot",
+   "does": "Godot Engine \u2013 Multi-platform 2D and 3D game engine",
+   "url": "https://github.com/godotengine/godot",
+   "stars": 120896,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "bevyengine/bevy",
+   "does": "A refreshingly simple data-driven game engine built in Rust",
+   "url": "https://github.com/bevyengine/bevy",
+   "stars": 50039,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "pixijs/pixijs",
+   "does": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+   "url": "https://github.com/pixijs/pixijs",
+   "stars": 48915,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "4ian/GDevelop",
+   "does": "\ud83c\udfae Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+   "url": "https://github.com/4ian/GDevelop",
+   "stars": 29351,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "Dujltqzv/Some-Many-Books",
+   "does": "\u4e2a\u4eba\u6536\u85cf\u4e66\u7c4d\u5217\u8868\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000",
+   "url": "https://github.com/Dujltqzv/Some-Many-Books",
+   "stars": 26609,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "BabylonJS/Babylon.js",
+   "does": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+   "url": "https://github.com/BabylonJS/Babylon.js",
+   "stars": 26457,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "leereilly/games",
+   "does": "Archived \u2014 A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+   "url": "https://github.com/leereilly/games",
+   "stars": 25020,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "kitao/pyxel",
+   "does": "A retro game engine for Python",
+   "url": "https://github.com/kitao/pyxel",
+   "stars": 18672,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "OpenRA/OpenRA",
+   "does": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Li",
+   "url": "https://github.com/OpenRA/OpenRA",
+   "stars": 17843,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "SFTtech/openage",
+   "does": "Clone of the Age of Empires II engine \ud83d\ude80",
+   "url": "https://github.com/SFTtech/openage",
+   "stars": 14645,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "hajimehoshi/ebiten",
+   "does": "A dead simple 2D game engine for Go",
+   "url": "https://github.com/hajimehoshi/ebiten",
+   "stars": 13659,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "gamedev-skills/awesome-gamedev-agent-skills",
+   "does": "Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real",
+   "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+   "stars": 11522,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "OpenDiablo2/OpenDiablo2",
+   "does": "An open source re-implementation of Diablo 2",
+   "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+   "stars": 11111,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "flame-engine/flame",
+   "does": "A Flutter based game engine.",
+   "url": "https://github.com/flame-engine/flame",
+   "stars": 10826,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "cocos/cocos-engine",
+   "does": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create",
+   "url": "https://github.com/cocos/cocos-engine",
+   "stars": 9950,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "FyroxEngine/Fyrox",
+   "does": "3D and 2D game engine written in Rust",
+   "url": "https://github.com/FyroxEngine/Fyrox",
+   "stars": 9705,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "amethyst/amethyst",
+   "does": "Data-oriented and data-driven game engine written in Rust",
+   "url": "https://github.com/amethyst/amethyst",
+   "stars": 8035,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "stride3d/stride",
+   "does": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+   "url": "https://github.com/stride3d/stride",
+   "stars": 7971,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "htdt/godogen",
+   "does": "Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well",
+   "url": "https://github.com/htdt/godogen",
+   "stars": 7427,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "Kavex/GameDev-Resources",
+   "does": ":video_game: :game_die: A wonderful list of Game Development resources.",
+   "url": "https://github.com/Kavex/GameDev-Resources",
+   "stars": 7226,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "FlaxEngine/FlaxEngine",
+   "does": "Flax Engine \u2013 multi-platform 3D game engine",
+   "url": "https://github.com/FlaxEngine/FlaxEngine",
+   "stars": 7131,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "EllanJiang/GameFramework",
+   "does": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardi",
+   "url": "https://github.com/EllanJiang/GameFramework",
+   "stars": 6938,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "OpenMW/openmw",
+   "does": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/op",
+   "url": "https://github.com/OpenMW/openmw",
+   "stars": 6787,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "Coding-Solo/godot-mcp",
+   "does": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
+   "url": "https://github.com/Coding-Solo/godot-mcp",
+   "stars": 6777,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  },
+  {
+   "node": "BoomingTech/Piccolo",
+   "does": "Piccolo (formerly Pilot) \u2013 mini game engine for games104",
+   "url": "https://github.com/BoomingTech/Piccolo",
+   "stars": 6765,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: game engine"
+  }
+ ]
+}

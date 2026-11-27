@@ -1,0 +1,383 @@
+{
+ "shard": "machine-learning-library",
+ "nodes": [
+  {
+   "node": "josephmisiti/awesome-machine-learning",
+   "does": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+   "url": "https://github.com/josephmisiti/awesome-machine-learning",
+   "stars": 74920,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "lukasmasuch/best-of-ml-python",
+   "does": "\ud83c\udfc6 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+   "url": "https://github.com/lukasmasuch/best-of-ml-python",
+   "stars": 23884,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "EthicalML/awesome-production-machine-learning",
+   "does": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+   "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+   "stars": 21127,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ggml-org/ggml",
+   "does": "Tensor library for machine learning",
+   "url": "https://github.com/ggml-org/ggml",
+   "stars": 16224,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "cleanlab/cleanlab",
+   "does": "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+   "url": "https://github.com/cleanlab/cleanlab",
+   "stars": 11762,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "anbeime/skill",
+   "does": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The most comprehensive and frequently updated ",
+   "url": "https://github.com/anbeime/skill",
+   "stars": 9940,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "catboost/catboost",
+   "does": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks fo",
+   "url": "https://github.com/catboost/catboost",
+   "stars": 9220,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "firmai/industry-machine-learning",
+   "does": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+   "url": "https://github.com/firmai/industry-machine-learning",
+   "stars": 7493,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "guess-js/guess",
+   "does": "\ud83d\udd2e Libraries & tools for enabling Machine Learning driven user-experiences on the web",
+   "url": "https://github.com/guess-js/guess",
+   "stars": 7117,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "ml5js/ml5-library",
+   "does": "Friendly machine learning for the web! \ud83e\udd16",
+   "url": "https://github.com/ml5js/ml5-library",
+   "stars": 6584,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "timeseriesAI/tsai",
+   "does": "Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch ",
+   "url": "https://github.com/timeseriesAI/tsai",
+   "stars": 6153,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "Swift-AI/Swift-AI",
+   "does": "The Swift machine learning library.",
+   "url": "https://github.com/Swift-AI/Swift-AI",
+   "stars": 6029,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "gorgonia/gorgonia",
+   "does": "Gorgonia is a library that helps facilitate machine learning in Go.",
+   "url": "https://github.com/gorgonia/gorgonia",
+   "stars": 5926,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "mlpack/mlpack",
+   "does": "mlpack: a fast, header-only C++ machine learning library",
+   "url": "https://github.com/mlpack/mlpack",
+   "stars": 5731,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "flashlight/flashlight",
+   "does": "A C++ standalone library for machine learning",
+   "url": "https://github.com/flashlight/flashlight",
+   "stars": 5479,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "microsoft/SynapseML",
+   "does": "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark",
+   "url": "https://github.com/microsoft/SynapseML",
+   "stars": 5260,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "rasbt/mlxtend",
+   "does": "A library of extension and helper modules for Python's data analysis and machine learning libraries.",
+   "url": "https://github.com/rasbt/mlxtend",
+   "stars": 5195,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  },
+  {
+   "node": "mdbloice/Augmentor",
+   "does": "Image augmentation library in Python for machine learning.",
+   "url": "https://github.com/mdbloice/Augmentor",
+   "stars": 5129,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: machine learning library"
+  }
+ ]
+}

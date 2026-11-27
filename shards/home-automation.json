@@ -1,0 +1,299 @@
+{
+ "shard": "home-automation",
+ "nodes": [
+  {
+   "node": "home-assistant/core",
+   "does": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+   "url": "https://github.com/home-assistant/core",
+   "stars": 92584,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "mikeroyal/Self-Hosting-Guide",
+   "does": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. In",
+   "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+   "stars": 23672,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "renovatebot/renovate",
+   "does": "Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+   "url": "https://github.com/renovatebot/renovate",
+   "stars": 23281,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "esphome/esphome",
+   "does": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation ",
+   "url": "https://github.com/esphome/esphome",
+   "stars": 12182,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "CCOSTAN/Home-AssistantConfig",
+   "does": ":house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FRE",
+   "url": "https://github.com/CCOSTAN/Home-AssistantConfig",
+   "stars": 5334,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "kalkih/mini-graph-card",
+   "does": "Minimalistic graph card for Home Assistant Lovelace UI",
+   "url": "https://github.com/kalkih/mini-graph-card",
+   "stars": 3922,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "domoticz/domoticz",
+   "does": "Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.",
+   "url": "https://github.com/domoticz/domoticz",
+   "stars": 3844,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "basnijholt/adaptive-lighting",
+   "does": "Adaptive Lighting custom component for Home Assistant",
+   "url": "https://github.com/basnijholt/adaptive-lighting",
+   "stars": 3601,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "deepsyx/home-automation",
+   "does": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
+   "url": "https://github.com/deepsyx/home-automation",
+   "stars": 3376,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "GladysAssistant/Gladys",
+   "does": "A privacy-first, open-source home assistant",
+   "url": "https://github.com/GladysAssistant/Gladys",
+   "stars": 3284,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "xoseperez/espurna",
+   "does": "Home automation firmware for ESP8266-based devices",
+   "url": "https://github.com/xoseperez/espurna",
+   "stars": 3057,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "home-assistant/apps",
+   "does": ":toolbox: The official Apps repository for Home Assistant",
+   "url": "https://github.com/home-assistant/apps",
+   "stars": 2279,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "opennaslab/kubespider",
+   "does": "A global resource download orchestration system, build your home download center.",
+   "url": "https://github.com/opennaslab/kubespider",
+   "stars": 2188,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  },
+  {
+   "node": "frenck/home-assistant-config",
+   "does": ":house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!",
+   "url": "https://github.com/frenck/home-assistant-config",
+   "stars": 2046,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: home automation"
+  }
+ ]
+}
