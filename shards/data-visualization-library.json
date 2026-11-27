@@ -1,5 +1,63 @@
 {
  "shard": "data-visualization-library",
+ "slim": [
+  {
+   "n": "apache/echarts",
+   "t": "discovered",
+   "s": 67808,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "isl-org/Open3D",
+   "t": "discovered",
+   "s": 14258,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "alibaba/BizCharts",
+   "t": "discovered",
+   "s": 6179,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "alandefreitas/matplotplusplus",
+   "t": "discovered",
+   "s": 4949,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "plotters-rs/plotters",
+   "t": "discovered",
+   "s": 4653,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "hal9ai/awesome-dataviz",
+   "t": "discovered",
+   "s": 4471,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "XCharts-Team/XCharts",
+   "t": "discovered",
+   "s": 3802,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  },
+  {
+   "n": "spotify/chartify",
+   "t": "discovered",
+   "s": 3653,
+   "w": "answering",
+   "sh": "data-visualization-library"
+  }
+ ],
  "nodes": [
   {
    "node": "apache/echarts",
