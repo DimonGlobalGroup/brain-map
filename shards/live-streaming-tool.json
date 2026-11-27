@@ -1,0 +1,91 @@
+{
+ "shard": "live-streaming-tool",
+ "slim": [
+  {
+   "n": "ihmily/StreamCap",
+   "t": "discovered",
+   "s": 4477,
+   "w": "answering",
+   "sh": "live-streaming-tool"
+  },
+  {
+   "n": "tl-open-source/tl-rtc-file",
+   "t": "discovered",
+   "s": 2618,
+   "w": "answering",
+   "sh": "live-streaming-tool"
+  },
+  {
+   "n": "stream-rec/stream-rec",
+   "t": "discovered",
+   "s": 1188,
+   "w": "answering",
+   "sh": "live-streaming-tool"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "ihmily/StreamCap",
+   "does": "Multi-Platform Live Stream Automatic Recording Tool | \u591a\u5e73\u53f0\u76f4\u64ad\u6d41\u81ea\u52a8\u5f55\u5236\u5ba2\u6237\u7aef \u00b7 \u57fa\u4e8eFFmpeg \u00b7 \u652f\u6301\u76d1\u63a7/\u5b9a\u65f6/\u8f6c\u7801",
+   "url": "https://github.com/ihmily/StreamCap",
+   "stars": 4477,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: live streaming tool"
+  },
+  {
+   "node": "tl-open-source/tl-rtc-file",
+   "does": "WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.",
+   "url": "https://github.com/tl-open-source/tl-rtc-file",
+   "stars": 2618,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: live streaming tool"
+  },
+  {
+   "node": "stream-rec/stream-rec",
+   "does": "Automatic streaming record tool.  Live stream and bullet comments recorder. \u864e\u7259/\u6296\u97f3/\u6597\u9c7c/Twitch/PandaTV/\u5fae\u535a\u76f4\u64ad\uff0c\u5f39\u5e55\u81ea\u52a8\u5f55\u5236",
+   "url": "https://github.com/stream-rec/stream-rec",
+   "stars": 1188,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: live streaming tool"
+  }
+ ]
+}

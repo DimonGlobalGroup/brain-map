@@ -1,5 +1,49 @@
 {
  "shard": "image-processing-library",
+ "slim": [
+  {
+   "n": "lovell/sharp",
+   "t": "discovered",
+   "s": 32873,
+   "w": "answering",
+   "sh": "image-processing-library"
+  },
+  {
+   "n": "libvips/libvips",
+   "t": "discovered",
+   "s": 11841,
+   "w": "answering",
+   "sh": "image-processing-library"
+  },
+  {
+   "n": "Jounce/Surge",
+   "t": "discovered",
+   "s": 5323,
+   "w": "answering",
+   "sh": "image-processing-library"
+  },
+  {
+   "n": "cshum/imagor",
+   "t": "discovered",
+   "s": 4066,
+   "w": "answering",
+   "sh": "image-processing-library"
+  },
+  {
+   "n": "silvia-odwyer/photon",
+   "t": "discovered",
+   "s": 3915,
+   "w": "answering",
+   "sh": "image-processing-library"
+  },
+  {
+   "n": "h2non/bimg",
+   "t": "discovered",
+   "s": 3041,
+   "w": "answering",
+   "sh": "image-processing-library"
+  }
+ ],
  "nodes": [
   {
    "node": "lovell/sharp",

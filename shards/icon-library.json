@@ -1,0 +1,231 @@
+{
+ "shard": "icon-library",
+ "slim": [
+  {
+   "n": "lucide-icons/lucide",
+   "t": "discovered",
+   "s": 26027,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "twbs/icons",
+   "t": "discovered",
+   "s": 8194,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "iconoir-icons/iconoir",
+   "t": "discovered",
+   "s": 4698,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "getlantern/systray",
+   "t": "discovered",
+   "s": 3731,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "glincker/thesvg",
+   "t": "discovered",
+   "s": 3052,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "PrideChung/FontAwesomeKit",
+   "t": "discovered",
+   "s": 2795,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "alexk111/SVG-Morpheus",
+   "t": "discovered",
+   "s": 2691,
+   "w": "answering",
+   "sh": "icon-library"
+  },
+  {
+   "n": "code-mc/material-icon-lib",
+   "t": "discovered",
+   "s": 2245,
+   "w": "answering",
+   "sh": "icon-library"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "lucide-icons/lucide",
+   "does": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and",
+   "url": "https://github.com/lucide-icons/lucide",
+   "stars": 26027,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "twbs/icons",
+   "does": "Official open source SVG icon library for Bootstrap.",
+   "url": "https://github.com/twbs/icons",
+   "stars": 8194,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "iconoir-icons/iconoir",
+   "does": "Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.",
+   "url": "https://github.com/iconoir-icons/iconoir",
+   "stars": 4698,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "getlantern/systray",
+   "does": "a cross platfrom Go library to place an icon and menu in the notification area",
+   "url": "https://github.com/getlantern/systray",
+   "stars": 3731,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "glincker/thesvg",
+   "does": "The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figm",
+   "url": "https://github.com/glincker/thesvg",
+   "stars": 3052,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "PrideChung/FontAwesomeKit",
+   "does": "Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.",
+   "url": "https://github.com/PrideChung/FontAwesomeKit",
+   "stars": 2795,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-14",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "alexk111/SVG-Morpheus",
+   "does": "JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions. (THIS PROJECT IS NOT MAINT",
+   "url": "https://github.com/alexk111/SVG-Morpheus",
+   "stars": 2691,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  },
+  {
+   "node": "code-mc/material-icon-lib",
+   "does": "Library containing over 2000 material vector icons that can be easily used as Drawable or as a standalone View.",
+   "url": "https://github.com/code-mc/material-icon-lib",
+   "stars": 2245,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: icon library"
+  }
+ ]
+}
