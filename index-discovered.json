@@ -1,0 +1,472 @@
+{
+ "brainmap_discovered": 0,
+ "generated": "2026-11-26",
+ "note": "Outward seed sweep v0: other people's repos found from the founding nodes' capability areas. CLAIM tier only: listed, not verified, never executed until benched. The Phase 2 crawler grows and re-checks this file.",
+ "nodes": [
+  {
+   "node": "n8n-io/n8n",
+   "does": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "url": "https://github.com/n8n-io/n8n",
+   "stars": 212338,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "langgenius/dify",
+   "does": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move ",
+   "url": "https://github.com/langgenius/dify",
+   "stars": 161967,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "ComposioHQ/awesome-claude-skills",
+   "does": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "stars": 80399,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "apache/airflow",
+   "does": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "url": "https://github.com/apache/airflow",
+   "stars": 47699,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "kestra-io/kestra",
+   "does": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML,",
+   "url": "https://github.com/kestra-io/kestra",
+   "stars": 30378,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "simstudioai/sim",
+   "does": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+   "url": "https://github.com/simstudioai/sim",
+   "stars": 30221,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "obra/superpowers",
+   "does": "An agentic skills framework & software development methodology that works.",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 327575,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "langchain-ai/langchain",
+   "does": "The agent engineering platform.",
+   "url": "https://github.com/langchain-ai/langchain",
+   "stars": 150046,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "FoundationAgents/MetaGPT",
+   "does": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "stars": 71494,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "microsoft/autogen",
+   "does": "A programming framework for agentic AI",
+   "url": "https://github.com/microsoft/autogen",
+   "stars": 61971,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "crewAIInc/crewAI",
+   "does": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tac",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "stars": 61311,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "AstrBotDevs/AstrBot",
+   "does": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "stars": 47603,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "wanshuiyin/Auto-claude-code-research-in-sleep",
+   "does": "ARIS \u2694\ufe0f (Auto-Research-In-Sleep) \u2014 Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automat",
+   "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+   "stars": 19964,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "danger/danger",
+   "does": "\ud83d\udeab Stop saying \"you forgot to \u2026\" in code review (in Ruby)",
+   "url": "https://github.com/danger/danger",
+   "stars": 5695,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "darrenhinde/OpenAgentsControl",
+   "does": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic test",
+   "url": "https://github.com/darrenhinde/OpenAgentsControl",
+   "stars": 4993,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "QuestPDF/QuestPDF",
+   "does": "QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a ",
+   "url": "https://github.com/QuestPDF/QuestPDF",
+   "stars": 14235,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "foliojs/pdfkit",
+   "does": "A JavaScript PDF generation library for Node and the browser",
+   "url": "https://github.com/foliojs/pdfkit",
+   "stars": 10739,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "Hopding/pdf-lib",
+   "does": "Create and modify PDF documents in any JavaScript environment",
+   "url": "https://github.com/Hopding/pdf-lib",
+   "stars": 8699,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "pdfme/pdfme",
+   "does": "Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Crea",
+   "url": "https://github.com/pdfme/pdfme",
+   "stars": 5097,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "jekyll/jekyll",
+   "does": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+   "url": "https://github.com/jekyll/jekyll",
+   "stars": 51801,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "vuejs/vuepress",
+   "does": "\ud83d\udcdd Minimalistic Vue-powered static site generator",
+   "url": "https://github.com/vuejs/vuepress",
+   "stars": 22714,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "decaporg/decap-cms",
+   "does": "A Git-based CMS for static site generators (formerly Netlify CMS)",
+   "url": "https://github.com/decaporg/decap-cms",
+   "stars": 19506,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "vuejs/vitepress",
+   "does": "Vite & Vue powered static site generator.",
+   "url": "https://github.com/vuejs/vitepress",
+   "stars": 18530,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "getzola/zola",
+   "does": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+   "url": "https://github.com/getzola/zola",
+   "stars": 17624,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "jackyzha0/quartz",
+   "does": "\ud83c\udf31 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+   "url": "https://github.com/jackyzha0/quartz",
+   "stars": 13634,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "vercel-labs/agent-browser",
+   "does": "Browser automation CLI for AI agents",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "stars": 54178,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "lightpanda-io/browser",
+   "does": "Lightpanda: the headless browser designed for AI and automation",
+   "url": "https://github.com/lightpanda-io/browser",
+   "stars": 42627,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "SeleniumHQ/selenium",
+   "does": "A browser automation framework and ecosystem.",
+   "url": "https://github.com/SeleniumHQ/selenium",
+   "stars": 34616,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "ariya/phantomjs",
+   "does": "Scriptable Headless Browser",
+   "url": "https://github.com/ariya/phantomjs",
+   "stars": 29408,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "apify/crawlee",
+   "does": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or G",
+   "url": "https://github.com/apify/crawlee",
+   "stars": 26595,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  },
+  {
+   "node": "citrolabs/ego-lite",
+   "does": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, with",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "stars": 24694,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "found": "2026-11-26 outward seed sweep from the founding nodes"
+  }
+ ]
+}
