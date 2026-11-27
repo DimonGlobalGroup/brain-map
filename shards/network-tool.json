@@ -1,0 +1,2583 @@
+{
+ "shard": "network-tool",
+ "slim": [
+  {
+   "n": "iovisor/bcc",
+   "t": "discovered",
+   "s": 22768,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "slackhq/nebula",
+   "t": "discovered",
+   "s": 18572,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "txthinking/brook",
+   "t": "discovered",
+   "s": 15203,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "antoniaci/blackbird",
+   "t": "discovered",
+   "s": 10290,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "henrypp/simplewall",
+   "t": "discovered",
+   "s": 9378,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "BornToBeRoot/NETworkManager",
+   "t": "discovered",
+   "s": 9002,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "esnet/iperf",
+   "t": "discovered",
+   "s": 8905,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "clips/pattern",
+   "t": "discovered",
+   "s": 8856,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "fujiapple852/trippy",
+   "t": "discovered",
+   "s": 8211,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "anthropics/sandbox-runtime",
+   "t": "discovered",
+   "s": 7291,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "AutoRecon/AutoRecon",
+   "t": "discovered",
+   "s": 6157,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Pennyw0rth/NetExec",
+   "t": "discovered",
+   "s": 6060,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "sammwyy/MikuMikuBeam",
+   "t": "discovered",
+   "s": 5881,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "microsoft/ethr",
+   "t": "discovered",
+   "s": 5872,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "square/PonyDebugger",
+   "t": "discovered",
+   "s": 5846,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "baidu/dperf",
+   "t": "discovered",
+   "s": 5665,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+   "t": "discovered",
+   "s": 5424,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "digitalbazaar/forge",
+   "t": "discovered",
+   "s": 5356,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "interplains/Zero-Breach-Toolkit",
+   "t": "discovered",
+   "s": 5344,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "hengyoush/kyanos",
+   "t": "discovered",
+   "s": 5084,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "blockscout/blockscout",
+   "t": "discovered",
+   "s": 4784,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "tensorflow/lucid",
+   "t": "discovered",
+   "s": 4702,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "networkupstools/nut",
+   "t": "discovered",
+   "s": 4516,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Archeb/opentrace",
+   "t": "discovered",
+   "s": 4509,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "yagiz/Bagel",
+   "t": "discovered",
+   "s": 4425,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "lucidrains/deep-daze",
+   "t": "discovered",
+   "s": 4313,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "facebookarchive/augmented-traffic-control",
+   "t": "discovered",
+   "s": 4312,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "eclipse-sumo/sumo",
+   "t": "discovered",
+   "s": 4294,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "jpetazzo/pipework",
+   "t": "discovered",
+   "s": 4249,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "ivre/ivre",
+   "t": "discovered",
+   "s": 4234,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "CocoaDebug/CocoaDebug",
+   "t": "discovered",
+   "s": 4137,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "rawfilejson/awesome-osint-arsenal",
+   "t": "discovered",
+   "s": 4060,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "openspeedtest/Speed-Test",
+   "t": "discovered",
+   "s": 3878,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "caesar0301/awesome-pcaptools",
+   "t": "discovered",
+   "s": 3447,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "odedshimon/BruteShark",
+   "t": "discovered",
+   "s": 3435,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "traviscross/mtr",
+   "t": "discovered",
+   "s": 3394,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "dafthack/MailSniper",
+   "t": "discovered",
+   "s": 3299,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "microsoft/retina",
+   "t": "discovered",
+   "s": 3191,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "alexei-led/pumba",
+   "t": "discovered",
+   "s": 3187,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "risinek/esp32-wifi-penetration-tool",
+   "t": "discovered",
+   "s": 3177,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "v0id4real/Void-Tools",
+   "t": "discovered",
+   "s": 3172,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Tencent/behaviac",
+   "t": "discovered",
+   "s": 3051,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "NewEraCracker/LOIC",
+   "t": "discovered",
+   "s": 2965,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "7h30th3r0n3/Evil-M5Project",
+   "t": "discovered",
+   "s": 2959,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "google/nogotofail",
+   "t": "discovered",
+   "s": 2946,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "lissy93/networking-toolbox",
+   "t": "discovered",
+   "s": 2740,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "mehrdadrad/mylg",
+   "t": "discovered",
+   "s": 2717,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "pod4g/hiper",
+   "t": "discovered",
+   "s": 2712,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "zhboner/realm",
+   "t": "discovered",
+   "s": 2679,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "mesquidar/ForensicsTools",
+   "t": "discovered",
+   "s": 2641,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "cisagov/Malcolm",
+   "t": "discovered",
+   "s": 2620,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "pressly/sup",
+   "t": "discovered",
+   "s": 2510,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "p1neappleXpress/OpenFlux",
+   "t": "discovered",
+   "s": 2487,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "ramonvermeulen/whosthere",
+   "t": "discovered",
+   "s": 2478,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "AI-Efficiency/Awesome-Model-Quantization",
+   "t": "discovered",
+   "s": 2474,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "evilsocket/xray",
+   "t": "discovered",
+   "s": 2344,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Achno/gowall",
+   "t": "discovered",
+   "s": 2335,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "sonosaurus/sonobus",
+   "t": "discovered",
+   "s": 2252,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "mandiant/flare-fakenet-ng",
+   "t": "discovered",
+   "s": 2230,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "NixOS/nixops",
+   "t": "discovered",
+   "s": 2218,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "ckjbug/Hacking",
+   "t": "discovered",
+   "s": 2198,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "cifertech/nRFBox",
+   "t": "discovered",
+   "s": 2159,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "jtsylve/LiME",
+   "t": "discovered",
+   "s": 2064,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "bitbrute/evillimiter",
+   "t": "discovered",
+   "s": 2036,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Devi766/Diodos-Android",
+   "t": "discovered",
+   "s": 2011,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Dyneteq/reconya",
+   "t": "discovered",
+   "s": 1940,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Chleba/netscanner",
+   "t": "discovered",
+   "s": 1906,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "srixivas/PcapXray",
+   "t": "discovered",
+   "s": 1894,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "OpenPPL/ppq",
+   "t": "discovered",
+   "s": 1827,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "jasonacox/tinytuya",
+   "t": "discovered",
+   "s": 1814,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "AHEKOT/ComfyUI_VNCCS",
+   "t": "discovered",
+   "s": 1809,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "CalculatedContent/WeightWatcher",
+   "t": "discovered",
+   "s": 1787,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "remirobert/Dotzu",
+   "t": "discovered",
+   "s": 1780,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Brandawg93/PeaNUT",
+   "t": "discovered",
+   "s": 1745,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "antirez/hping",
+   "t": "discovered",
+   "s": 1734,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "C0nw0nk/Nginx-Lua-Anti-DDoS",
+   "t": "discovered",
+   "s": 1678,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "securesocketfunneling/ssf",
+   "t": "discovered",
+   "s": 1674,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "SECFORCE/sparta",
+   "t": "discovered",
+   "s": 1669,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "hybridgroup/go-haystack",
+   "t": "discovered",
+   "s": 1548,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "poloclub/ganlab",
+   "t": "discovered",
+   "s": 1543,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "batfish/batfish",
+   "t": "discovered",
+   "s": 1543,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "hatRiot/zarp",
+   "t": "discovered",
+   "s": 1510,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "ilektrojohn/creepy",
+   "t": "discovered",
+   "s": 1507,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "meitu/MTHawkeye",
+   "t": "discovered",
+   "s": 1506,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "stealthcopter/AndroidNetworkTools",
+   "t": "discovered",
+   "s": 1498,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Time-Appliances-Project/Time-Card",
+   "t": "discovered",
+   "s": 1491,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "autobrr/netronome",
+   "t": "discovered",
+   "s": 1464,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "Devi766/Diodos",
+   "t": "discovered",
+   "s": 1439,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "advboxes/AdvBox",
+   "t": "discovered",
+   "s": 1405,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "screetsec/Dracnmap",
+   "t": "discovered",
+   "s": 1391,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "jonluca/anubis",
+   "t": "discovered",
+   "s": 1384,
+   "w": "answering",
+   "sh": "network-tool"
+  },
+  {
+   "n": "appneta/tcpreplay",
+   "t": "discovered",
+   "s": 1355,
+   "w": "answering",
+   "sh": "network-tool"
+  }
+ ],
+ "nodes": [
+  {
+   "node": "iovisor/bcc",
+   "does": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+   "url": "https://github.com/iovisor/bcc",
+   "stars": 22768,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "slackhq/nebula",
+   "does": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+   "url": "https://github.com/slackhq/nebula",
+   "stars": 18572,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "txthinking/brook",
+   "does": "A cross-platform programmable network tool",
+   "url": "https://github.com/txthinking/brook",
+   "stars": 15203,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "antoniaci/blackbird",
+   "does": "An OSINT tool to search for accounts by username and email in social networks.",
+   "url": "https://github.com/antoniaci/blackbird",
+   "stars": 10290,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "henrypp/simplewall",
+   "does": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+   "url": "https://github.com/henrypp/simplewall",
+   "stars": 9378,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "BornToBeRoot/NETworkManager",
+   "does": "A powerful open-source tool for managing networks and troubleshooting network problems!",
+   "url": "https://github.com/BornToBeRoot/NETworkManager",
+   "stars": 9002,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "esnet/iperf",
+   "does": "iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",
+   "url": "https://github.com/esnet/iperf",
+   "stars": 8905,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "clips/pattern",
+   "does": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+   "url": "https://github.com/clips/pattern",
+   "stars": 8856,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "fujiapple852/trippy",
+   "does": "A network diagnostic tool",
+   "url": "https://github.com/fujiapple852/trippy",
+   "stars": 8211,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "anthropics/sandbox-runtime",
+   "does": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+   "url": "https://github.com/anthropics/sandbox-runtime",
+   "stars": 7291,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "AutoRecon/AutoRecon",
+   "does": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
+   "url": "https://github.com/AutoRecon/AutoRecon",
+   "stars": 6157,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Pennyw0rth/NetExec",
+   "does": "The Network Execution Tool",
+   "url": "https://github.com/Pennyw0rth/NetExec",
+   "stars": 6060,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "sammwyy/MikuMikuBeam",
+   "does": "An open-source network stresser tool but it's Hatsune Miku",
+   "url": "https://github.com/sammwyy/MikuMikuBeam",
+   "stars": 5881,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "microsoft/ethr",
+   "does": "Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.",
+   "url": "https://github.com/microsoft/ethr",
+   "stars": 5872,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "square/PonyDebugger",
+   "does": "Remote network and data debugging for your native iOS app using Chrome Developer Tools",
+   "url": "https://github.com/square/PonyDebugger",
+   "stars": 5846,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "baidu/dperf",
+   "does": "dperf: High-Performance Network Load Testing Tool Based on DPDK",
+   "url": "https://github.com/baidu/dperf",
+   "stars": 5665,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+   "does": "Tools to Design or Visualize Architecture of Neural Network",
+   "url": "https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network",
+   "stars": 5424,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "digitalbazaar/forge",
+   "does": "A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps",
+   "url": "https://github.com/digitalbazaar/forge",
+   "stars": 5356,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "interplains/Zero-Breach-Toolkit",
+   "does": "Free, offline checks for known mercenary spyware on Windows, Mac, Linux, iPhone and Android - plus the doors left open, suspicious links, emails, files and QR c",
+   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+   "stars": 5344,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "hengyoush/kyanos",
+   "does": "Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more e",
+   "url": "https://github.com/hengyoush/kyanos",
+   "stars": 5084,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "blockscout/blockscout",
+   "does": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+   "url": "https://github.com/blockscout/blockscout",
+   "stars": 4784,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "tensorflow/lucid",
+   "does": "A collection of infrastructure and tools for research in neural network interpretability.",
+   "url": "https://github.com/tensorflow/lucid",
+   "stars": 4702,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "networkupstools/nut",
+   "does": "The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on",
+   "url": "https://github.com/networkupstools/nut",
+   "stars": 4516,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Archeb/opentrace",
+   "does": "Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.",
+   "url": "https://github.com/Archeb/opentrace",
+   "stars": 4509,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "yagiz/Bagel",
+   "does": "a little native network debugging tool for iOS",
+   "url": "https://github.com/yagiz/Bagel",
+   "stars": 4425,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "lucidrains/deep-daze",
+   "does": "Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created b",
+   "url": "https://github.com/lucidrains/deep-daze",
+   "stars": 4313,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "facebookarchive/augmented-traffic-control",
+   "does": "Augmented Traffic Control: A tool to simulate network conditions",
+   "url": "https://github.com/facebookarchive/augmented-traffic-control",
+   "stars": 4312,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "eclipse-sumo/sumo",
+   "does": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermod",
+   "url": "https://github.com/eclipse-sumo/sumo",
+   "stars": 4294,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "jpetazzo/pipework",
+   "does": "Software-Defined Networking tools for LXC (LinuX Containers)",
+   "url": "https://github.com/jpetazzo/pipework",
+   "stars": 4249,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "ivre/ivre",
+   "does": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service,",
+   "url": "https://github.com/ivre/ivre",
+   "stars": 4234,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "CocoaDebug/CocoaDebug",
+   "does": "iOS Debugging Tool \ud83d\ude80",
+   "url": "https://github.com/CocoaDebug/CocoaDebug",
+   "stars": 4137,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "rawfilejson/awesome-osint-arsenal",
+   "does": "OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+   "url": "https://github.com/rawfilejson/awesome-osint-arsenal",
+   "stars": 4060,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "openspeedtest/Speed-Test",
+   "does": "SpeedTest by OpenSpeedTest\u2122 is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs li",
+   "url": "https://github.com/openspeedtest/Speed-Test",
+   "stars": 3878,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "caesar0301/awesome-pcaptools",
+   "does": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+   "url": "https://github.com/caesar0301/awesome-pcaptools",
+   "stars": 3447,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "odedshimon/BruteShark",
+   "does": "Network Analysis Tool",
+   "url": "https://github.com/odedshimon/BruteShark",
+   "stars": 3435,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "traviscross/mtr",
+   "does": "Official repository for mtr, a network diagnostic tool",
+   "url": "https://github.com/traviscross/mtr",
+   "stars": 3394,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "dafthack/MailSniper",
+   "does": "MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network a",
+   "url": "https://github.com/dafthack/MailSniper",
+   "stars": 3299,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "microsoft/retina",
+   "does": "eBPF distributed networking observability tool for Kubernetes",
+   "url": "https://github.com/microsoft/retina",
+   "stars": 3191,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "alexei-led/pumba",
+   "does": "Chaos testing, network emulation, and stress testing tool for containers",
+   "url": "https://github.com/alexei-led/pumba",
+   "stars": 3187,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "risinek/esp32-wifi-penetration-tool",
+   "does": "Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.",
+   "url": "https://github.com/risinek/esp32-wifi-penetration-tool",
+   "stars": 3177,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "v0id4real/Void-Tools",
+   "does": "Python terminal multitool \u2014 OSINT, network utilities, Rich TUI dashboard. Educational use only.",
+   "url": "https://github.com/v0id4real/Void-Tools",
+   "stars": 3172,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Tencent/behaviac",
+   "does": "behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite s",
+   "url": "https://github.com/Tencent/behaviac",
+   "stars": 3051,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "NewEraCracker/LOIC",
+   "does": "Deprecated - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRES",
+   "url": "https://github.com/NewEraCracker/LOIC",
+   "stars": 2965,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "7h30th3r0n3/Evil-M5Project",
+   "does": "Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You c",
+   "url": "https://github.com/7h30th3r0n3/Evil-M5Project",
+   "stars": 2959,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "google/nogotofail",
+   "does": "An on-path blackbox network traffic security testing tool",
+   "url": "https://github.com/google/nogotofail",
+   "stars": 2946,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "lissy93/networking-toolbox",
+   "does": "\ud83d\udedc 100+ offline-first networking tools and utilities",
+   "url": "https://github.com/lissy93/networking-toolbox",
+   "stars": 2740,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "mehrdadrad/mylg",
+   "does": "Network Diagnostic Tool",
+   "url": "https://github.com/mehrdadrad/mylg",
+   "stars": 2717,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "pod4g/hiper",
+   "does": "\ud83d\ude80 A statistical analysis tool for performance testing",
+   "url": "https://github.com/pod4g/hiper",
+   "stars": 2712,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "zhboner/realm",
+   "does": "A network relay tool",
+   "url": "https://github.com/zhboner/realm",
+   "stars": 2679,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "mesquidar/ForensicsTools",
+   "does": "A list of free and open forensics analysis tools and other resources",
+   "url": "https://github.com/mesquidar/ForensicsTools",
+   "stars": 2641,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "cisagov/Malcolm",
+   "does": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
+   "url": "https://github.com/cisagov/Malcolm",
+   "stars": 2620,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "pressly/sup",
+   "does": "Super simple deployment tool - think of it like 'make' for a network of servers",
+   "url": "https://github.com/pressly/sup",
+   "stars": 2510,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "p1neappleXpress/OpenFlux",
+   "does": "Network stack research tool. TCP tunnel with pluggable transports.",
+   "url": "https://github.com/p1neappleXpress/OpenFlux",
+   "stars": 2487,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "ramonvermeulen/whosthere",
+   "does": "Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive w",
+   "url": "https://github.com/ramonvermeulen/whosthere",
+   "stars": 2478,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "AI-Efficiency/Awesome-Model-Quantization",
+   "does": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector",
+   "url": "https://github.com/AI-Efficiency/Awesome-Model-Quantization",
+   "stars": 2474,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "evilsocket/xray",
+   "does": "XRay is a tool for recon, mapping and OSINT gathering from public networks.",
+   "url": "https://github.com/evilsocket/xray",
+   "stars": 2344,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Achno/gowall",
+   "does": "A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with ",
+   "url": "https://github.com/Achno/gowall",
+   "stars": 2335,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "sonosaurus/sonobus",
+   "does": "Source code for SonoBus, a real-time network audio streaming collaboration tool.",
+   "url": "https://github.com/sonosaurus/sonobus",
+   "stars": 2252,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "mandiant/flare-fakenet-ng",
+   "does": "FakeNet-NG - Next Generation Dynamic Network Analysis Tool",
+   "url": "https://github.com/mandiant/flare-fakenet-ng",
+   "stars": 2230,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "NixOS/nixops",
+   "does": "NixOps is a tool for deploying to NixOS machines in a network or cloud.",
+   "url": "https://github.com/NixOS/nixops",
+   "stars": 2218,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "ckjbug/Hacking",
+   "does": "\ud83c\udf10Collate and develop network security, Hackers technical documentation and tools, code.",
+   "url": "https://github.com/ckjbug/Hacking",
+   "stars": 2198,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "cifertech/nRFBox",
+   "does": "Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks.",
+   "url": "https://github.com/cifertech/nRFBox",
+   "stars": 2159,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "jtsylve/LiME",
+   "does": "LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered",
+   "url": "https://github.com/jtsylve/LiME",
+   "stars": 2064,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "bitbrute/evillimiter",
+   "does": "Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access",
+   "url": "https://github.com/bitbrute/evillimiter",
+   "stars": 2036,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Devi766/Diodos-Android",
+   "does": "Diodos \u2014 Elegant Network Tools",
+   "url": "https://github.com/Devi766/Diodos-Android",
+   "stars": 2011,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Dyneteq/reconya",
+   "does": "Network reconnaissance and asset discovery tool",
+   "url": "https://github.com/Dyneteq/reconya",
+   "stars": 1940,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Chleba/netscanner",
+   "does": "Terminal Network scanner & diagnostic tool with modern TUI",
+   "url": "https://github.com/Chleba/netscanner",
+   "stars": 1906,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "srixivas/PcapXray",
+   "does": ":snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight importan",
+   "url": "https://github.com/srixivas/PcapXray",
+   "stars": 1894,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "OpenPPL/ppq",
+   "does": "PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.",
+   "url": "https://github.com/OpenPPL/ppq",
+   "stars": 1827,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "jasonacox/tinytuya",
+   "does": "Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).",
+   "url": "https://github.com/jasonacox/tinytuya",
+   "stars": 1814,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "AHEKOT/ComfyUI_VNCCS",
+   "does": "Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a",
+   "url": "https://github.com/AHEKOT/ComfyUI_VNCCS",
+   "stars": 1809,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "CalculatedContent/WeightWatcher",
+   "does": "The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks",
+   "url": "https://github.com/CalculatedContent/WeightWatcher",
+   "stars": 1787,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "remirobert/Dotzu",
+   "does": ":iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.",
+   "url": "https://github.com/remirobert/Dotzu",
+   "stars": 1780,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Brandawg93/PeaNUT",
+   "does": "A tiny dashboard for Network UPS Tools",
+   "url": "https://github.com/Brandawg93/PeaNUT",
+   "stars": 1745,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "antirez/hping",
+   "does": "hping network tool",
+   "url": "https://github.com/antirez/hping",
+   "stars": 1734,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "C0nw0nk/Nginx-Lua-Anti-DDoS",
+   "does": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an An",
+   "url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+   "stars": 1678,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "securesocketfunneling/ssf",
+   "does": "Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform",
+   "url": "https://github.com/securesocketfunneling/ssf",
+   "stars": 1674,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-22",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "SECFORCE/sparta",
+   "does": "Network Infrastructure Penetration Testing Tool",
+   "url": "https://github.com/SECFORCE/sparta",
+   "stars": 1669,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "hybridgroup/go-haystack",
+   "does": "Track personal Bluetooth devices via Apple's \"Find My\" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware requir",
+   "url": "https://github.com/hybridgroup/go-haystack",
+   "stars": 1548,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "poloclub/ganlab",
+   "does": "GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks",
+   "url": "https://github.com/poloclub/ganlab",
+   "stars": 1543,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-24",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "batfish/batfish",
+   "does": "Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables net",
+   "url": "https://github.com/batfish/batfish",
+   "stars": 1543,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "hatRiot/zarp",
+   "does": "Network Attack Tool",
+   "url": "https://github.com/hatRiot/zarp",
+   "stars": 1510,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "ilektrojohn/creepy",
+   "does": "A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.",
+   "url": "https://github.com/ilektrojohn/creepy",
+   "stars": 1507,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "meitu/MTHawkeye",
+   "does": "Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)",
+   "url": "https://github.com/meitu/MTHawkeye",
+   "stars": 1506,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "stealthcopter/AndroidNetworkTools",
+   "does": "Set of useful android network tools",
+   "url": "https://github.com/stealthcopter/AndroidNetworkTools",
+   "stars": 1498,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Time-Appliances-Project/Time-Card",
+   "does": "Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, ",
+   "url": "https://github.com/Time-Appliances-Project/Time-Card",
+   "stars": 1491,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "autobrr/netronome",
+   "does": "Netronome is a modern network speed testing and monitoring tool built with Go and React.",
+   "url": "https://github.com/autobrr/netronome",
+   "stars": 1464,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "Devi766/Diodos",
+   "does": "Diodos \u2014 Network Tools",
+   "url": "https://github.com/Devi766/Diodos",
+   "stars": 1439,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "advboxes/AdvBox",
+   "does": "Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle\u3001PyTorch\u3001Caffe2\u3001MxNet\u3001Keras\u3001TensorFlow and Advbox can benchmark th",
+   "url": "https://github.com/advboxes/AdvBox",
+   "stars": 1405,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "screetsec/Dracnmap",
+   "does": "Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that ",
+   "url": "https://github.com/screetsec/Dracnmap",
+   "stars": 1391,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "jonluca/anubis",
+   "does": "Subdomain enumeration tool",
+   "url": "https://github.com/jonluca/anubis",
+   "stars": 1384,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  },
+  {
+   "node": "appneta/tcpreplay",
+   "does": "Edit and replay captured network traffic at arbitrary speeds \u2014 a suite of pcap tools for *NIX and Windows.",
+   "url": "https://github.com/appneta/tcpreplay",
+   "stars": 1355,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: network tool"
+  }
+ ]
+}
