@@ -1,0 +1,89 @@
+{
+ "shard": "web-scraping-library",
+ "nodes": [
+  {
+   "node": "lorien/awesome-web-scraping",
+   "does": "List of libraries, tools and APIs for web scraping and data processing.",
+   "url": "https://github.com/lorien/awesome-web-scraping",
+   "stars": 8250,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  },
+  {
+   "node": "sparklemotion/mechanize",
+   "does": "Mechanize is a ruby library that makes automated web interaction easy.",
+   "url": "https://github.com/sparklemotion/mechanize",
+   "stars": 4442,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-23",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  },
+  {
+   "node": "dotnetcore/DotnetSpider",
+   "does": "DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework",
+   "url": "https://github.com/dotnetcore/DotnetSpider",
+   "stars": 4141,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  },
+  {
+   "node": "symfony/panther",
+   "does": "A browser testing and web crawling library for PHP and Symfony",
+   "url": "https://github.com/symfony/panther",
+   "stars": 3072,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: web scraping library"
+  }
+ ]
+}

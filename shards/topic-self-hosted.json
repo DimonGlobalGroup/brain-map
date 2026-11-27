@@ -1,0 +1,446 @@
+{
+ "shard": "topic-self-hosted",
+ "nodes": [
+  {
+   "node": "awesome-selfhosted/awesome-selfhosted",
+   "does": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "stars": 340846,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "open-webui/open-webui",
+   "does": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "url": "https://github.com/open-webui/open-webui",
+   "stars": 159648,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "immich-app/immich",
+   "does": "High performance self-hosted photo and video management solution.",
+   "url": "https://github.com/immich-app/immich",
+   "stars": 120210,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "Stirling-Tools/Stirling-PDF",
+   "does": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "stars": 97547,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "louislam/uptime-kuma",
+   "does": "A fancy self-hosted monitoring tool",
+   "url": "https://github.com/louislam/uptime-kuma",
+   "stars": 94937,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "unslothai/unsloth",
+   "does": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+   "url": "https://github.com/unslothai/unsloth",
+   "stars": 80318,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "coollabsio/coolify",
+   "does": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+",
+   "url": "https://github.com/coollabsio/coolify",
+   "stars": 66614,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "usememos/memos",
+   "does": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose w",
+   "url": "https://github.com/usememos/memos",
+   "stars": 64722,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "go-gitea/gitea",
+   "does": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry an",
+   "url": "https://github.com/go-gitea/gitea",
+   "stars": 59290,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "appwrite/appwrite",
+   "does": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "url": "https://github.com/appwrite/appwrite",
+   "stars": 58675,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "QuantumNous/new-api",
+   "does": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost account",
+   "url": "https://github.com/QuantumNous/new-api",
+   "stars": 52619,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "ClickHouse/ClickHouse",
+   "does": "ClickHouse\u00ae is a real-time analytics database management system",
+   "url": "https://github.com/ClickHouse/ClickHouse",
+   "stars": 51172,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "HKUDS/nanobot",
+   "does": "Your lightweight open-source personal agent.",
+   "url": "https://github.com/HKUDS/nanobot",
+   "stars": 50370,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "gogs/gogs",
+   "does": "The painless way to host your own Git service",
+   "url": "https://github.com/gogs/gogs",
+   "stars": 48005,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "siyuan-note/siyuan",
+   "does": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together \u5f00\u6e90\u3001\u9690\u79c1\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u77e5\u8bc6\u5de5\u4f5c\u7a7a\u95f4\uff0c\u8ba9\u4eba\u4e0e\u667a\u80fd\u4f53\u5728\u6b64\u534f\u4f5c",
+   "url": "https://github.com/siyuan-note/siyuan",
+   "stars": 47433,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "janhq/jan",
+   "does": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+   "url": "https://github.com/janhq/jan",
+   "stars": 46211,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "reactive-resume/reactive-resume",
+   "does": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+   "url": "https://github.com/reactive-resume/reactive-resume",
+   "stars": 46135,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "ToolJet/ToolJet",
+   "does": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Bu",
+   "url": "https://github.com/ToolJet/ToolJet",
+   "stars": 41310,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "photoprism/photoprism",
+   "does": "AI-Powered Photos App \ud83c\udf08\ud83d\udc8e\u2728",
+   "url": "https://github.com/photoprism/photoprism",
+   "stars": 40483,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "TriliumNext/Trilium",
+   "does": "Build your personal knowledge base with Trilium Notes",
+   "url": "https://github.com/TriliumNext/Trilium",
+   "stars": 39101,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  },
+  {
+   "node": "Dokploy/dokploy",
+   "does": "Open Source Alternative to Vercel, Netlify and Heroku.",
+   "url": "https://github.com/Dokploy/dokploy",
+   "stars": 38732,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: topic:self-hosted"
+  }
+ ]
+}

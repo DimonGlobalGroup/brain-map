@@ -1,0 +1,530 @@
+{
+ "shard": "vector-database",
+ "nodes": [
+  {
+   "node": "redis/redis",
+   "does": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do",
+   "url": "https://github.com/redis/redis",
+   "stars": 77791,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "pathwaycom/serviette",
+   "does": "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.",
+   "url": "https://github.com/pathwaycom/serviette",
+   "stars": 58674,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "milvus-io/milvus",
+   "does": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+   "url": "https://github.com/milvus-io/milvus",
+   "stars": 46748,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "pingcap/tidb",
+   "does": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data sil",
+   "url": "https://github.com/pingcap/tidb",
+   "stars": 40779,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "The-Vibe-Company/quivr",
+   "does": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, model",
+   "url": "https://github.com/The-Vibe-Company/quivr",
+   "stars": 39667,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "qdrant/qdrant",
+   "does": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdran",
+   "url": "https://github.com/qdrant/qdrant",
+   "stars": 35732,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "xerj-org/xerj",
+   "does": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, ",
+   "url": "https://github.com/xerj-org/xerj",
+   "stars": 21667,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "weaviate/weaviate",
+   "does": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with th",
+   "url": "https://github.com/weaviate/weaviate",
+   "stars": 16968,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "alibaba/zvec",
+   "does": "A lightweight, lightning-fast, in-process vector database",
+   "url": "https://github.com/alibaba/zvec",
+   "stars": 16297,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "apache/doris",
+   "does": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+   "url": "https://github.com/apache/doris",
+   "stars": 16271,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "manticoresoftware/manticoresearch",
+   "does": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+   "url": "https://github.com/manticoresoftware/manticoresearch",
+   "stars": 12105,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "oceanbase/oceanbase",
+   "does": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demanding workloads.",
+   "url": "https://github.com/oceanbase/oceanbase",
+   "stars": 10443,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "HelixDB/helix-db",
+   "does": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+   "url": "https://github.com/HelixDB/helix-db",
+   "stars": 6319,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-27",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "apache/pinot",
+   "does": "Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications",
+   "url": "https://github.com/apache/pinot",
+   "stars": 6177,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "alibaba/AliSQL",
+   "does": "AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
+   "url": "https://github.com/alibaba/AliSQL",
+   "stars": 5990,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "infiniflow/infinity",
+   "does": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+   "url": "https://github.com/infiniflow/infinity",
+   "stars": 4775,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "objectbox/objectbox-java",
+   "does": "Database for Android and JVM - first and fast, lightweight on-device vector database",
+   "url": "https://github.com/objectbox/objectbox-java",
+   "stars": 4632,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "unum-cloud/USearch",
+   "does": "One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 langua",
+   "url": "https://github.com/unum-cloud/USearch",
+   "stars": 4394,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "cozodb/cozo",
+   "does": "A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",
+   "url": "https://github.com/cozodb/cozo",
+   "stars": 4154,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-25",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "kuzudb/kuzu",
+   "does": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+   "url": "https://github.com/kuzudb/kuzu",
+   "stars": 4019,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-20",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "pashpashpash/vault-ai",
+   "does": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, e",
+   "url": "https://github.com/pashpashpash/vault-ai",
+   "stars": 3386,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "oceanbase/seekdb",
+   "does": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one datab",
+   "url": "https://github.com/oceanbase/seekdb",
+   "stars": 3263,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "hegelai/prompttools",
+   "does": "Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).",
+   "url": "https://github.com/hegelai/prompttools",
+   "stars": 3060,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-26",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "pinecone-io/examples",
+   "does": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+   "url": "https://github.com/pinecone-io/examples",
+   "stars": 3047,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-21",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  },
+  {
+   "node": "dblalock/bolt",
+   "does": "10x faster matrix and vector operations",
+   "url": "https://github.com/dblalock/bolt",
+   "stars": 2520,
+   "license": null,
+   "trust": "discovered",
+   "bench": {
+    "status": "untested"
+   },
+   "kind": "tool",
+   "access": "public",
+   "keys": "none-in-repo",
+   "watchdog": {
+    "herald": "observed",
+    "state": "answering",
+    "last_seen": "2026-11-19",
+    "last_checked": "2026-11-26"
+   },
+   "found": "2026-11-26 crawler area: vector database"
+  }
+ ]
+}
